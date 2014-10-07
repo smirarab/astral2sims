@@ -1,0 +1,27 @@
+#!/bin/bash
+
+export j="/projects/sate7/tools/bin/astral.4.6.3.jar"
+
+if [ $# -lt 2 ]; then 
+ echo "USAGE: $0 input output [extra trees]"
+ exit 1;
+fi 
+
+out=$2
+
+if [ -s $out ]; then
+  echo "Ouput files exists. Refusing to rerun. "
+  exit 0;
+fi
+
+ext=""
+if [ $# == 3 ]; then
+  ext="-e $3"
+fi
+
+java -jar $j -i $1 -o $out -p $ext 1>$out.astral.out 2>$out.astral.err
+
+test "$?" != "0" && exit 1
+
+
+echo ASTRAL Done. Output at: $out
