@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export j="/projects/sate7/tools/bin/astral.4.6.3.jar"
+export j="$WS_HOME/bin/astral.4.6.3.jar"
 
 if [ $# -lt 2 ]; then 
  echo "USAGE: $0 input output [extra trees]"
@@ -19,7 +19,7 @@ if [ $# == 3 ]; then
   ext="-e $3"
 fi
 
-java -jar $j -i $1 -o $out -p $ext 1>$out.astral.out 2>$out.astral.err
+java -jar $j -i $1 -o $out $ext 1>$out.astral.out 2>$out.astral.err
 
 test "$?" != "0" && exit 1
 
