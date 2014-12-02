@@ -1,0 +1,1530 @@
+--------------------
+Simulation settings:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: Uniform [1.000000e-06,1.000000e-06)
+		-Death rate: Fixed 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: Uniform [1.000000e+00,1.000000e+00)
+		-Stop rules:
+			-Number of leaves: Uniform [2.000000e+02,2.000000e+02)
+			-Generations: Uniform [5.000000e+05,5.000000e+05)
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: Uniform [2.000000e+05,2.000000e+05)
+	-Substitution rate: Exp (1.000000e+07)
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: LogN(1.500000e+00,1.000000e+00)
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: LogN(1.200000e+00,1.000000e+00)
+		-Gene tree branch specific rate heterogeneity gamma shape: LogN(1.400000e+00,1.000000e+00)
+	-Individuals per species: Uniform [1.000000e+00,1.000000e+00)
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: Uniform [1.000000e+03,1.000000e+03)
+	-Number of gene trees from each locus tree: 1
+	-Seed 293745.000000
+	-Output files prefix: main.500000.0.000001
+	-Verbosity: 3
+Replicate 1:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.864498e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.633616e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.458610e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.956246e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 2:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 3.678750e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 7.237212e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.746264e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.887450e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 3:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 6.065006e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.268145e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.839925e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 4.358242e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 4:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 3.891959e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.799779e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 6.977498e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 5.283346e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 5:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 4.232991e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.065456e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.783135e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.510971e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 6:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 7.975657e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.960081e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.440629e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.735423e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 7:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.885550e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.910922e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.311218e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.917628e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 8:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.202996e-10
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.788405e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.177732e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.976511e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 9:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 3.442745e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.306710e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.046645e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.713538e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 10:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 7.622050e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 6.744895e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.343618e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 9.526856e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 11:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.512155e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 7.428490e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.433593e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.552197e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 12:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.253702e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.438105e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.371376e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.494132e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 13:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 8.816164e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 9.788667e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.416603e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.935573e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 14:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.090307e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.409947e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 2.284430e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.642405e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 15:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.143012e-09
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.833415e-01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.793826e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.221933e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 16:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.515339e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.722236e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 2.603116e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.574877e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 17:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 6.474690e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 5.153036e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.721994e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 9.384731e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 18:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.539545e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 8.676845e-01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.676410e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.621690e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 19:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.208470e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 8.902866e-01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 6.089522e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.057666e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 20:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.401981e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.536000e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 8.169862e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.701187e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 21:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.904545e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 4.882712e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.767983e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.779385e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 22:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.405654e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.245612e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.615498e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.274570e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 23:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 4.193291e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 5.230852e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 8.219009e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 7.569735e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 24:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.635999e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 6.047007e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.385891e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.702259e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 25:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.958716e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.469567e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 4.685770e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 7.697400e-01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 26:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.377962e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 5.319429e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.443762e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 6.522266e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 27:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 7.918482e-09
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.661022e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 4.072166e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 2.492734e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 28:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 8.668036e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.200672e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.813509e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.995830e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 29:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.652337e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 4.890648e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.146804e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 9.813732e-01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 30:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 9.422350e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.344301e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.264984e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.809888e+01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 31:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 8.744017e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.155328e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.564692e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 4.100121e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 32:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 4.271896e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.308902e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 7.604988e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 6.347538e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 33:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.604994e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.479574e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.394632e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.916627e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 34:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.284426e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 8.037900e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.408792e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.479795e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 35:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 9.223895e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.320864e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.444017e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.576995e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 36:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.830086e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.559906e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 2.708717e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.827630e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 37:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.617712e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.756739e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.398471e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.667600e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 38:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 3.310128e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 9.151173e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.483038e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 6.128271e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 39:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.194245e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.354673e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 9.688257e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.544734e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 40:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.157192e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.418772e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.510153e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.130937e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 41:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.852752e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.351426e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 7.201220e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.241397e-01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 42:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 2.000928e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.058372e+01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 8.442728e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 3.596027e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 43:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 8.261381e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.135314e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.646489e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 4.513955e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 44:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 6.284158e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 3.788213e-01
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 5.994768e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 5.426119e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 45:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 7.942042e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.904888e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.248622e-01
+		-Gene tree branch specific rate heterogeneity gamma shape: 6.345338e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 46:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.033747e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 1.161797e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.343592e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 6.963536e-01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 47:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.198637e-07
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.582170e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 2.468864e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 6.843287e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 48:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 3.061491e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.548293e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 3.326492e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.147949e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 49:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 1.671360e-09
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.516115e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 1.129954e+01
+		-Gene tree branch specific rate heterogeneity gamma shape: 1.111739e+00
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
+Replicate 50:
+--------------------
+Trees:
+	-Species tree: Birth-death simulation
+		-Birth rate: 1.000000e-06
+		-Death rate: 0.000000e+00
+		-Outgroup addition:
+			-Internal branch length deviation from the half of the height of the ingroup: 1.000000e+00
+		-Stop rules:
+			-Number of leaves: 200.000000
+			-Generations: 5.000000e+05
+		-Time units: generations
+	-Locus tree: directly obtained from the species tree (no birth-death process)
+Parameters (multi species coalescent simulation):
+	-Haploid efective population size: 2.000000e+05
+	-Substitution rate: 9.305759e-08
+	-Substitution rate heterogeneities
+		-Lineage (species) specific rate heterogeneity gamma shape: 2.652989e+00
+		-Gene family (gene tree) specific rate heterogeneity gamma shape: 9.831702e+00
+		-Gene tree branch specific rate heterogeneity gamma shape: 9.170592e-01
+	-Individuals per species: 1.000000e+00
+Precision parameters (bounded multispecies coalescent sampling):
+	-Rooting method epsilon: 0.000001
+Replication options:
+	-Number of locus trees: 1000
+	-Number of gene trees from each locus tree: 1
+Simulation:
+-----------
+	401-node species tree correctly simulated	Generating lineage specific substutition rate heterogeneity... Done
+	Copying species tree as locus tree (there is no birth-death process)... Done
