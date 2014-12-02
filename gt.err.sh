@@ -3,9 +3,12 @@
 cd $1
 
 TGT=truegenetrees
-EST=estimatedgenetrees
+EST=estimatedgenetre
 
 test `cat gt-err.stat|wc -l` ==  `cat $TGT|wc -l` && exit 1;
+
+test -s $TGT || exit 1;
+test -s $EST || exit 1;
 
 if [ -n "`which gsplit`" ]; then
  gsplit --numeric-suffixes=1 -l1 -a4 $TGT true.gt.
@@ -20,4 +23,4 @@ for x in estimated.*; do
         echo ${x/estimated./} $fn $fp
 done |tee gt-err.stat
 
-rm estimated.????
+rm estimated.???? true.gt.????

@@ -2,6 +2,7 @@
 
 p=`pwd`;
 
-for x in */0*/; do cd $p/$x && pwd && ../../gt.err.sh; done
+for x in model.*/2*/; do cd $p/$x && pwd && /projects/sate4/smirarab/indelible//astral2sims/gt.err.sh `pwd`; done
 
-grep " " */*/gt-err.stat|sed -e "s/.gt.*:/ /g" -e "s/main.//g" -e "s/\./ /" -e "s/\// /g" -e "s/000//" -e "s/ /k /"|tee gt-err.stat
+cd $p
+grep " " */*/gt-err.stat|sed -e "s/.gt.*:/ /g" -e "s/model.//g" -e "s/\./ /" -e "s/\./ /" -e "s/\// /g" -e "s/0000 /0k /"|tee gt-err.stat

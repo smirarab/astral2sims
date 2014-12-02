@@ -1,3 +1,3 @@
 #/bin/bash
 
-export WS_HOME=/scratch/01721/smirarab/astral2/astral2sims
+export WS_HOME=/projects/sate4/smirarab/indelible/astral2sims
