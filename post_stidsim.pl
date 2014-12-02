@@ -94,13 +94,10 @@ foreach my  $dir (@dirs)
 	
 	#Inside newdir
 	chdir($dir) or die "Error changing the working dir\n";
-	
-	#Gene tree copy and modification 
-	#system("rm l_trees.trees"); #Delete the locus trees
 
 	#Sampling Species_specific parameters and writing them into the SQLite DB.
-	$shape_seqlength=gsl_ran_flat($rng->raw(),5.3,6.9); # Average length drawn from ln(5.3)=200 to ln(6.9)=1000
-	$logscale_seqlength=gsl_ran_flat($rng->raw(),0.1,0.5);
+	$shape_seqlength=gsl_ran_flat($rng->raw(),5.7,7.3); # Average length drawn from ln(5.7)=300 to ln(7.3)=1500
+	$logscale_seqlength=gsl_ran_flat($rng->raw(),0.0,0.3);
 
 
 	$SQL->do("UPDATE Species_Trees SET Shape_seqlength=$shape_seqlength WHERE SID==$sp_counter");
@@ -113,7 +110,7 @@ foreach my  $dir (@dirs)
 	@files=<g_trees*.trees>;
 	
 	$models="[TYPE] NUCLEOTIDE 1\n";
-	$settings="[SETTINGS]\n[randomseed] 2478\n";
+	$settings="[SETTINGS]\n[randomseed] 2478\n[fileperrep] FALSE";
 	$trees='';
 	$partitions='';
 	$evolves='[EVOLVE] ';
