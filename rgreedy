@@ -1,0 +1,23 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+export j="$DIR/bin/rgreedy.1.0.0.jar"
+
+if [ $# -lt 2 ]; then 
+ echo "USAGE: $0 input output"
+ exit 1;
+fi 
+
+out=$2
+
+if [ -s $out ]; then
+  echo "Ouput files exists. Refusing to rerun. "
+  exit 0;
+fi
+
+java -jar $j -i $1 -o $out 1>$out.rgreedy.out 2>$out.rgreedy.err
+
+test "$?" != "0" && exit 1
+
+
+echo Recursive Greedy Done. Output at: $out

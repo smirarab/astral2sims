@@ -1,0 +1,36 @@
+#!/bin/bash
+
+set -e
+set -x
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+export FASTMRP="$DIR/bin/lib"
+export raxml="raxmlHPC-8.0.19-SSE3"
+
+outdir=`dirname $2`
+out=`basename $2`
+
+in=$( cd `dirname $1` && pwd )/`basename $1`
+
+cd $outdir
+
+if [ -s $out ]; then
+  echo "Ouput files exists. Refusing to rerun. "
+  exit 0;
+fi
+
+tmp=`mktemp -p . mrpmaptrix.$out.XXXXX`
+java -jar $FASTMRP/mrp.jar $in $tmp  PHYLIP -randomize
+
+rm -f RAxML_*$out*
+
+$raxml -m BINCAT -s $tmp -n $out -N 2 -p $RANDOM
+
+test "$?" != "0" && exit 1
+
+mv RAxML_bestTree.$out* $out
+mv RAxML_info.$out mrl.log
+
+rm RAxML_*$out* $tmp
+
+echo MRL Done. Output at: $out
