@@ -13,6 +13,7 @@ rename<-list(
         "ASTRAL-II" ="astral-v476-p1","ASTRAL-II" ="astral-v474-p1" ,"ASTRAL-474-slow" = "astral-v474-p2",
         "ASTRAL-II + true st"="astral-v474-p1-true","ASTRAL-II + true st"="astral-v476-p1-true",
         "ASTRAL-II (true gt)"="astral-v474-p1-truegenetrees",
+        "ASTRAL-II + random resolution of polytomies"="astral-v474-p1-fullresolved",
         "NJst"="njst","MRL"="mrl","Recursive-greedy" = "rgreedy", "Greedy"= "greedy","MP-EST"="mpest",
 	"CA-ML"="concatenatedtree")
 contl <- list("No-contraction"="-1","10%"="10","33%"="33","50%"="50")
@@ -210,6 +211,13 @@ pdf("figs/variants-size-rt.pdf",width=4,height=4)
    qplot(taxa,value,stat="summary",fun.y=mean,data=dt,color=variable,linetype=variable,geom=c("point","line"),group=interaction(genes,variable),shape=genes)+
    xlab("number of taxa")+ylab("Running time (hours)")+theme_bw()+scale_color_brewer(name="method",palette="Dark2")+scale_linetype_discrete(name="method")+
    theme(legend.position=c(.2,.7),legend.box.just=0)
+dev.off()
+
+pdf("figs/astral-rand-res.pdf",width=8,height=4)
+ dt=melt(data=dcast(scd1[scd1$method %in% c("ASTRAL-II + random resolution of polytomies","ASTRAL-II"),],genes+rep+height+rate~method,value.var="fn",drop=TRUE),id.vars=c("genes","rep","rate","height"));
+    ggplot(aes(x=genes,y=value,fill=variable),data=dt)+xlab(xlab)+ylab("Species tree topological error (FN)")+
+    geom_boxplot(outlier.size=1.2,outlier.colour=rgb(0.01,.01,.01,.5),colour="black",position=position_dodge(.8))+
+    theme_bw()+scale_fill_brewer(name="",palette="BuGn")+facet_grid(rate~height)+thm
 dev.off()
 
 pdf("figs/astral-truegt.pdf",width=8,height=4)
