@@ -1,5 +1,5 @@
 # Read data files
-b1=read.csv("base.song",sep=" ",header=F)
+b1=read.csv("bases.song",sep=" ",header=F)
 b2=read.csv("bases.1kp",sep=" ",header=F)
 b3=read.csv("bases.avian",sep=" ",header=F)
 r1=read.csv("rates.song",sep=" ",header=F)
