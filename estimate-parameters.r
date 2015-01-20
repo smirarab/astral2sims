@@ -16,9 +16,9 @@ b1=b1[s1,3:6]
 b2=b2[s2,3:6]
 b3=rbind(b3[s3e,3:6], b3[s3i,3:6], b3[s3u,3:6])
 cols=c(2,14,12,15,10,13,11)
-r1=rr1[s1,cols]
-r2=rr2[s2,cols]
-r3=rbind(rr3[s3e,cols], rr3[s3i,cols], rr3[s3u,cols])
+r1=r1[s1,cols]
+r2=r2[s2,cols]
+r3=rbind(r3[s3e,cols], r3[s3i,cols], r3[s3u,cols])
 
 require(sirt)
 

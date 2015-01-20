@@ -1,518 +1,518 @@
-raxmlboot.4218.c1c2-filterlen33/RAxML_info.score:alpha: 0.498204 1.591387 2.16467 1.037532 1.085555 2.866657 1
-raxmlboot.5068.c1c2-filterlen33/RAxML_info.score:alpha: 0.751282 1.792401 3.655576 1.211887 1.359234 2.614633 1
-raxmlboot.5075.c1c2-filterlen33/RAxML_info.score:alpha: 0.496581 3.590756 3.431531 1.49958 1.840464 4.231581 1
-raxmlboot.5086.c1c2-filterlen33/RAxML_info.score:alpha: 0.827699 1.767656 2.751864 0.966289 1.47647 2.689688 1
-raxmlboot.5087.c1c2-filterlen33/RAxML_info.score:alpha: 0.669947 2.93831 2.794326 1.336716 1.684963 3.966492 1
-raxmlboot.5088.c1c2-filterlen33/RAxML_info.score:alpha: 0.479849 1.982498 2.02898 1.149733 1.263212 2.98157 1
-raxmlboot.5091.c1c2-filterlen33/RAxML_info.score:alpha: 0.659774 1.888472 1.589288 1.092514 1.130167 2.283574 1
-raxmlboot.5092.c1c2-filterlen33/RAxML_info.score:alpha: 0.514240 2.432918 3.097209 1.038394 1.149806 3.380142 1
-raxmlboot.5097.c1c2-filterlen33/RAxML_info.score:alpha: 0.509412 2.07312 2.9163 1.425421 1.641082 3.510406 1
-raxmlboot.5103.c1c2-filterlen33/RAxML_info.score:alpha: 0.703045 1.43502 1.812606 0.661984 1.498864 2.148661 1
-raxmlboot.5111.c1c2-filterlen33/RAxML_info.score:alpha: 0.852177 1.812052 2.973574 1.053693 1.546886 2.857002 1
-raxmlboot.5148.c1c2-filterlen33/RAxML_info.score:alpha: 0.547407 2.175303 2.692171 1.179801 1.321381 2.845567 1
-raxmlboot.5154.c1c2-filterlen33/RAxML_info.score:alpha: 0.516728 1.308602 2.165605 0.776639 1.331633 2.065119 1
-raxmlboot.5165.c1c2-filterlen33/RAxML_info.score:alpha: 0.730676 2.387343 3.112495 1.372931 1.519461 3.313455 1
-raxmlboot.5170.c1c2-filterlen33/RAxML_info.score:alpha: 0.560371 1.247452 1.298753 0.758136 1.118947 2.105503 1
-raxmlboot.5172.c1c2-filterlen33/RAxML_info.score:alpha: 0.783495 2.522529 2.764161 1.045141 1.58912 2.663038 1
-raxmlboot.5175.c1c2-filterlen33/RAxML_info.score:alpha: 0.419517 2.040822 2.649348 1.273478 1.279348 3.678724 1
-raxmlboot.5188.c1c2-filterlen33/RAxML_info.score:alpha: 0.959685 0.853897 1.846972 0.789366 0.957562 2.307181 1
-raxmlboot.5206.c1c2-filterlen33/RAxML_info.score:alpha: 0.858117 2.045522 3.132791 1.169889 1.55446 2.866036 1
-raxmlboot.5226.c1c2-filterlen33/RAxML_info.score:alpha: 0.437336 0.854855 1.120465 0.679228 1.10578 2.125828 1
-raxmlboot.5229.c1c2-filterlen33/RAxML_info.score:alpha: 0.643788 2.260089 3.240081 1.276829 1.620745 3.094186 1
-raxmlboot.5233.c1c2-filterlen33/RAxML_info.score:alpha: 0.533072 1.764882 2.363487 0.995904 1.431839 3.379646 1
-raxmlboot.5270.c1c2-filterlen33/RAxML_info.score:alpha: 0.622791 1.955286 2.956618 1.306423 1.431816 2.443285 1
-raxmlboot.5276.c1c2-filterlen33/RAxML_info.score:alpha: 0.853602 1.604211 2.599821 0.890232 1.821496 2.221077 1
-raxmlboot.5279.c1c2-filterlen33/RAxML_info.score:alpha: 0.602063 2.766318 4.04182 1.404296 2.121614 4.656212 1
-raxmlboot.5286.c1c2-filterlen33/RAxML_info.score:alpha: 1.204488 2.015326 4.075656 1.238973 1.760242 3.286155 1
-raxmlboot.5294.c1c2-filterlen33/RAxML_info.score:alpha: 0.984457 2.458181 4.178871 1.374272 2.111996 2.871226 1
-raxmlboot.5301.c1c2-filterlen33/RAxML_info.score:alpha: 0.497307 2.751739 3.225696 1.407488 1.804373 3.403023 1
-raxmlboot.5304.c1c2-filterlen33/RAxML_info.score:alpha: 0.610871 2.349029 3.422967 1.312679 1.292997 3.034741 1
-raxmlboot.5306.c1c2-filterlen33/RAxML_info.score:alpha: 1.881602 1.446215 2.189147 0.934779 1.101481 2.186686 1
-raxmlboot.5310.c1c2-filterlen33/RAxML_info.score:alpha: 0.622786 1.932002 2.454561 1.105928 1.209345 2.724171 1
-raxmlboot.5326.c1c2-filterlen33/RAxML_info.score:alpha: 0.622478 2.797487 3.107937 1.355688 1.502815 3.259946 1
-raxmlboot.5331.c1c2-filterlen33/RAxML_info.score:alpha: 0.543631 1.474156 2.693117 1.001016 1.746816 2.762906 1
-raxmlboot.5333.c1c2-filterlen33/RAxML_info.score:alpha: 0.558918 2.490368 2.354433 0.805695 1.402919 3.416358 1
-raxmlboot.5334.c1c2-filterlen33/RAxML_info.score:alpha: 0.492846 2.141692 2.767687 1.237092 1.526911 3.450774 1
-raxmlboot.5336.c1c2-filterlen33/RAxML_info.score:alpha: 0.590822 2.042385 2.700167 0.94962 1.361113 2.688242 1
-raxmlboot.5338.c1c2-filterlen33/RAxML_info.score:alpha: 0.649662 3.170611 1.741648 1.390482 2.11164 4.436659 1
-raxmlboot.5353.c1c2-filterlen33/RAxML_info.score:alpha: 0.660557 2.779601 3.530936 1.049309 2.109502 3.156208 1
-raxmlboot.5367.c1c2-filterlen33/RAxML_info.score:alpha: 1.109922 2.148854 3.83729 1.583081 1.618809 2.979866 1
-raxmlboot.5384.c1c2-filterlen33/RAxML_info.score:alpha: 1.180434 1.427953 2.852197 1.25254 1.287244 2.668596 1
-raxmlboot.5385.c1c2-filterlen33/RAxML_info.score:alpha: 0.513939 1.616487 1.522406 0.83516 0.932051 3.799564 1
-raxmlboot.5425.c1c2-filterlen33/RAxML_info.score:alpha: 0.840853 1.583817 2.34793 0.918083 1.364721 2.76932 1
-raxmlboot.5427.c1c2-filterlen33/RAxML_info.score:alpha: 0.852346 2.099973 3.560768 0.911673 1.633534 2.520735 1
-raxmlboot.5463.c1c2-filterlen33/RAxML_info.score:alpha: 1.408177 2.53114 3.085964 1.170041 1.972445 3.041074 1
-raxmlboot.5475.c1c2-filterlen33/RAxML_info.score:alpha: 0.566963 1.397364 2.083277 0.777533 1.031962 2.812548 1
-raxmlboot.5479.c1c2-filterlen33/RAxML_info.score:alpha: 0.824298 1.233408 2.67796 1.007899 1.170855 2.398576 1
-raxmlboot.5484.c1c2-filterlen33/RAxML_info.score:alpha: 0.455855 2.820322 3.863611 1.598836 2.181908 3.633203 1
-raxmlboot.5488.c1c2-filterlen33/RAxML_info.score:alpha: 0.773440 1.400072 2.095993 0.877576 1.191749 2.470326 1
-raxmlboot.5494.c1c2-filterlen33/RAxML_info.score:alpha: 0.492445 2.355784 2.926813 1.244183 1.590472 3.299199 1
-raxmlboot.5507.c1c2-filterlen33/RAxML_info.score:alpha: 1.011277 2.16074 2.64157 0.881662 1.296082 2.712426 1
-raxmlboot.5508.c1c2-filterlen33/RAxML_info.score:alpha: 0.442095 2.63478 3.063308 1.518317 1.765223 3.997015 1
-raxmlboot.5514.c1c2-filterlen33/RAxML_info.score:alpha: 0.494475 2.708582 3.216415 1.023181 1.478318 3.687526 1
-raxmlboot.5516.c1c2-filterlen33/RAxML_info.score:alpha: 0.538219 1.426398 2.941448 1.016623 1.161686 2.445131 1
-raxmlboot.5521.c1c2-filterlen33/RAxML_info.score:alpha: 1.023779 2.017168 3.503937 1.17584 2.078027 2.821947 1
-raxmlboot.5528.c1c2-filterlen33/RAxML_info.score:alpha: 0.336080 2.269078 2.212821 0.83582 1.190177 3.71213 1
-raxmlboot.5536.c1c2-filterlen33/RAxML_info.score:alpha: 0.620223 2.05788 2.44648 1.109064 1.733985 4.596972 1
-raxmlboot.5551.c1c2-filterlen33/RAxML_info.score:alpha: 0.749771 2.277689 2.859835 1.162688 1.845967 3.131457 1
-raxmlboot.5558.c1c2-filterlen33/RAxML_info.score:alpha: 0.432053 2.009234 2.365202 1.134905 1.15979 3.139489 1
-raxmlboot.5559.c1c2-filterlen33/RAxML_info.score:alpha: 0.567599 3.185163 3.0716 1.488874 1.787937 5.06076 1
-raxmlboot.5571.c1c2-filterlen33/RAxML_info.score:alpha: 0.540815 1.582786 2.857901 0.869376 1.179395 1.788021 1
-raxmlboot.5578.c1c2-filterlen33/RAxML_info.score:alpha: 0.803309 1.52795 1.242627 0.810813 0.57552 2.898234 1
-raxmlboot.5579.c1c2-filterlen33/RAxML_info.score:alpha: 0.548344 2.020634 2.148421 0.70432 1.371888 2.469569 1
-raxmlboot.5582.c1c2-filterlen33/RAxML_info.score:alpha: 0.938904 2.001644 3.363259 1.10713 1.701073 3.136404 1
-raxmlboot.5588.c1c2-filterlen33/RAxML_info.score:alpha: 0.861955 1.438001 1.584116 0.939271 1.336713 2.890383 1
-raxmlboot.5600.c1c2-filterlen33/RAxML_info.score:alpha: 0.471179 1.543111 2.085001 1.120841 1.197814 3.000527 1
-raxmlboot.5601.c1c2-filterlen33/RAxML_info.score:alpha: 0.816400 1.837837 2.085704 0.952311 1.834302 3.10824 1
-raxmlboot.5604.c1c2-filterlen33/RAxML_info.score:alpha: 0.596504 2.863548 3.549947 2.020459 1.523658 3.677321 1
-raxmlboot.5607.c1c2-filterlen33/RAxML_info.score:alpha: 0.706178 1.118124 1.2723 0.941424 1.002217 2.752894 1
-raxmlboot.5628.c1c2-filterlen33/RAxML_info.score:alpha: 0.588564 1.497528 1.916614 0.725894 1.278056 3.461961 1
-raxmlboot.5631.c1c2-filterlen33/RAxML_info.score:alpha: 0.509139 2.605162 3.927635 1.558258 1.720224 2.882457 1
-raxmlboot.5644.c1c2-filterlen33/RAxML_info.score:alpha: 0.875114 1.285149 1.664601 0.929161 1.245198 2.762015 1
-raxmlboot.5648.c1c2-filterlen33/RAxML_info.score:alpha: 0.603853 1.791369 2.077607 0.931079 1.075037 2.748231 1
-raxmlboot.5656.c1c2-filterlen33/RAxML_info.score:alpha: 0.484263 2.203396 2.656252 1.193253 1.383007 3.255763 1
-raxmlboot.5672.c1c2-filterlen33/RAxML_info.score:alpha: 0.959384 2.327958 2.743063 1.307997 1.764009 2.784573 1
-raxmlboot.5675.c1c2-filterlen33/RAxML_info.score:alpha: 0.472896 3.786411 4.86627 1.544342 2.79006 4.013799 1
-raxmlboot.5676.c1c2-filterlen33/RAxML_info.score:alpha: 0.937613 1.679994 2.221899 1.059849 1.121696 2.491461 1
-raxmlboot.5679.c1c2-filterlen33/RAxML_info.score:alpha: 0.811992 1.285477 3.315366 1.139463 1.215675 2.414384 1
-raxmlboot.5683.c1c2-filterlen33/RAxML_info.score:alpha: 0.759749 0.850746 2.370173 0.642587 0.911041 1.5272 1
-raxmlboot.5686.c1c2-filterlen33/RAxML_info.score:alpha: 0.624250 2.007596 2.349217 0.959706 1.794513 3.411468 1
-raxmlboot.5706.c1c2-filterlen33/RAxML_info.score:alpha: 1.660290 1.876378 3.294172 1.064094 1.894508 2.579188 1
-raxmlboot.5715.c1c2-filterlen33/RAxML_info.score:alpha: 0.594067 1.777361 2.933991 0.834331 1.624081 1.948103 1
-raxmlboot.5721.c1c2-filterlen33/RAxML_info.score:alpha: 1.384652 1.640804 2.518558 1.065771 1.388717 2.47265 1
-raxmlboot.5722.c1c2-filterlen33/RAxML_info.score:alpha: 1.023880 1.534305 3.112862 0.951468 1.746581 3.764166 1
-raxmlboot.5729.c1c2-filterlen33/RAxML_info.score:alpha: 0.456769 2.844707 3.051547 1.404387 1.849922 3.229108 1
-raxmlboot.5737.c1c2-filterlen33/RAxML_info.score:alpha: 0.573750 1.37069 1.750413 0.727251 1.196769 3.019969 1
-raxmlboot.5749.c1c2-filterlen33/RAxML_info.score:alpha: 0.681360 1.463067 2.63057 1.062649 1.371079 2.56187 1
-raxmlboot.5755.c1c2-filterlen33/RAxML_info.score:alpha: 1.158641 1.907679 2.940045 1.016063 1.496301 2.529658 1
-raxmlboot.5758.c1c2-filterlen33/RAxML_info.score:alpha: 0.587549 2.114678 2.710676 1.28535 1.510838 3.317899 1
-raxmlboot.5763.c1c2-filterlen33/RAxML_info.score:alpha: 0.945832 1.512134 2.516887 1.075033 1.039735 3.087319 1
-raxmlboot.5769.c1c2-filterlen33/RAxML_info.score:alpha: 0.569585 2.188973 2.124079 1.255469 1.070162 1.790852 1
-raxmlboot.5786.c1c2-filterlen33/RAxML_info.score:alpha: 0.796926 2.139236 2.728575 1.327037 1.547941 2.339549 1
-raxmlboot.5791.c1c2-filterlen33/RAxML_info.score:alpha: 0.569735 2.087526 3.272172 1.324535 1.452941 3.086468 1
-raxmlboot.5801.c1c2-filterlen33/RAxML_info.score:alpha: 0.886648 1.533021 2.637159 1.02279 1.192801 2.817085 1
-raxmlboot.5808.c1c2-filterlen33/RAxML_info.score:alpha: 0.768096 2.076133 2.109436 0.944446 1.336477 2.911349 1
-raxmlboot.5816.c1c2-filterlen33/RAxML_info.score:alpha: 0.578781 2.851834 3.589437 1.506827 2.361246 3.311078 1
-raxmlboot.5821.c1c2-filterlen33/RAxML_info.score:alpha: 2.083029 1.235715 2.104949 0.716973 1.272826 1.744532 1
-raxmlboot.5823.c1c2-filterlen33/RAxML_info.score:alpha: 0.632316 1.716437 1.747 0.694512 1.1616 2.041205 1
-raxmlboot.5824.c1c2-filterlen33/RAxML_info.score:alpha: 0.409068 1.986743 2.959138 1.124957 1.568903 3.573785 1
-raxmlboot.5830.c1c2-filterlen33/RAxML_info.score:alpha: 0.569165 1.595611 2.030882 1.131873 1.305129 2.148325 1
-raxmlboot.5834.c1c2-filterlen33/RAxML_info.score:alpha: 0.298478 1.743643 2.31908 0.889235 0.940344 2.067888 1
-raxmlboot.5836.c1c2-filterlen33/RAxML_info.score:alpha: 0.840161 1.68743 2.631812 1.024933 1.313564 2.460229 1
-raxmlboot.5839.c1c2-filterlen33/RAxML_info.score:alpha: 0.522874 2.864605 3.903107 1.899177 1.805938 3.870088 1
-raxmlboot.5843.c1c2-filterlen33/RAxML_info.score:alpha: 0.898377 1.895135 1.901461 0.581095 1.166574 1.296781 1
-raxmlboot.5847.c1c2-filterlen33/RAxML_info.score:alpha: 0.528289 2.238461 2.232709 0.844663 1.30289 3.132011 1
-raxmlboot.5853.c1c2-filterlen33/RAxML_info.score:alpha: 1.181370 2.614314 3.246933 1.079467 2.117701 3.551585 1
-raxmlboot.5858.c1c2-filterlen33/RAxML_info.score:alpha: 0.717779 2.2144 2.8501 1.230686 1.436705 2.521959 1
-raxmlboot.5870.c1c2-filterlen33/RAxML_info.score:alpha: 0.650025 2.048864 2.487721 0.671449 1.511092 2.304516 1
-raxmlboot.5875.c1c2-filterlen33/RAxML_info.score:alpha: 0.561414 1.421923 2.76988 1.144074 1.30743 3.167584 1
-raxmlboot.5881.c1c2-filterlen33/RAxML_info.score:alpha: 0.748213 1.944016 4.102982 0.954678 1.427272 2.541415 1
-raxmlboot.5891.c1c2-filterlen33/RAxML_info.score:alpha: 0.666083 2.645021 3.196762 1.667298 1.676158 3.207326 1
-raxmlboot.5894.c1c2-filterlen33/RAxML_info.score:alpha: 1.240050 2.318364 2.728325 1.379329 1.763037 2.830398 1
-raxmlboot.5903.c1c2-filterlen33/RAxML_info.score:alpha: 1.376108 1.226238 1.978139 1.112301 0.956792 2.108146 1
-raxmlboot.5905.c1c2-filterlen33/RAxML_info.score:alpha: 0.626812 2.205619 2.515965 1.410596 1.627314 2.645637 1
-raxmlboot.5911.c1c2-filterlen33/RAxML_info.score:alpha: 0.525885 2.900164 1.972245 1.640005 1.210175 3.981063 1
-raxmlboot.5915.c1c2-filterlen33/RAxML_info.score:alpha: 0.516531 2.951129 3.454174 1.557794 1.884591 3.1853 1
-raxmlboot.5918.c1c2-filterlen33/RAxML_info.score:alpha: 0.568887 1.503005 2.193053 1.214426 1.047066 2.686969 1
-raxmlboot.5919.c1c2-filterlen33/RAxML_info.score:alpha: 0.880141 1.3927 1.782569 0.882062 0.859454 2.738486 1
-raxmlboot.5925.c1c2-filterlen33/RAxML_info.score:alpha: 1.242591 2.346681 3.290878 1.306174 2.073689 3.704827 1
-raxmlboot.5928.c1c2-filterlen33/RAxML_info.score:alpha: 0.612669 1.922544 2.909283 0.980711 1.156107 2.37793 1
-raxmlboot.5934.c1c2-filterlen33/RAxML_info.score:alpha: 1.013531 1.697909 3.341605 0.968922 1.353084 2.609505 1
-raxmlboot.5939.c1c2-filterlen33/RAxML_info.score:alpha: 0.823220 2.341149 2.134362 1.540879 1.346434 4.191315 1
-raxmlboot.5944.c1c2-filterlen33/RAxML_info.score:alpha: 0.634199 2.261287 1.406522 0.61044 1.153161 3.827935 1
-raxmlboot.5951.c1c2-filterlen33/RAxML_info.score:alpha: 0.973403 0.636414 1.41648 0.584737 0.568674 2.017022 1
-raxmlboot.5954.c1c2-filterlen33/RAxML_info.score:alpha: 0.687929 1.817493 3.506854 1.215775 1.568743 3.049892 1
-raxmlboot.5955.c1c2-filterlen33/RAxML_info.score:alpha: 0.669601 1.994281 2.807118 1.706457 1.264575 3.274922 1
-raxmlboot.5957.c1c2-filterlen33/RAxML_info.score:alpha: 0.612445 3.299417 3.650395 1.686757 1.920021 4.318432 1
-raxmlboot.5964.c1c2-filterlen33/RAxML_info.score:alpha: 0.464009 3.616912 3.170865 1.718744 2.357132 5.128912 1
-raxmlboot.5967.c1c2-filterlen33/RAxML_info.score:alpha: 0.823946 1.552149 2.232844 0.979805 1.207013 2.056011 1
-raxmlboot.5979.c1c2-filterlen33/RAxML_info.score:alpha: 0.549359 2.299658 3.425596 1.460108 1.725784 3.212199 1
-raxmlboot.5986.c1c2-filterlen33/RAxML_info.score:alpha: 0.552338 2.501014 3.4621 1.541777 1.832658 3.418888 1
-raxmlboot.5991.c1c2-filterlen33/RAxML_info.score:alpha: 0.943117 2.285971 2.411307 1.287386 1.435975 3.392647 1
-raxmlboot.5993.c1c2-filterlen33/RAxML_info.score:alpha: 0.636005 1.401194 2.544903 1.085641 1.158151 2.692877 1
-raxmlboot.6000.c1c2-filterlen33/RAxML_info.score:alpha: 0.617895 2.838588 1.620836 1.119107 1.62293 3.743235 1
-raxmlboot.6001.c1c2-filterlen33/RAxML_info.score:alpha: 0.531462 2.194437 3.23545 1.407268 1.850362 3.203204 1
-raxmlboot.6010.c1c2-filterlen33/RAxML_info.score:alpha: 0.693447 1.34812 1.791584 1.022448 0.931901 2.854739 1
-raxmlboot.6016.c1c2-filterlen33/RAxML_info.score:alpha: 0.890631 2.236866 2.365335 1.229776 1.308276 2.585962 1
-raxmlboot.6022.c1c2-filterlen33/RAxML_info.score:alpha: 0.602543 2.627685 3.717389 1.468756 1.810538 3.266192 1
-raxmlboot.6025.c1c2-filterlen33/RAxML_info.score:alpha: 0.468422 2.076556 2.429536 1.227341 1.295199 3.141933 1
-raxmlboot.6026.c1c2-filterlen33/RAxML_info.score:alpha: 0.910983 1.024257 1.804171 1.136564 1.1895 1.945598 1
-raxmlboot.6032.c1c2-filterlen33/RAxML_info.score:alpha: 1.056066 1.054255 1.853981 0.955329 0.801664 2.620231 1
-raxmlboot.6036.c1c2-filterlen33/RAxML_info.score:alpha: 1.186401 1.57991 2.931227 1.013922 1.22915 2.779954 1
-raxmlboot.6039.c1c2-filterlen33/RAxML_info.score:alpha: 0.790937 2.451681 2.288806 0.901664 1.651244 2.276008 1
-raxmlboot.6040.c1c2-filterlen33/RAxML_info.score:alpha: 0.835333 1.421071 2.468206 1.032429 1.204391 3.234236 1
-raxmlboot.6045.c1c2-filterlen33/RAxML_info.score:alpha: 0.772703 1.882182 2.66083 1.091269 1.790478 3.159057 1
-raxmlboot.6053.c1c2-filterlen33/RAxML_info.score:alpha: 0.730028 2.331168 2.276418 0.777681 1.523842 3.702214 1
-raxmlboot.6066.c1c2-filterlen33/RAxML_info.score:alpha: 0.505744 1.681101 3.296495 1.141111 1.262305 2.595407 1
-raxmlboot.6069.c1c2-filterlen33/RAxML_info.score:alpha: 0.641894 3.435084 4.361782 1.330026 3.244917 4.192368 1
-raxmlboot.6075.c1c2-filterlen33/RAxML_info.score:alpha: 0.454152 1.770878 2.863094 1.172293 1.002615 2.880865 1
-raxmlboot.6076.c1c2-filterlen33/RAxML_info.score:alpha: 1.061437 1.582959 2.56985 1.008126 1.34042 2.750354 1
-raxmlboot.6086.c1c2-filterlen33/RAxML_info.score:alpha: 0.933164 0.97775 1.906925 0.963332 0.674424 1.989348 1
-raxmlboot.6092.c1c2-filterlen33/RAxML_info.score:alpha: 1.938130 2.034456 4.399845 1.068386 1.717254 3.10059 1
-raxmlboot.6094.c1c2-filterlen33/RAxML_info.score:alpha: 0.781501 1.997823 3.64351 1.151722 1.442096 2.70219 1
-raxmlboot.6107.c1c2-filterlen33/RAxML_info.score:alpha: 0.581789 2.651867 3.948286 1.487717 1.531912 3.449512 1
-raxmlboot.6120.c1c2-filterlen33/RAxML_info.score:alpha: 0.576661 2.061884 3.320254 0.947319 1.440113 3.210957 1
-raxmlboot.6121.c1c2-filterlen33/RAxML_info.score:alpha: 0.767268 2.378327 2.759435 0.902585 1.973952 2.327028 1
-raxmlboot.6123.c1c2-filterlen33/RAxML_info.score:alpha: 1.670222 1.700541 2.543447 0.834 1.201894 2.170247 1
-raxmlboot.6128.c1c2-filterlen33/RAxML_info.score:alpha: 0.926810 1.405469 2.094306 1.121156 1.281387 3.100224 1
-raxmlboot.6131.c1c2-filterlen33/RAxML_info.score:alpha: 0.949153 2.456991 3.074592 1.328102 2.091842 3.879653 1
-raxmlboot.6134.c1c2-filterlen33/RAxML_info.score:alpha: 0.547505 1.789252 2.368395 1.018189 1.390127 2.786102 1
-raxmlboot.6140.c1c2-filterlen33/RAxML_info.score:alpha: 0.536049 1.79443 2.384432 1.016357 1.407912 2.757085 1
-raxmlboot.6145.c1c2-filterlen33/RAxML_info.score:alpha: 0.640972 2.001579 2.506045 1.330935 1.470311 2.750284 1
-raxmlboot.6150.c1c2-filterlen33/RAxML_info.score:alpha: 0.837756 1.534183 2.670835 0.933037 1.509037 2.818533 1
-raxmlboot.6154.c1c2-filterlen33/RAxML_info.score:alpha: 0.751745 2.397802 2.681121 1.49381 1.529779 2.842447 1
-raxmlboot.6155.c1c2-filterlen33/RAxML_info.score:alpha: 0.554983 2.082116 2.758369 1.112455 1.566768 2.915207 1
-raxmlboot.6159.c1c2-filterlen33/RAxML_info.score:alpha: 0.986054 1.989808 3.297981 1.069618 1.726196 3.137981 1
-raxmlboot.6162.c1c2-filterlen33/RAxML_info.score:alpha: 0.489463 2.213556 2.467681 0.976183 1.407796 3.201761 1
-raxmlboot.6171.c1c2-filterlen33/RAxML_info.score:alpha: 0.670159 2.825337 3.835792 1.072901 2.67211 3.075769 1
-raxmlboot.6175.c1c2-filterlen33/RAxML_info.score:alpha: 0.613655 1.401431 2.629028 1.247355 1.123636 2.602051 1
-raxmlboot.6176.c1c2-filterlen33/RAxML_info.score:alpha: 1.157866 1.653063 3.39564 0.958076 1.878321 2.654479 1
-raxmlboot.6179.c1c2-filterlen33/RAxML_info.score:alpha: 0.469761 1.847653 1.760269 1.116014 1.270557 2.557163 1
-raxmlboot.6180.c1c2-filterlen33/RAxML_info.score:alpha: 0.731631 3.248284 3.267188 1.333513 2.252053 5.792578 1
-raxmlboot.6191.c1c2-filterlen33/RAxML_info.score:alpha: 0.625099 1.009111 1.136399 0.598921 1.034276 2.985611 1
-raxmlboot.6193.c1c2-filterlen33/RAxML_info.score:alpha: 0.603895 2.446893 3.05664 1.192242 1.495786 3.321325 1
-raxmlboot.6194.c1c2-filterlen33/RAxML_info.score:alpha: 0.888398 2.274808 3.500842 1.496268 1.59641 3.092854 1
-raxmlboot.6195.c1c2-filterlen33/RAxML_info.score:alpha: 0.724402 1.693304 2.700462 1.092778 1.556578 2.468992 1
-raxmlboot.6202.c1c2-filterlen33/RAxML_info.score:alpha: 0.459840 3.176081 3.82033 1.32976 1.859682 4.467328 1
-raxmlboot.6207.c1c2-filterlen33/RAxML_info.score:alpha: 0.685229 1.661932 2.330083 1.088304 1.708276 2.429005 1
-raxmlboot.6210.c1c2-filterlen33/RAxML_info.score:alpha: 0.797220 1.628215 2.577586 1.05177 1.274813 2.998078 1
-raxmlboot.6224.c1c2-filterlen33/RAxML_info.score:alpha: 0.965121 1.271375 2.793902 0.924383 1.093654 2.106908 1
-raxmlboot.6226.c1c2-filterlen33/RAxML_info.score:alpha: 0.474693 3.41638 2.848801 1.11156 1.512687 3.904271 1
-raxmlboot.6233.c1c2-filterlen33/RAxML_info.score:alpha: 0.590570 3.652872 3.365718 1.353522 1.63453 3.476971 1
-raxmlboot.6240.c1c2-filterlen33/RAxML_info.score:alpha: 0.730560 1.975446 2.656844 1.03871 1.669631 2.450859 1
-raxmlboot.6246.c1c2-filterlen33/RAxML_info.score:alpha: 0.415946 0.956073 1.37575 0.917608 0.993741 1.856544 1
-raxmlboot.6249.c1c2-filterlen33/RAxML_info.score:alpha: 0.695155 2.54991 2.920452 1.298697 1.792537 3.393965 1
-raxmlboot.6251.c1c2-filterlen33/RAxML_info.score:alpha: 1.088416 1.409245 2.317376 0.782174 1.466033 2.692505 1
-raxmlboot.6280.c1c2-filterlen33/RAxML_info.score:alpha: 0.739660 1.508683 3.206778 0.863474 1.319414 2.160234 1
-raxmlboot.6284.c1c2-filterlen33/RAxML_info.score:alpha: 0.982020 2.180973 3.403482 0.975839 1.48875 3.037261 1
-raxmlboot.6294.c1c2-filterlen33/RAxML_info.score:alpha: 0.829220 1.798607 2.060624 1.268315 1.319748 3.556202 1
-raxmlboot.6296.c1c2-filterlen33/RAxML_info.score:alpha: 0.846984 2.564726 3.584657 0.952769 1.973536 2.085977 1
-raxmlboot.6299.c1c2-filterlen33/RAxML_info.score:alpha: 0.690170 2.103932 2.514174 1.210719 1.248176 2.7289 1
-raxmlboot.6302.c1c2-filterlen33/RAxML_info.score:alpha: 0.746510 2.072638 3.493634 1.090467 1.613593 2.763499 1
-raxmlboot.6308.c1c2-filterlen33/RAxML_info.score:alpha: 0.909220 2.243744 2.946538 1.304503 1.981449 4.109439 1
-raxmlboot.6313.c1c2-filterlen33/RAxML_info.score:alpha: 0.955406 1.66087 2.217117 1.189059 1.422442 1.956748 1
-raxmlboot.6315.c1c2-filterlen33/RAxML_info.score:alpha: 0.743865 1.626861 2.946088 1.133105 1.313459 2.751475 1
-raxmlboot.6322.c1c2-filterlen33/RAxML_info.score:alpha: 0.777128 2.620133 4.400876 1.33328 2.210044 2.976538 1
-raxmlboot.6324.c1c2-filterlen33/RAxML_info.score:alpha: 1.112152 1.559239 2.095121 0.949627 0.967502 1.981021 1
-raxmlboot.6339.c1c2-filterlen33/RAxML_info.score:alpha: 0.540651 2.128218 3.174011 1.216006 1.12571 2.959108 1
-raxmlboot.6341.c1c2-filterlen33/RAxML_info.score:alpha: 0.593929 1.86513 2.862901 1.346216 1.441865 3.707593 1
-raxmlboot.6342.c1c2-filterlen33/RAxML_info.score:alpha: 0.649628 2.504095 3.189305 1.596986 1.339884 2.906699 1
-raxmlboot.6349.c1c2-filterlen33/RAxML_info.score:alpha: 0.668789 1.991441 2.702927 1.276974 1.769814 2.612496 1
-raxmlboot.6353.c1c2-filterlen33/RAxML_info.score:alpha: 1.286520 1.139388 2.788715 1.180296 1.84917 2.991741 1
-raxmlboot.6354.c1c2-filterlen33/RAxML_info.score:alpha: 0.539286 1.595779 2.585367 0.830686 1.232538 2.168539 1
-raxmlboot.6358.c1c2-filterlen33/RAxML_info.score:alpha: 0.617615 1.077594 1.606434 0.92108 0.863701 2.019733 1
-raxmlboot.6360.c1c2-filterlen33/RAxML_info.score:alpha: 0.700528 1.582005 3.107589 1.134177 1.36058 2.103094 1
-raxmlboot.6361.c1c2-filterlen33/RAxML_info.score:alpha: 0.592605 1.818835 3.403221 1.167719 1.438994 2.824691 1
-raxmlboot.6376.c1c2-filterlen33/RAxML_info.score:alpha: 0.584234 2.922051 4.021871 1.476517 1.872779 3.643551 1
-raxmlboot.6379.c1c2-filterlen33/RAxML_info.score:alpha: 0.869267 2.805974 4.392472 1.498337 1.932096 3.035546 1
-raxmlboot.6380.c1c2-filterlen33/RAxML_info.score:alpha: 0.760660 2.91157 3.092579 1.348945 2.003061 4.083262 1
-raxmlboot.6381.c1c2-filterlen33/RAxML_info.score:alpha: 0.652357 2.495268 3.914773 1.505603 1.967949 3.831067 1
-raxmlboot.6383.c1c2-filterlen33/RAxML_info.score:alpha: 0.543135 2.553375 2.850543 1.616544 1.182419 3.912298 1
-raxmlboot.6387.c1c2-filterlen33/RAxML_info.score:alpha: 0.795863 1.658101 2.611099 1.082866 1.442451 2.648124 1
-raxmlboot.6390.c1c2-filterlen33/RAxML_info.score:alpha: 0.870165 2.585031 2.815431 1.038076 1.859118 2.701661 1
-raxmlboot.6392.c1c2-filterlen33/RAxML_info.score:alpha: 0.561168 1.540613 2.636838 1.072632 1.269978 2.038738 1
-raxmlboot.6401.c1c2-filterlen33/RAxML_info.score:alpha: 0.648210 3.09048 3.509898 0.955031 1.940474 3.933714 1
-raxmlboot.6403.c1c2-filterlen33/RAxML_info.score:alpha: 0.589351 2.019499 2.897989 1.175306 1.340985 2.637364 1
-raxmlboot.6405.c1c2-filterlen33/RAxML_info.score:alpha: 0.661127 2.081445 2.745623 1.26243 1.490305 2.747041 1
-raxmlboot.6406.c1c2-filterlen33/RAxML_info.score:alpha: 0.609264 2.43337 3.531526 1.896076 1.729181 3.663088 1
-raxmlboot.6407.c1c2-filterlen33/RAxML_info.score:alpha: 0.610279 2.426841 3.195927 1.203782 1.424438 3.428089 1
-raxmlboot.6410.c1c2-filterlen33/RAxML_info.score:alpha: 0.472886 1.885238 2.278478 0.721036 1.171794 1.598201 1
-raxmlboot.6411.c1c2-filterlen33/RAxML_info.score:alpha: 0.466974 1.811733 3.155036 1.426018 1.230747 3.163447 1
-raxmlboot.6412.c1c2-filterlen33/RAxML_info.score:alpha: 0.623967 1.920495 2.462713 0.857445 1.341773 2.548264 1
-raxmlboot.6413.c1c2-filterlen33/RAxML_info.score:alpha: 1.246589 1.855174 2.871491 0.937902 1.361059 2.827188 1
-raxmlboot.6414.c1c2-filterlen33/RAxML_info.score:alpha: 0.839036 1.838358 2.854847 1.129263 1.438458 2.748362 1
-raxmlboot.6416.c1c2-filterlen33/RAxML_info.score:alpha: 1.107410 0.999872 1.880448 0.99921 0.880345 1.409283 1
-raxmlboot.6418.c1c2-filterlen33/RAxML_info.score:alpha: 0.798616 2.28522 2.882967 1.177205 1.351342 2.757057 1
-raxmlboot.6421.c1c2-filterlen33/RAxML_info.score:alpha: 0.719061 2.513059 2.060235 1.177485 1.429062 3.20908 1
-raxmlboot.6422.c1c2-filterlen33/RAxML_info.score:alpha: 0.765393 1.645093 2.170988 1.196888 0.958145 2.493285 1
-raxmlboot.6427.c1c2-filterlen33/RAxML_info.score:alpha: 0.733929 3.082122 3.540424 0.728207 2.747663 3.51025 1
-raxmlboot.6431.c1c2-filterlen33/RAxML_info.score:alpha: 0.696227 1.816999 2.590683 0.934769 1.602842 3.864413 1
-raxmlboot.6433.c1c2-filterlen33/RAxML_info.score:alpha: 0.553463 2.194052 2.598808 1.350916 1.613048 3.2644 1
-raxmlboot.6434.c1c2-filterlen33/RAxML_info.score:alpha: 1.292447 0.716401 1.825284 0.74028 0.741468 1.378016 1
-raxmlboot.6438.c1c2-filterlen33/RAxML_info.score:alpha: 0.654982 1.425384 2.961231 1.012721 1.232047 2.664714 1
-raxmlboot.6440.c1c2-filterlen33/RAxML_info.score:alpha: 0.690027 2.223098 2.073394 0.863056 1.671969 2.321438 1
-raxmlboot.6460.c1c2-filterlen33/RAxML_info.score:alpha: 0.849092 2.299443 3.0648 0.97716 2.198438 3.256833 1
-raxmlboot.6472.c1c2-filterlen33/RAxML_info.score:alpha: 0.827143 2.027829 3.439788 1.146268 1.405108 3.451045 1
-raxmlboot.6479.c1c2-filterlen33/RAxML_info.score:alpha: 0.869144 2.30323 3.656499 1.447264 1.663914 3.254883 1
-raxmlboot.6486.c1c2-filterlen33/RAxML_info.score:alpha: 0.756334 1.402139 1.727346 0.861244 0.900427 2.194651 1
-raxmlboot.6490.c1c2-filterlen33/RAxML_info.score:alpha: 0.540259 2.187184 2.709846 1.164963 1.238034 2.60244 1
-raxmlboot.6491.c1c2-filterlen33/RAxML_info.score:alpha: 0.544435 1.922396 1.988511 1.107554 1.348594 3.334531 1
-raxmlboot.6494.c1c2-filterlen33/RAxML_info.score:alpha: 0.593295 2.162797 3.182227 0.99051 1.646474 2.444487 1
-raxmlboot.6510.c1c2-filterlen33/RAxML_info.score:alpha: 0.766488 1.407694 2.706436 1.148023 1.104503 2.794193 1
-raxmlboot.6511.c1c2-filterlen33/RAxML_info.score:alpha: 0.590037 1.104127 1.718122 1.006041 0.91465 1.744137 1
-raxmlboot.6512.c1c2-filterlen33/RAxML_info.score:alpha: 0.864659 2.869277 3.403583 1.235364 1.998862 3.0725 1
-raxmlboot.6514.c1c2-filterlen33/RAxML_info.score:alpha: 0.564807 2.125535 3.617778 1.318892 1.750302 3.15532 1
-raxmlboot.6515.c1c2-filterlen33/RAxML_info.score:alpha: 0.668415 5.418873 4.184721 1.710305 2.935835 4.748177 1
-raxmlboot.6518.c1c2-filterlen33/RAxML_info.score:alpha: 0.915679 2.16596 2.636096 1.360181 1.699301 3.210337 1
-raxmlboot.6524.c1c2-filterlen33/RAxML_info.score:alpha: 0.511124 1.383 3.643235 0.789581 1.285703 2.095274 1
-raxmlboot.6525.c1c2-filterlen33/RAxML_info.score:alpha: 0.619670 3.432546 3.262116 1.458022 1.867251 3.47096 1
-raxmlboot.6526.c1c2-filterlen33/RAxML_info.score:alpha: 0.647407 1.437425 1.936105 0.81652 1.019657 2.436859 1
-raxmlboot.6531.c1c2-filterlen33/RAxML_info.score:alpha: 0.748100 2.080029 1.955943 0.916042 1.434738 2.35739 1
-raxmlboot.6532.c1c2-filterlen33/RAxML_info.score:alpha: 0.444072 2.85755 2.743176 1.405869 1.50932 3.216011 1
-raxmlboot.6533.c1c2-filterlen33/RAxML_info.score:alpha: 0.554138 2.864763 3.077029 1.270926 1.66798 2.74298 1
-raxmlboot.6534.c1c2-filterlen33/RAxML_info.score:alpha: 0.694108 1.989141 3.19066 1.07013 1.542295 2.264406 1
-raxmlboot.6537.c1c2-filterlen33/RAxML_info.score:alpha: 1.512951 1.294343 1.676077 1.144551 0.837773 3.750789 1
-raxmlboot.6539.c1c2-filterlen33/RAxML_info.score:alpha: 0.485261 3.22363 2.107374 0.934468 2.091119 4.70175 1
-raxmlboot.6551.c1c2-filterlen33/RAxML_info.score:alpha: 0.802395 2.159544 2.050365 2.098436 1.310559 2.924667 1
-raxmlboot.6554.c1c2-filterlen33/RAxML_info.score:alpha: 1.205253 1.672588 4.604184 0.959975 1.922271 1.937975 1
-raxmlboot.6558.c1c2-filterlen33/RAxML_info.score:alpha: 0.775604 2.010124 3.543872 0.960112 1.474596 2.327504 1
-raxmlboot.6560.c1c2-filterlen33/RAxML_info.score:alpha: 0.775130 1.78018 2.158122 0.948531 1.219599 2.718217 1
-raxmlboot.6564.c1c2-filterlen33/RAxML_info.score:alpha: 0.825615 1.528057 2.362892 1.041232 1.460181 2.279273 1
-raxmlboot.6572.c1c2-filterlen33/RAxML_info.score:alpha: 1.094916 1.621596 3.491416 0.954082 1.476055 2.276279 1
-raxmlboot.6575.c1c2-filterlen33/RAxML_info.score:alpha: 0.606124 2.318138 2.127779 1.279929 1.378719 2.475791 1
-raxmlboot.6576.c1c2-filterlen33/RAxML_info.score:alpha: 0.359277 2.746973 3.237892 1.347082 1.53667 3.988733 1
-raxmlboot.6578.c1c2-filterlen33/RAxML_info.score:alpha: 0.699770 1.755134 2.717183 1.210122 1.806694 3.324219 1
-raxmlboot.6580.c1c2-filterlen33/RAxML_info.score:alpha: 0.819395 1.548379 2.154308 0.528687 1.159843 2.358382 1
-raxmlboot.6581.c1c2-filterlen33/RAxML_info.score:alpha: 0.795221 1.154489 1.474391 0.669222 0.581421 2.099507 1
-raxmlboot.6586.c1c2-filterlen33/RAxML_info.score:alpha: 0.743986 1.847078 2.832252 1.236732 1.563505 2.983255 1
-raxmlboot.6587.c1c2-filterlen33/RAxML_info.score:alpha: 1.161997 1.291984 2.444731 1.208437 0.971913 2.754375 1
-raxmlboot.6591.c1c2-filterlen33/RAxML_info.score:alpha: 0.812455 2.401195 2.827105 1.096639 1.763014 3.023831 1
-raxmlboot.6592.c1c2-filterlen33/RAxML_info.score:alpha: 0.987707 1.784358 2.755749 1.271849 1.614322 3.710615 1
-raxmlboot.6603.c1c2-filterlen33/RAxML_info.score:alpha: 0.978772 2.268157 4.098519 1.561017 1.343972 2.754552 1
-raxmlboot.6604.c1c2-filterlen33/RAxML_info.score:alpha: 0.703095 1.430041 2.307863 0.854094 0.991183 2.495764 1
-raxmlboot.6609.c1c2-filterlen33/RAxML_info.score:alpha: 1.257610 1.891368 1.718201 0.829934 1.588109 3.526291 1
-raxmlboot.6614.c1c2-filterlen33/RAxML_info.score:alpha: 0.649240 2.211382 3.677668 1.372403 1.595191 3.086592 1
-raxmlboot.6616.c1c2-filterlen33/RAxML_info.score:alpha: 0.615432 2.467196 2.876447 1.09945 1.943862 2.777462 1
-raxmlboot.6618.c1c2-filterlen33/RAxML_info.score:alpha: 1.301189 1.508983 1.876472 1.009911 1.019008 2.07288 1
-raxmlboot.6619.c1c2-filterlen33/RAxML_info.score:alpha: 0.667361 2.170242 2.734375 1.385157 1.323172 2.61802 1
-raxmlboot.6635.c1c2-filterlen33/RAxML_info.score:alpha: 0.520279 2.109905 2.663283 0.911083 1.078463 1.722889 1
-raxmlboot.6646.c1c2-filterlen33/RAxML_info.score:alpha: 0.696094 2.244739 3.053507 1.314378 2.013336 2.156298 1
-raxmlboot.6647.c1c2-filterlen33/RAxML_info.score:alpha: 0.779363 1.915135 2.893993 0.997287 1.929213 2.410415 1
-raxmlboot.6655.c1c2-filterlen33/RAxML_info.score:alpha: 0.805577 1.600003 3.324847 1.028956 1.26967 2.662835 1
-raxmlboot.6660.c1c2-filterlen33/RAxML_info.score:alpha: 0.955193 1.648616 2.514625 1.052875 1.238721 2.833147 1
-raxmlboot.6663.c1c2-filterlen33/RAxML_info.score:alpha: 0.651253 1.882097 3.048046 1.03766 1.147386 2.531066 1
-raxmlboot.6664.c1c2-filterlen33/RAxML_info.score:alpha: 1.285028 2.500495 3.250428 1.08551 2.141361 3.053319 1
-raxmlboot.6668.c1c2-filterlen33/RAxML_info.score:alpha: 0.872912 1.695928 2.536522 1.28221 1.313265 3.783355 1
-raxmlboot.6675.c1c2-filterlen33/RAxML_info.score:alpha: 0.463479 2.192381 1.835081 0.988623 1.330184 1.738579 1
-raxmlboot.6677.c1c2-filterlen33/RAxML_info.score:alpha: 0.409286 3.529949 3.894412 1.802917 1.951712 4.281579 1
-raxmlboot.6681.c1c2-filterlen33/RAxML_info.score:alpha: 0.611933 1.311193 1.738927 1.130352 1.432138 2.748228 1
-raxmlboot.6687.c1c2-filterlen33/RAxML_info.score:alpha: 0.546752 1.788135 2.315123 1.231636 1.657443 3.387644 1
-raxmlboot.6689.c1c2-filterlen33/RAxML_info.score:alpha: 1.207498 1.168853 1.996751 1.031711 1.092955 2.603124 1
-raxmlboot.6691.c1c2-filterlen33/RAxML_info.score:alpha: 0.545164 2.423918 2.955627 1.143406 1.661414 3.875418 1
-raxmlboot.6694.c1c2-filterlen33/RAxML_info.score:alpha: 0.570022 2.206214 3.529204 1.114623 1.66604 2.515228 1
-raxmlboot.6695.c1c2-filterlen33/RAxML_info.score:alpha: 0.879090 1.818602 3.272358 1.140826 1.801688 2.817857 1
-raxmlboot.6697.c1c2-filterlen33/RAxML_info.score:alpha: 1.391912 2.728808 2.985479 1.020663 1.905735 3.559802 1
-raxmlboot.6701.c1c2-filterlen33/RAxML_info.score:alpha: 0.462028 2.199808 2.404105 1.179656 1.248282 3.126296 1
-raxmlboot.6703.c1c2-filterlen33/RAxML_info.score:alpha: 0.800243 1.758573 2.673711 0.911563 1.268113 2.077735 1
-raxmlboot.6708.c1c2-filterlen33/RAxML_info.score:alpha: 0.826770 2.246938 2.555911 1.070353 2.012961 2.749721 1
-raxmlboot.6713.c1c2-filterlen33/RAxML_info.score:alpha: 0.446833 2.620932 3.63944 1.49597 2.174873 3.622093 1
-raxmlboot.6715.c1c2-filterlen33/RAxML_info.score:alpha: 0.825572 1.333478 2.074223 1.003608 0.965675 2.966605 1
-raxmlboot.6725.c1c2-filterlen33/RAxML_info.score:alpha: 1.154396 1.522716 3.332948 0.902937 1.724998 3.048251 1
-raxmlboot.6728.c1c2-filterlen33/RAxML_info.score:alpha: 0.901229 1.743665 2.206253 0.904373 1.138705 2.031653 1
-raxmlboot.6729.c1c2-filterlen33/RAxML_info.score:alpha: 0.870524 2.012152 3.60848 1.034939 1.268396 2.80292 1
-raxmlboot.6731.c1c2-filterlen33/RAxML_info.score:alpha: 0.610187 1.044813 1.126289 0.58345 0.826545 1.803999 1
-raxmlboot.6732.c1c2-filterlen33/RAxML_info.score:alpha: 0.897244 2.676928 3.72816 1.182048 2.203186 3.641584 1
-raxmlboot.6737.c1c2-filterlen33/RAxML_info.score:alpha: 0.726376 1.567362 3.358995 1.176188 1.2846 2.229695 1
-raxmlboot.6740.c1c2-filterlen33/RAxML_info.score:alpha: 0.836055 1.537915 2.997467 1.061346 1.654758 2.648919 1
-raxmlboot.6743.c1c2-filterlen33/RAxML_info.score:alpha: 0.638867 2.74372 2.498109 1.543614 1.358476 3.376378 1
-raxmlboot.6749.c1c2-filterlen33/RAxML_info.score:alpha: 0.619779 1.636481 1.876403 0.997241 1.197015 2.233425 1
-raxmlboot.6750.c1c2-filterlen33/RAxML_info.score:alpha: 0.806051 2.898098 4.131722 1.030386 2.010132 3.275792 1
-raxmlboot.6753.c1c2-filterlen33/RAxML_info.score:alpha: 1.221927 1.787452 3.371057 0.974406 1.688708 3.216267 1
-raxmlboot.6770.c1c2-filterlen33/RAxML_info.score:alpha: 1.501347 2.533098 3.729018 1.272357 2.568866 2.674476 1
-raxmlboot.6775.c1c2-filterlen33/RAxML_info.score:alpha: 1.075340 1.390757 3.544377 1.080364 1.616863 2.224735 1
-raxmlboot.6785.c1c2-filterlen33/RAxML_info.score:alpha: 0.535589 2.050618 2.753735 1.348386 1.564873 3.410278 1
-raxmlboot.6786.c1c2-filterlen33/RAxML_info.score:alpha: 1.053711 2.107513 3.798654 1.128491 1.890836 3.531656 1
-raxmlboot.6787.c1c2-filterlen33/RAxML_info.score:alpha: 1.120029 1.145222 2.040618 0.706109 1.390783 1.932822 1
-raxmlboot.6788.c1c2-filterlen33/RAxML_info.score:alpha: 0.619258 2.492613 2.960206 1.301009 1.561055 2.809944 1
-raxmlboot.6789.c1c2-filterlen33/RAxML_info.score:alpha: 1.650985 2.194052 2.977566 1.083012 1.545716 2.695508 1
-raxmlboot.6790.c1c2-filterlen33/RAxML_info.score:alpha: 0.936728 1.920797 2.589749 1.225883 1.526086 2.129641 1
-raxmlboot.6800.c1c2-filterlen33/RAxML_info.score:alpha: 0.658154 1.951117 3.033742 1.056414 1.388918 2.090703 1
-raxmlboot.6805.c1c2-filterlen33/RAxML_info.score:alpha: 0.766380 2.268775 2.604798 1.02349 1.957277 3.208636 1
-raxmlboot.6806.c1c2-filterlen33/RAxML_info.score:alpha: 0.584434 2.446989 3.413294 1.299585 1.577013 3.337093 1
-raxmlboot.6807.c1c2-filterlen33/RAxML_info.score:alpha: 0.526092 2.057361 2.96785 0.992938 1.01329 2.287473 1
-raxmlboot.6820.c1c2-filterlen33/RAxML_info.score:alpha: 0.924986 1.972275 3.070691 1.43932 1.938779 2.453187 1
-raxmlboot.6822.c1c2-filterlen33/RAxML_info.score:alpha: 0.513546 2.00281 3.079298 1.00055 1.807046 2.920836 1
-raxmlboot.6827.c1c2-filterlen33/RAxML_info.score:alpha: 0.661112 1.625596 2.558214 0.885488 0.993938 1.890511 1
-raxmlboot.6831.c1c2-filterlen33/RAxML_info.score:alpha: 1.263597 1.642865 3.268995 1.284526 1.648555 2.732203 1
-raxmlboot.6836.c1c2-filterlen33/RAxML_info.score:alpha: 0.734136 1.858743 2.888165 1.28709 1.358716 2.960932 1
-raxmlboot.6838.c1c2-filterlen33/RAxML_info.score:alpha: 0.614808 2.220154 2.948301 1.381599 1.273901 2.861983 1
-raxmlboot.6842.c1c2-filterlen33/RAxML_info.score:alpha: 0.534163 2.667902 4.099658 1.18908 2.026878 3.568684 1
-raxmlboot.6849.c1c2-filterlen33/RAxML_info.score:alpha: 0.781098 1.793891 2.818897 1.104592 1.462312 2.448925 1
-raxmlboot.6852.c1c2-filterlen33/RAxML_info.score:alpha: 1.094567 1.367012 1.795322 0.833945 0.808935 1.536567 1
-raxmlboot.6863.c1c2-filterlen33/RAxML_info.score:alpha: 0.659258 2.435806 3.508375 1.298424 1.870899 3.878945 1
-raxmlboot.6866.c1c2-filterlen33/RAxML_info.score:alpha: 0.513492 2.59053 3.70084 1.446381 1.727225 4.337962 1
-raxmlboot.6870.c1c2-filterlen33/RAxML_info.score:alpha: 0.622100 2.235086 3.199834 1.401401 1.605516 2.956886 1
-raxmlboot.6872.c1c2-filterlen33/RAxML_info.score:alpha: 0.788946 1.539123 2.638928 1.058951 1.111732 2.400222 1
-raxmlboot.6878.c1c2-filterlen33/RAxML_info.score:alpha: 0.485171 2.605428 3.505382 1.817237 1.923412 4.105857 1
-raxmlboot.6891.c1c2-filterlen33/RAxML_info.score:alpha: 0.636728 2.266151 3.405086 0.897834 1.882746 3.528116 1
-raxmlboot.6892.c1c2-filterlen33/RAxML_info.score:alpha: 0.630644 1.629326 2.257927 1.036862 0.963927 2.052967 1
-raxmlboot.6893.c1c2-filterlen33/RAxML_info.score:alpha: 0.595437 1.968003 2.479798 1.161953 1.223246 2.54754 1
-raxmlboot.6894.c1c2-filterlen33/RAxML_info.score:alpha: 0.693761 1.497888 2.356871 0.920269 1.366285 2.589663 1
-raxmlboot.6898.c1c2-filterlen33/RAxML_info.score:alpha: 1.472431 1.559634 2.434919 1.107566 1.747768 2.925721 1
-raxmlboot.6907.c1c2-filterlen33/RAxML_info.score:alpha: 0.518074 3.399596 3.68691 1.353037 1.928963 2.898654 1
-raxmlboot.6909.c1c2-filterlen33/RAxML_info.score:alpha: 0.841778 2.351347 3.343174 1.250309 2.14697 2.773979 1
-raxmlboot.6916.c1c2-filterlen33/RAxML_info.score:alpha: 0.853117 2.300303 3.313719 1.34604 1.477665 3.229361 1
-raxmlboot.6919.c1c2-filterlen33/RAxML_info.score:alpha: 0.725574 2.263079 2.382835 1.35605 1.272693 2.588659 1
-raxmlboot.6929.c1c2-filterlen33/RAxML_info.score:alpha: 0.526605 1.622976 2.36661 0.990054 1.006072 2.45069 1
-raxmlboot.6943.c1c2-filterlen33/RAxML_info.score:alpha: 0.638199 2.279248 2.878195 1.203515 2.021109 2.997221 1
-raxmlboot.6948.c1c2-filterlen33/RAxML_info.score:alpha: 1.131745 3.479231 2.792314 1.193375 2.260388 3.683481 1
-raxmlboot.6953.c1c2-filterlen33/RAxML_info.score:alpha: 0.496818 2.413194 2.753558 1.43728 1.795026 3.493155 1
-raxmlboot.6957.c1c2-filterlen33/RAxML_info.score:alpha: 0.583354 3.046638 3.193777 1.644742 1.709195 3.417198 1
-raxmlboot.6959.c1c2-filterlen33/RAxML_info.score:alpha: 0.675515 2.320713 2.982301 1.19907 1.702522 3.78435 1
-raxmlboot.6960.c1c2-filterlen33/RAxML_info.score:alpha: 1.315753 1.699418 2.687921 0.915459 1.229259 2.513304 1
-raxmlboot.6962.c1c2-filterlen33/RAxML_info.score:alpha: 1.104276 1.38561 2.980011 1.150455 1.217505 2.94596 1
-raxmlboot.6972.c1c2-filterlen33/RAxML_info.score:alpha: 0.718844 2.110069 3.014387 1.258864 1.222514 3.656636 1
-raxmlboot.6973.c1c2-filterlen33/RAxML_info.score:alpha: 0.647669 1.567473 2.664554 0.995669 0.94438 2.850114 1
-raxmlboot.6978.c1c2-filterlen33/RAxML_info.score:alpha: 0.963922 1.66048 2.044337 1.023839 1.098012 1.863236 1
-raxmlboot.6982.c1c2-filterlen33/RAxML_info.score:alpha: 0.561913 2.497699 3.039244 1.011667 1.872381 3.815727 1
-raxmlboot.6984.c1c2-filterlen33/RAxML_info.score:alpha: 0.558208 2.59525 2.829933 1.551798 1.57369 4.244657 1
-raxmlboot.6994.c1c2-filterlen33/RAxML_info.score:alpha: 1.338717 2.104654 3.31191 1.051594 1.742834 2.953763 1
-raxmlboot.7002.c1c2-filterlen33/RAxML_info.score:alpha: 0.798022 1.42654 2.855951 0.938813 1.472557 2.445901 1
-raxmlboot.7004.c1c2-filterlen33/RAxML_info.score:alpha: 1.249798 1.312086 2.012563 0.752013 1.102155 1.509284 1
-raxmlboot.7005.c1c2-filterlen33/RAxML_info.score:alpha: 1.130022 3.029704 3.879111 1.177313 2.911657 4.17561 1
-raxmlboot.7006.c1c2-filterlen33/RAxML_info.score:alpha: 1.081549 1.636315 1.850124 1.016703 1.299565 2.192927 1
-raxmlboot.7007.c1c2-filterlen33/RAxML_info.score:alpha: 0.676761 2.358453 3.05587 0.968553 1.964177 2.595804 1
-raxmlboot.7008.c1c2-filterlen33/RAxML_info.score:alpha: 0.649744 1.286757 2.776643 0.531693 1.451594 2.00527 1
-raxmlboot.7009.c1c2-filterlen33/RAxML_info.score:alpha: 1.143361 1.419731 2.109414 0.827763 1.298757 2.438985 1
-raxmlboot.7011.c1c2-filterlen33/RAxML_info.score:alpha: 0.475028 1.531079 2.997557 0.659338 1.095298 2.628776 1
-raxmlboot.7015.c1c2-filterlen33/RAxML_info.score:alpha: 1.688358 1.477776 1.988185 1.197297 1.25996 2.535126 1
-raxmlboot.7017.c1c2-filterlen33/RAxML_info.score:alpha: 0.901168 2.854312 2.946847 1.187822 1.903233 2.16707 1
-raxmlboot.7020.c1c2-filterlen33/RAxML_info.score:alpha: 0.529431 2.018057 2.253776 1.092477 1.305044 3.04057 1
-raxmlboot.7022.c1c2-filterlen33/RAxML_info.score:alpha: 0.819879 2.180887 2.156363 1.279046 1.816669 3.035224 1
-raxmlboot.7024.c1c2-filterlen33/RAxML_info.score:alpha: 0.637993 2.9809 3.019532 1.335476 1.804798 3.569329 1
-raxmlboot.7025.c1c2-filterlen33/RAxML_info.score:alpha: 0.561474 2.982628 4.029955 1.60428 2.093855 3.628763 1
-raxmlboot.7026.c1c2-filterlen33/RAxML_info.score:alpha: 1.097962 2.792348 3.793615 1.510248 1.753123 3.369283 1
-raxmlboot.7032.c1c2-filterlen33/RAxML_info.score:alpha: 0.734770 2.707564 2.905059 1.373982 1.874178 4.005355 1
-raxmlboot.7037.c1c2-filterlen33/RAxML_info.score:alpha: 0.983846 2.107807 3.493162 1.154524 1.851149 2.790999 1
-raxmlboot.7039.c1c2-filterlen33/RAxML_info.score:alpha: 0.547787 1.164719 1.619614 0.822946 0.886578 2.028477 1
-raxmlboot.7041.c1c2-filterlen33/RAxML_info.score:alpha: 0.983358 1.813259 3.473818 1.040165 1.317092 2.623267 1
-raxmlboot.7045.c1c2-filterlen33/RAxML_info.score:alpha: 1.442021 1.35705 2.192657 0.949504 1.497411 3.489966 1
-raxmlboot.7068.c1c2-filterlen33/RAxML_info.score:alpha: 0.491518 2.042225 2.375708 1.03365 1.218495 3.415949 1
-raxmlboot.7081.c1c2-filterlen33/RAxML_info.score:alpha: 0.471995 2.263518 2.850531 1.105823 1.752434 3.525313 1
-raxmlboot.7089.c1c2-filterlen33/RAxML_info.score:alpha: 0.818018 1.622538 2.783211 0.975212 1.370374 3.046032 1
-raxmlboot.7090.c1c2-filterlen33/RAxML_info.score:alpha: 0.928373 2.045175 2.15537 1.274715 1.261078 2.719802 1
-raxmlboot.7091.c1c2-filterlen33/RAxML_info.score:alpha: 0.840719 2.489806 4.949574 0.791338 2.079352 2.698952 1
-raxmlboot.7092.c1c2-filterlen33/RAxML_info.score:alpha: 0.755224 1.39171 2.055617 0.977375 1.096701 2.641253 1
-raxmlboot.7093.c1c2-filterlen33/RAxML_info.score:alpha: 0.705478 3.376517 3.418543 1.475098 1.813284 4.154376 1
-raxmlboot.7095.c1c2-filterlen33/RAxML_info.score:alpha: 0.564621 2.915416 3.600205 1.470012 1.912918 4.035778 1
-raxmlboot.7097.c1c2-filterlen33/RAxML_info.score:alpha: 0.629233 3.7084 3.874884 1.234092 2.38562 4.165313 1
-raxmlboot.7098.c1c2-filterlen33/RAxML_info.score:alpha: 0.595411 1.602814 1.855086 1.059472 1.021787 1.820503 1
-raxmlboot.7100.c1c2-filterlen33/RAxML_info.score:alpha: 0.533616 2.506727 2.6621 1.16415 1.473142 3.487187 1
-raxmlboot.7105.c1c2-filterlen33/RAxML_info.score:alpha: 1.259405 2.24879 3.52102 1.13317 2.166301 3.04286 1
-raxmlboot.7108.c1c2-filterlen33/RAxML_info.score:alpha: 0.779482 2.451619 3.598703 0.993436 1.677957 2.882922 1
-raxmlboot.7109.c1c2-filterlen33/RAxML_info.score:alpha: 1.236183 2.099602 3.464076 1.328295 1.830306 2.815536 1
-raxmlboot.7111.c1c2-filterlen33/RAxML_info.score:alpha: 0.999346 1.680782 2.049656 0.725966 1.655156 1.824114 1
-raxmlboot.7112.c1c2-filterlen33/RAxML_info.score:alpha: 0.690368 2.094477 3.580917 0.952353 1.774607 2.95691 1
-raxmlboot.7115.c1c2-filterlen33/RAxML_info.score:alpha: 0.756438 2.220574 2.878496 1.241046 1.165916 2.014518 1
-raxmlboot.7116.c1c2-filterlen33/RAxML_info.score:alpha: 0.646503 2.039965 2.720142 0.841745 0.983183 3.441089 1
-raxmlboot.7122.c1c2-filterlen33/RAxML_info.score:alpha: 0.585217 3.288363 2.192247 1.608006 1.044777 3.061533 1
-raxmlboot.7124.c1c2-filterlen33/RAxML_info.score:alpha: 0.975753 2.311889 2.525782 1.184821 1.730067 3.205003 1
-raxmlboot.7126.c1c2-filterlen33/RAxML_info.score:alpha: 0.595781 2.727444 3.173596 1.724434 1.368284 3.652781 1
-raxmlboot.7130.c1c2-filterlen33/RAxML_info.score:alpha: 1.081605 2.540822 2.607891 0.824022 1.502496 3.459257 1
-raxmlboot.7136.c1c2-filterlen33/RAxML_info.score:alpha: 1.054585 0.16002 1.07149 0.696019 0.425358 0.546272 1
-raxmlboot.7140.c1c2-filterlen33/RAxML_info.score:alpha: 0.845252 1.910543 2.525259 1.029474 1.344315 3.072797 1
-raxmlboot.7143.c1c2-filterlen33/RAxML_info.score:alpha: 0.996870 1.728348 1.941232 1.0475 1.121819 2.360202 1
-raxmlboot.7144.c1c2-filterlen33/RAxML_info.score:alpha: 0.943311 1.217484 2.42929 0.727588 1.169655 1.864442 1
-raxmlboot.7146.c1c2-filterlen33/RAxML_info.score:alpha: 0.621733 2.711481 3.866703 1.102012 1.581566 2.888459 1
-raxmlboot.7147.c1c2-filterlen33/RAxML_info.score:alpha: 0.616841 1.448342 3.068106 0.833392 1.45454 1.837188 1
-raxmlboot.7154.c1c2-filterlen33/RAxML_info.score:alpha: 0.737622 1.466614 1.826782 0.901776 1.199597 3.60593 1
-raxmlboot.7155.c1c2-filterlen33/RAxML_info.score:alpha: 0.539136 2.421569 1.686167 0.993368 1.679485 4.914321 1
-raxmlboot.7157.c1c2-filterlen33/RAxML_info.score:alpha: 0.826819 1.681643 1.678091 1.073585 1.510764 3.283995 1
-raxmlboot.7160.c1c2-filterlen33/RAxML_info.score:alpha: 0.935132 1.181275 1.813018 0.722935 1.000635 2.101371 1
-raxmlboot.7162.c1c2-filterlen33/RAxML_info.score:alpha: 0.724978 2.491614 2.662459 1.786251 1.344939 3.222404 1
-raxmlboot.7165.c1c2-filterlen33/RAxML_info.score:alpha: 0.633449 1.850823 2.343666 1.094072 1.398381 3.28821 1
-raxmlboot.7168.c1c2-filterlen33/RAxML_info.score:alpha: 0.706113 2.215259 1.891762 1.314153 1.315342 2.811466 1
-raxmlboot.7169.c1c2-filterlen33/RAxML_info.score:alpha: 1.067867 1.588867 2.967227 0.942861 1.607816 2.493605 1
-raxmlboot.7173.c1c2-filterlen33/RAxML_info.score:alpha: 1.751187 1.71736 3.806329 1.140356 2.058696 2.982426 1
-raxmlboot.7180.c1c2-filterlen33/RAxML_info.score:alpha: 0.573501 2.308425 2.886746 0.871801 1.475713 2.999756 1
-raxmlboot.7183.c1c2-filterlen33/RAxML_info.score:alpha: 0.363877 2.047692 3.532845 0.803977 1.349418 2.322593 1
-raxmlboot.7184.c1c2-filterlen33/RAxML_info.score:alpha: 0.723531 2.389056 2.632275 1.072457 1.487697 2.888248 1
-raxmlboot.7186.c1c2-filterlen33/RAxML_info.score:alpha: 0.451248 2.780835 3.502407 1.434243 1.54797 3.287823 1
-raxmlboot.7188.c1c2-filterlen33/RAxML_info.score:alpha: 0.564458 2.654694 3.619645 1.516664 1.659524 3.337378 1
-raxmlboot.7194.c1c2-filterlen33/RAxML_info.score:alpha: 0.812708 2.305586 3.640054 1.077704 1.586565 3.391878 1
-raxmlboot.7212.c1c2-filterlen33/RAxML_info.score:alpha: 0.634469 2.37581 2.325768 1.288272 1.296123 2.49765 1
-raxmlboot.7216.c1c2-filterlen33/RAxML_info.score:alpha: 0.780471 2.527349 4.03141 1.276547 2.107078 3.807071 1
-raxmlboot.7217.c1c2-filterlen33/RAxML_info.score:alpha: 1.087885 2.62494 3.891721 1.493306 1.707236 3.661506 1
-raxmlboot.7220.c1c2-filterlen33/RAxML_info.score:alpha: 0.572993 2.754325 2.555176 1.347664 1.193381 2.361674 1
-raxmlboot.7223.c1c2-filterlen33/RAxML_info.score:alpha: 0.689208 1.939043 3.255731 0.87495 1.780242 2.692784 1
-raxmlboot.7230.c1c2-filterlen33/RAxML_info.score:alpha: 0.601349 2.361616 3.963308 0.879973 1.885131 2.690428 1
-raxmlboot.7231.c1c2-filterlen33/RAxML_info.score:alpha: 0.659252 1.828325 2.021131 1.07638 1.533781 3.026525 1
-raxmlboot.7242.c1c2-filterlen33/RAxML_info.score:alpha: 0.611235 1.297142 1.989812 0.643582 1.249559 2.729928 1
-raxmlboot.7245.c1c2-filterlen33/RAxML_info.score:alpha: 0.508883 2.05606 2.444839 1.138972 1.422401 2.806671 1
-raxmlboot.7250.c1c2-filterlen33/RAxML_info.score:alpha: 0.561196 2.284042 3.047849 1.195899 1.841544 3.235699 1
-raxmlboot.7255.c1c2-filterlen33/RAxML_info.score:alpha: 0.573697 1.855273 1.769131 0.983431 1.011487 3.6639 1
-raxmlboot.7260.c1c2-filterlen33/RAxML_info.score:alpha: 0.486465 2.895501 2.655339 1.321068 1.479136 2.697612 1
-raxmlboot.7268.c1c2-filterlen33/RAxML_info.score:alpha: 0.598872 1.76626 2.474357 1.327492 1.29058 3.373284 1
-raxmlboot.7269.c1c2-filterlen33/RAxML_info.score:alpha: 0.786044 2.340178 3.502351 1.696653 1.43509 3.152302 1
-raxmlboot.7285.c1c2-filterlen33/RAxML_info.score:alpha: 1.114083 1.800213 2.263169 1.069828 1.30503 2.763357 1
-raxmlboot.7289.c1c2-filterlen33/RAxML_info.score:alpha: 1.102990 1.170369 1.707315 0.681281 1.160082 2.194772 1
-raxmlboot.7296.c1c2-filterlen33/RAxML_info.score:alpha: 0.860442 1.750284 2.039697 1.127858 1.16177 2.912639 1
-raxmlboot.7300.c1c2-filterlen33/RAxML_info.score:alpha: 1.138705 1.850095 4.182746 0.89632 2.038862 2.690122 1
-raxmlboot.7302.c1c2-filterlen33/RAxML_info.score:alpha: 1.008855 1.958937 1.890509 1.356407 1.35296 3.414879 1
-raxmlboot.7303.c1c2-filterlen33/RAxML_info.score:alpha: 0.762028 2.287315 2.254391 1.475896 1.771308 3.994751 1
-raxmlboot.7310.c1c2-filterlen33/RAxML_info.score:alpha: 0.596854 2.833788 4.520276 1.646292 1.285636 4.363434 1
-raxmlboot.7312.c1c2-filterlen33/RAxML_info.score:alpha: 0.747314 2.869363 2.935512 1.15238 1.9856 3.476684 1
-raxmlboot.7314.c1c2-filterlen33/RAxML_info.score:alpha: 0.600946 3.136609 4.184993 1.846509 2.103763 3.117757 1
-raxmlboot.7318.c1c2-filterlen33/RAxML_info.score:alpha: 0.897285 2.959044 3.813559 1.212586 1.692484 2.973085 1
-raxmlboot.7320.c1c2-filterlen33/RAxML_info.score:alpha: 1.063558 1.500175 2.38697 1.144254 0.906083 2.214183 1
-raxmlboot.7321.c1c2-filterlen33/RAxML_info.score:alpha: 0.792418 2.315173 3.03704 1.092538 1.903683 2.854482 1
-raxmlboot.7329.c1c2-filterlen33/RAxML_info.score:alpha: 0.495703 2.567283 3.646423 0.853818 1.250404 2.597977 1
-raxmlboot.7358.c1c2-filterlen33/RAxML_info.score:alpha: 0.984242 1.377863 2.715684 0.891596 1.253648 1.714303 1
-raxmlboot.7368.c1c2-filterlen33/RAxML_info.score:alpha: 0.589125 2.676827 2.347912 1.579186 1.645423 2.953402 1
-raxmlboot.7369.c1c2-filterlen33/RAxML_info.score:alpha: 1.167991 0.988277 2.363693 0.965932 0.915354 1.839881 1
-raxmlboot.7371.c1c2-filterlen33/RAxML_info.score:alpha: 1.459501 2.112372 2.89223 1.178214 1.35396 2.644003 1
-raxmlboot.7376.c1c2-filterlen33/RAxML_info.score:alpha: 0.773077 2.078101 2.687172 0.729599 1.734046 3.412603 1
-raxmlboot.7378.c1c2-filterlen33/RAxML_info.score:alpha: 0.466264 3.020949 2.991144 1.854838 1.291059 3.287878 1
-raxmlboot.7379.c1c2-filterlen33/RAxML_info.score:alpha: 1.289296 2.821273 3.298939 0.949325 1.702694 3.119889 1
-raxmlboot.7381.c1c2-filterlen33/RAxML_info.score:alpha: 0.576435 2.765735 3.379128 1.402246 1.46709 3.209809 1
-raxmlboot.7386.c1c2-filterlen33/RAxML_info.score:alpha: 0.638736 3.250391 2.72165 2.059871 1.160041 2.301549 1
-raxmlboot.7392.c1c2-filterlen33/RAxML_info.score:alpha: 0.714685 2.226985 2.850238 1.291713 1.60256 3.37274 1
-raxmlboot.7398.c1c2-filterlen33/RAxML_info.score:alpha: 0.663715 1.921901 2.325555 1.236104 0.981018 3.363135 1
-raxmlboot.7402.c1c2-filterlen33/RAxML_info.score:alpha: 0.674795 2.298731 3.06204 1.334683 1.818922 3.252088 1
-raxmlboot.7407.c1c2-filterlen33/RAxML_info.score:alpha: 0.692116 1.793458 3.492529 1.103573 1.493516 2.852568 1
-raxmlboot.7408.c1c2-filterlen33/RAxML_info.score:alpha: 0.615944 3.452482 3.810474 1.070272 2.000959 4.655058 1
-raxmlboot.7412.c1c2-filterlen33/RAxML_info.score:alpha: 0.921252 0.626005 0.717379 0.516904 0.692508 0.943425 1
-raxmlboot.7418.c1c2-filterlen33/RAxML_info.score:alpha: 0.761272 1.185085 2.681472 1.087368 1.059186 2.243905 1
-raxmlboot.7420.c1c2-filterlen33/RAxML_info.score:alpha: 0.746135 1.253001 1.284626 0.796334 0.699449 1.277608 1
-raxmlboot.7425.c1c2-filterlen33/RAxML_info.score:alpha: 1.327316 2.295495 4.11517 1.447789 1.891087 2.698357 1
-raxmlboot.7457.c1c2-filterlen33/RAxML_info.score:alpha: 0.796190 1.096269 1.103297 0.923849 0.548619 1.512538 1
-raxmlboot.7486.c1c2-filterlen33/RAxML_info.score:alpha: 1.858811 1.446257 3.463349 0.91407 1.33074 2.508436 1
-raxmlboot.7487.c1c2-filterlen33/RAxML_info.score:alpha: 1.513475 1.453238 2.70539 0.972075 1.736266 3.485875 1
-raxmlboot.7489.c1c2-filterlen33/RAxML_info.score:alpha: 0.971687 2.619534 5.167573 1.30239 2.48649 3.397127 1
-raxmlboot.7490.c1c2-filterlen33/RAxML_info.score:alpha: 0.902952 1.5993 2.745402 0.820068 1.339899 3.778087 1
-raxmlboot.7510.c1c2-filterlen33/RAxML_info.score:alpha: 0.580625 2.254122 3.118458 1.149721 1.938543 3.155188 1
-raxmlboot.7511.c1c2-filterlen33/RAxML_info.score:alpha: 1.615424 1.947966 3.807126 1.099416 1.853051 3.028866 1
-raxmlboot.7514.c1c2-filterlen33/RAxML_info.score:alpha: 0.867013 2.106945 3.669053 1.287822 1.782136 2.625559 1
-raxmlboot.7518.c1c2-filterlen33/RAxML_info.score:alpha: 0.858437 1.888172 1.922203 1.616732 1.137704 3.288389 1
-raxmlboot.7522.c1c2-filterlen33/RAxML_info.score:alpha: 0.692799 1.691496 2.323795 1.142172 1.534209 2.137957 1
-raxmlboot.7523.c1c2-filterlen33/RAxML_info.score:alpha: 0.904860 2.152787 2.900983 1.06724 1.39813 3.212797 1
-raxmlboot.7536.c1c2-filterlen33/RAxML_info.score:alpha: 1.046058 2.134923 2.61077 1.1117 1.106871 2.908285 1
-raxmlboot.7544.c1c2-filterlen33/RAxML_info.score:alpha: 1.162528 2.208472 2.901803 1.240158 1.580627 3.321526 1
-raxmlboot.7549.c1c2-filterlen33/RAxML_info.score:alpha: 0.765886 1.945287 2.571257 1.110656 1.727218 1.936864 1
-raxmlboot.7552.c1c2-filterlen33/RAxML_info.score:alpha: 0.746708 2.410796 2.866204 0.913372 1.004085 1.825614 1
-raxmlboot.7553.c1c2-filterlen33/RAxML_info.score:alpha: 0.588902 1.880201 2.539964 0.863061 1.320875 2.145135 1
-raxmlboot.7559.c1c2-filterlen33/RAxML_info.score:alpha: 1.528809 1.530447 3.627522 0.929582 1.556963 2.493274 1
-raxmlboot.7563.c1c2-filterlen33/RAxML_info.score:alpha: 0.430001 4.622657 5.589892 1.590706 1.959276 4.990322 1
-raxmlboot.7566.c1c2-filterlen33/RAxML_info.score:alpha: 0.449881 2.110549 1.557949 0.780349 0.874343 2.055727 1
-raxmlboot.7569.c1c2-filterlen33/RAxML_info.score:alpha: 0.801558 0.906269 1.199148 0.537999 0.863788 1.624939 1
-raxmlboot.7596.c1c2-filterlen33/RAxML_info.score:alpha: 0.920085 2.332785 3.547324 1.196298 1.783409 2.838927 1
-raxmlboot.7601.c1c2-filterlen33/RAxML_info.score:alpha: 0.720510 2.051107 2.944818 0.879534 1.785106 2.43391 1
-raxmlboot.7603.c1c2-filterlen33/RAxML_info.score:alpha: 0.688775 2.338661 2.812624 1.224144 1.693672 2.371706 1
-raxmlboot.7617.c1c2-filterlen33/RAxML_info.score:alpha: 0.666727 1.608788 2.199106 0.670639 1.253475 2.117462 1
-raxmlboot.7624.c1c2-filterlen33/RAxML_info.score:alpha: 0.724848 2.115649 3.08257 1.274269 1.359674 2.31544 1
-raxmlboot.7627.c1c2-filterlen33/RAxML_info.score:alpha: 1.024475 1.631038 1.716919 0.590755 1.868545 2.795872 1
-raxmlboot.7630.c1c2-filterlen33/RAxML_info.score:alpha: 0.718739 1.949697 3.243805 1.157482 1.908719 3.217872 1
-raxmlboot.7640.c1c2-filterlen33/RAxML_info.score:alpha: 0.778918 2.289858 3.298926 0.983332 2.125344 3.007522 1
-raxmlboot.7657.c1c2-filterlen33/RAxML_info.score:alpha: 1.029500 1.324311 1.985678 0.846318 1.081989 2.224839 1
-raxmlboot.7667.c1c2-filterlen33/RAxML_info.score:alpha: 0.579288 4.150795 4.790613 1.745366 1.997452 2.763373 1
-raxmlboot.7670.c1c2-filterlen33/RAxML_info.score:alpha: 0.585937 1.55156 1.788227 0.970507 0.877509 1.697263 1
-raxmlboot.7684.c1c2-filterlen33/RAxML_info.score:alpha: 0.907098 1.831634 3.080134 1.095588 1.588871 3.155074 1
-raxmlboot.7711.c1c2-filterlen33/RAxML_info.score:alpha: 0.469270 3.050978 4.246267 0.865123 2.949825 4.432338 1
-raxmlboot.7714.c1c2-filterlen33/RAxML_info.score:alpha: 0.869144 2.525434 3.754948 1.175739 1.775744 3.264905 1
-raxmlboot.7719.c1c2-filterlen33/RAxML_info.score:alpha: 0.693640 2.095687 2.820824 1.705927 1.202209 3.662354 1
-raxmlboot.7720.c1c2-filterlen33/RAxML_info.score:alpha: 0.723779 4.167889 2.951439 1.482722 1.827248 4.428987 1
-raxmlboot.7726.c1c2-filterlen33/RAxML_info.score:alpha: 1.151801 1.818347 3.110301 1.168434 1.67264 2.020882 1
-raxmlboot.7747.c1c2-filterlen33/RAxML_info.score:alpha: 0.760028 1.956343 2.406263 1.008595 1.782647 2.333287 1
-raxmlboot.7756.c1c2-filterlen33/RAxML_info.score:alpha: 0.512415 2.258415 3.533003 1.98051 2.085481 4.782143 1
-raxmlboot.7760.c1c2-filterlen33/RAxML_info.score:alpha: 1.269259 2.397829 4.596759 1.697252 1.854429 3.491396 1
-raxmlboot.7808.c1c2-filterlen33/RAxML_info.score:alpha: 0.848000 1.038315 1.269581 0.68079 0.699462 1.348596 1
-raxmlboot.7822.c1c2-filterlen33/RAxML_info.score:alpha: 0.691563 2.745365 3.519825 1.744417 1.965182 2.858918 1
-raxmlboot.7830.c1c2-filterlen33/RAxML_info.score:alpha: 1.618672 1.178932 1.754746 0.797869 1.332111 2.364053 1
-raxmlboot.7831.c1c2-filterlen33/RAxML_info.score:alpha: 1.084923 1.98148 3.196742 1.210773 1.159187 1.946481 1
-raxmlboot.7832.c1c2-filterlen33/RAxML_info.score:alpha: 0.888357 2.178747 3.108434 1.415104 1.681481 3.156216 1
-raxmlboot.7865.c1c2-filterlen33/RAxML_info.score:alpha: 0.808128 1.446947 1.520726 0.952584 1.071637 2.792959 1
-raxmlboot.7868.c1c2-filterlen33/RAxML_info.score:alpha: 0.409956 1.885488 1.65408 0.846353 0.733453 1.346179 1
-raxmlboot.7924.c1c2-filterlen33/RAxML_info.score:alpha: 0.671347 3.607817 4.259189 1.42659 2.527605 3.959845 1
-raxmlboot.7947.c1c2-filterlen33/RAxML_info.score:alpha: 1.522889 1.78013 4.047389 0.96567 1.828196 2.607628 1
-raxmlboot.7968.c1c2-filterlen33/RAxML_info.score:alpha: 0.892233 1.981788 1.757062 0.946574 1.292598 2.430648 1
-raxmlboot.8121.c1c2-filterlen33/RAxML_info.score:alpha: 0.866789 1.657102 1.767763 0.823236 1.089503 3.259054 1
+raxmlboot.4218.c1c2-filterlen33/RAxML_info.score:alpha: 0.498204 rates[0] ac ag at cg ct gt: 1.591387 2.16467 1.037532 1.085555 2.866657 1
+raxmlboot.5068.c1c2-filterlen33/RAxML_info.score:alpha: 0.751282 rates[0] ac ag at cg ct gt: 1.792401 3.655576 1.211887 1.359234 2.614633 1
+raxmlboot.5075.c1c2-filterlen33/RAxML_info.score:alpha: 0.496581 rates[0] ac ag at cg ct gt: 3.590756 3.431531 1.49958 1.840464 4.231581 1
+raxmlboot.5086.c1c2-filterlen33/RAxML_info.score:alpha: 0.827699 rates[0] ac ag at cg ct gt: 1.767656 2.751864 0.966289 1.47647 2.689688 1
+raxmlboot.5087.c1c2-filterlen33/RAxML_info.score:alpha: 0.669947 rates[0] ac ag at cg ct gt: 2.93831 2.794326 1.336716 1.684963 3.966492 1
+raxmlboot.5088.c1c2-filterlen33/RAxML_info.score:alpha: 0.479849 rates[0] ac ag at cg ct gt: 1.982498 2.02898 1.149733 1.263212 2.98157 1
+raxmlboot.5091.c1c2-filterlen33/RAxML_info.score:alpha: 0.659774 rates[0] ac ag at cg ct gt: 1.888472 1.589288 1.092514 1.130167 2.283574 1
+raxmlboot.5092.c1c2-filterlen33/RAxML_info.score:alpha: 0.514240 rates[0] ac ag at cg ct gt: 2.432918 3.097209 1.038394 1.149806 3.380142 1
+raxmlboot.5097.c1c2-filterlen33/RAxML_info.score:alpha: 0.509412 rates[0] ac ag at cg ct gt: 2.07312 2.9163 1.425421 1.641082 3.510406 1
+raxmlboot.5103.c1c2-filterlen33/RAxML_info.score:alpha: 0.703045 rates[0] ac ag at cg ct gt: 1.43502 1.812606 0.661984 1.498864 2.148661 1
+raxmlboot.5111.c1c2-filterlen33/RAxML_info.score:alpha: 0.852177 rates[0] ac ag at cg ct gt: 1.812052 2.973574 1.053693 1.546886 2.857002 1
+raxmlboot.5148.c1c2-filterlen33/RAxML_info.score:alpha: 0.547407 rates[0] ac ag at cg ct gt: 2.175303 2.692171 1.179801 1.321381 2.845567 1
+raxmlboot.5154.c1c2-filterlen33/RAxML_info.score:alpha: 0.516728 rates[0] ac ag at cg ct gt: 1.308602 2.165605 0.776639 1.331633 2.065119 1
+raxmlboot.5165.c1c2-filterlen33/RAxML_info.score:alpha: 0.730676 rates[0] ac ag at cg ct gt: 2.387343 3.112495 1.372931 1.519461 3.313455 1
+raxmlboot.5170.c1c2-filterlen33/RAxML_info.score:alpha: 0.560371 rates[0] ac ag at cg ct gt: 1.247452 1.298753 0.758136 1.118947 2.105503 1
+raxmlboot.5172.c1c2-filterlen33/RAxML_info.score:alpha: 0.783495 rates[0] ac ag at cg ct gt: 2.522529 2.764161 1.045141 1.58912 2.663038 1
+raxmlboot.5175.c1c2-filterlen33/RAxML_info.score:alpha: 0.419517 rates[0] ac ag at cg ct gt: 2.040822 2.649348 1.273478 1.279348 3.678724 1
+raxmlboot.5188.c1c2-filterlen33/RAxML_info.score:alpha: 0.959685 rates[0] ac ag at cg ct gt: 0.853897 1.846972 0.789366 0.957562 2.307181 1
+raxmlboot.5206.c1c2-filterlen33/RAxML_info.score:alpha: 0.858117 rates[0] ac ag at cg ct gt: 2.045522 3.132791 1.169889 1.55446 2.866036 1
+raxmlboot.5226.c1c2-filterlen33/RAxML_info.score:alpha: 0.437336 rates[0] ac ag at cg ct gt: 0.854855 1.120465 0.679228 1.10578 2.125828 1
+raxmlboot.5229.c1c2-filterlen33/RAxML_info.score:alpha: 0.643788 rates[0] ac ag at cg ct gt: 2.260089 3.240081 1.276829 1.620745 3.094186 1
+raxmlboot.5233.c1c2-filterlen33/RAxML_info.score:alpha: 0.533072 rates[0] ac ag at cg ct gt: 1.764882 2.363487 0.995904 1.431839 3.379646 1
+raxmlboot.5270.c1c2-filterlen33/RAxML_info.score:alpha: 0.622791 rates[0] ac ag at cg ct gt: 1.955286 2.956618 1.306423 1.431816 2.443285 1
+raxmlboot.5276.c1c2-filterlen33/RAxML_info.score:alpha: 0.853602 rates[0] ac ag at cg ct gt: 1.604211 2.599821 0.890232 1.821496 2.221077 1
+raxmlboot.5279.c1c2-filterlen33/RAxML_info.score:alpha: 0.602063 rates[0] ac ag at cg ct gt: 2.766318 4.04182 1.404296 2.121614 4.656212 1
+raxmlboot.5286.c1c2-filterlen33/RAxML_info.score:alpha: 1.204488 rates[0] ac ag at cg ct gt: 2.015326 4.075656 1.238973 1.760242 3.286155 1
+raxmlboot.5294.c1c2-filterlen33/RAxML_info.score:alpha: 0.984457 rates[0] ac ag at cg ct gt: 2.458181 4.178871 1.374272 2.111996 2.871226 1
+raxmlboot.5301.c1c2-filterlen33/RAxML_info.score:alpha: 0.497307 rates[0] ac ag at cg ct gt: 2.751739 3.225696 1.407488 1.804373 3.403023 1
+raxmlboot.5304.c1c2-filterlen33/RAxML_info.score:alpha: 0.610871 rates[0] ac ag at cg ct gt: 2.349029 3.422967 1.312679 1.292997 3.034741 1
+raxmlboot.5306.c1c2-filterlen33/RAxML_info.score:alpha: 1.881602 rates[0] ac ag at cg ct gt: 1.446215 2.189147 0.934779 1.101481 2.186686 1
+raxmlboot.5310.c1c2-filterlen33/RAxML_info.score:alpha: 0.622786 rates[0] ac ag at cg ct gt: 1.932002 2.454561 1.105928 1.209345 2.724171 1
+raxmlboot.5326.c1c2-filterlen33/RAxML_info.score:alpha: 0.622478 rates[0] ac ag at cg ct gt: 2.797487 3.107937 1.355688 1.502815 3.259946 1
+raxmlboot.5331.c1c2-filterlen33/RAxML_info.score:alpha: 0.543631 rates[0] ac ag at cg ct gt: 1.474156 2.693117 1.001016 1.746816 2.762906 1
+raxmlboot.5333.c1c2-filterlen33/RAxML_info.score:alpha: 0.558918 rates[0] ac ag at cg ct gt: 2.490368 2.354433 0.805695 1.402919 3.416358 1
+raxmlboot.5334.c1c2-filterlen33/RAxML_info.score:alpha: 0.492846 rates[0] ac ag at cg ct gt: 2.141692 2.767687 1.237092 1.526911 3.450774 1
+raxmlboot.5336.c1c2-filterlen33/RAxML_info.score:alpha: 0.590822 rates[0] ac ag at cg ct gt: 2.042385 2.700167 0.94962 1.361113 2.688242 1
+raxmlboot.5338.c1c2-filterlen33/RAxML_info.score:alpha: 0.649662 rates[0] ac ag at cg ct gt: 3.170611 1.741648 1.390482 2.11164 4.436659 1
+raxmlboot.5353.c1c2-filterlen33/RAxML_info.score:alpha: 0.660557 rates[0] ac ag at cg ct gt: 2.779601 3.530936 1.049309 2.109502 3.156208 1
+raxmlboot.5367.c1c2-filterlen33/RAxML_info.score:alpha: 1.109922 rates[0] ac ag at cg ct gt: 2.148854 3.83729 1.583081 1.618809 2.979866 1
+raxmlboot.5384.c1c2-filterlen33/RAxML_info.score:alpha: 1.180434 rates[0] ac ag at cg ct gt: 1.427953 2.852197 1.25254 1.287244 2.668596 1
+raxmlboot.5385.c1c2-filterlen33/RAxML_info.score:alpha: 0.513939 rates[0] ac ag at cg ct gt: 1.616487 1.522406 0.83516 0.932051 3.799564 1
+raxmlboot.5425.c1c2-filterlen33/RAxML_info.score:alpha: 0.840853 rates[0] ac ag at cg ct gt: 1.583817 2.34793 0.918083 1.364721 2.76932 1
+raxmlboot.5427.c1c2-filterlen33/RAxML_info.score:alpha: 0.852346 rates[0] ac ag at cg ct gt: 2.099973 3.560768 0.911673 1.633534 2.520735 1
+raxmlboot.5463.c1c2-filterlen33/RAxML_info.score:alpha: 1.408177 rates[0] ac ag at cg ct gt: 2.53114 3.085964 1.170041 1.972445 3.041074 1
+raxmlboot.5475.c1c2-filterlen33/RAxML_info.score:alpha: 0.566963 rates[0] ac ag at cg ct gt: 1.397364 2.083277 0.777533 1.031962 2.812548 1
+raxmlboot.5479.c1c2-filterlen33/RAxML_info.score:alpha: 0.824298 rates[0] ac ag at cg ct gt: 1.233408 2.67796 1.007899 1.170855 2.398576 1
+raxmlboot.5484.c1c2-filterlen33/RAxML_info.score:alpha: 0.455855 rates[0] ac ag at cg ct gt: 2.820322 3.863611 1.598836 2.181908 3.633203 1
+raxmlboot.5488.c1c2-filterlen33/RAxML_info.score:alpha: 0.773440 rates[0] ac ag at cg ct gt: 1.400072 2.095993 0.877576 1.191749 2.470326 1
+raxmlboot.5494.c1c2-filterlen33/RAxML_info.score:alpha: 0.492445 rates[0] ac ag at cg ct gt: 2.355784 2.926813 1.244183 1.590472 3.299199 1
+raxmlboot.5507.c1c2-filterlen33/RAxML_info.score:alpha: 1.011277 rates[0] ac ag at cg ct gt: 2.16074 2.64157 0.881662 1.296082 2.712426 1
+raxmlboot.5508.c1c2-filterlen33/RAxML_info.score:alpha: 0.442095 rates[0] ac ag at cg ct gt: 2.63478 3.063308 1.518317 1.765223 3.997015 1
+raxmlboot.5514.c1c2-filterlen33/RAxML_info.score:alpha: 0.494475 rates[0] ac ag at cg ct gt: 2.708582 3.216415 1.023181 1.478318 3.687526 1
+raxmlboot.5516.c1c2-filterlen33/RAxML_info.score:alpha: 0.538219 rates[0] ac ag at cg ct gt: 1.426398 2.941448 1.016623 1.161686 2.445131 1
+raxmlboot.5521.c1c2-filterlen33/RAxML_info.score:alpha: 1.023779 rates[0] ac ag at cg ct gt: 2.017168 3.503937 1.17584 2.078027 2.821947 1
+raxmlboot.5528.c1c2-filterlen33/RAxML_info.score:alpha: 0.336080 rates[0] ac ag at cg ct gt: 2.269078 2.212821 0.83582 1.190177 3.71213 1
+raxmlboot.5536.c1c2-filterlen33/RAxML_info.score:alpha: 0.620223 rates[0] ac ag at cg ct gt: 2.05788 2.44648 1.109064 1.733985 4.596972 1
+raxmlboot.5551.c1c2-filterlen33/RAxML_info.score:alpha: 0.749771 rates[0] ac ag at cg ct gt: 2.277689 2.859835 1.162688 1.845967 3.131457 1
+raxmlboot.5558.c1c2-filterlen33/RAxML_info.score:alpha: 0.432053 rates[0] ac ag at cg ct gt: 2.009234 2.365202 1.134905 1.15979 3.139489 1
+raxmlboot.5559.c1c2-filterlen33/RAxML_info.score:alpha: 0.567599 rates[0] ac ag at cg ct gt: 3.185163 3.0716 1.488874 1.787937 5.06076 1
+raxmlboot.5571.c1c2-filterlen33/RAxML_info.score:alpha: 0.540815 rates[0] ac ag at cg ct gt: 1.582786 2.857901 0.869376 1.179395 1.788021 1
+raxmlboot.5578.c1c2-filterlen33/RAxML_info.score:alpha: 0.803309 rates[0] ac ag at cg ct gt: 1.52795 1.242627 0.810813 0.57552 2.898234 1
+raxmlboot.5579.c1c2-filterlen33/RAxML_info.score:alpha: 0.548344 rates[0] ac ag at cg ct gt: 2.020634 2.148421 0.70432 1.371888 2.469569 1
+raxmlboot.5582.c1c2-filterlen33/RAxML_info.score:alpha: 0.938904 rates[0] ac ag at cg ct gt: 2.001644 3.363259 1.10713 1.701073 3.136404 1
+raxmlboot.5588.c1c2-filterlen33/RAxML_info.score:alpha: 0.861955 rates[0] ac ag at cg ct gt: 1.438001 1.584116 0.939271 1.336713 2.890383 1
+raxmlboot.5600.c1c2-filterlen33/RAxML_info.score:alpha: 0.471179 rates[0] ac ag at cg ct gt: 1.543111 2.085001 1.120841 1.197814 3.000527 1
+raxmlboot.5601.c1c2-filterlen33/RAxML_info.score:alpha: 0.816400 rates[0] ac ag at cg ct gt: 1.837837 2.085704 0.952311 1.834302 3.10824 1
+raxmlboot.5604.c1c2-filterlen33/RAxML_info.score:alpha: 0.596504 rates[0] ac ag at cg ct gt: 2.863548 3.549947 2.020459 1.523658 3.677321 1
+raxmlboot.5607.c1c2-filterlen33/RAxML_info.score:alpha: 0.706178 rates[0] ac ag at cg ct gt: 1.118124 1.2723 0.941424 1.002217 2.752894 1
+raxmlboot.5628.c1c2-filterlen33/RAxML_info.score:alpha: 0.588564 rates[0] ac ag at cg ct gt: 1.497528 1.916614 0.725894 1.278056 3.461961 1
+raxmlboot.5631.c1c2-filterlen33/RAxML_info.score:alpha: 0.509139 rates[0] ac ag at cg ct gt: 2.605162 3.927635 1.558258 1.720224 2.882457 1
+raxmlboot.5644.c1c2-filterlen33/RAxML_info.score:alpha: 0.875114 rates[0] ac ag at cg ct gt: 1.285149 1.664601 0.929161 1.245198 2.762015 1
+raxmlboot.5648.c1c2-filterlen33/RAxML_info.score:alpha: 0.603853 rates[0] ac ag at cg ct gt: 1.791369 2.077607 0.931079 1.075037 2.748231 1
+raxmlboot.5656.c1c2-filterlen33/RAxML_info.score:alpha: 0.484263 rates[0] ac ag at cg ct gt: 2.203396 2.656252 1.193253 1.383007 3.255763 1
+raxmlboot.5672.c1c2-filterlen33/RAxML_info.score:alpha: 0.959384 rates[0] ac ag at cg ct gt: 2.327958 2.743063 1.307997 1.764009 2.784573 1
+raxmlboot.5675.c1c2-filterlen33/RAxML_info.score:alpha: 0.472896 rates[0] ac ag at cg ct gt: 3.786411 4.86627 1.544342 2.79006 4.013799 1
+raxmlboot.5676.c1c2-filterlen33/RAxML_info.score:alpha: 0.937613 rates[0] ac ag at cg ct gt: 1.679994 2.221899 1.059849 1.121696 2.491461 1
+raxmlboot.5679.c1c2-filterlen33/RAxML_info.score:alpha: 0.811992 rates[0] ac ag at cg ct gt: 1.285477 3.315366 1.139463 1.215675 2.414384 1
+raxmlboot.5683.c1c2-filterlen33/RAxML_info.score:alpha: 0.759749 rates[0] ac ag at cg ct gt: 0.850746 2.370173 0.642587 0.911041 1.5272 1
+raxmlboot.5686.c1c2-filterlen33/RAxML_info.score:alpha: 0.624250 rates[0] ac ag at cg ct gt: 2.007596 2.349217 0.959706 1.794513 3.411468 1
+raxmlboot.5706.c1c2-filterlen33/RAxML_info.score:alpha: 1.660290 rates[0] ac ag at cg ct gt: 1.876378 3.294172 1.064094 1.894508 2.579188 1
+raxmlboot.5715.c1c2-filterlen33/RAxML_info.score:alpha: 0.594067 rates[0] ac ag at cg ct gt: 1.777361 2.933991 0.834331 1.624081 1.948103 1
+raxmlboot.5721.c1c2-filterlen33/RAxML_info.score:alpha: 1.384652 rates[0] ac ag at cg ct gt: 1.640804 2.518558 1.065771 1.388717 2.47265 1
+raxmlboot.5722.c1c2-filterlen33/RAxML_info.score:alpha: 1.023880 rates[0] ac ag at cg ct gt: 1.534305 3.112862 0.951468 1.746581 3.764166 1
+raxmlboot.5729.c1c2-filterlen33/RAxML_info.score:alpha: 0.456769 rates[0] ac ag at cg ct gt: 2.844707 3.051547 1.404387 1.849922 3.229108 1
+raxmlboot.5737.c1c2-filterlen33/RAxML_info.score:alpha: 0.573750 rates[0] ac ag at cg ct gt: 1.37069 1.750413 0.727251 1.196769 3.019969 1
+raxmlboot.5749.c1c2-filterlen33/RAxML_info.score:alpha: 0.681360 rates[0] ac ag at cg ct gt: 1.463067 2.63057 1.062649 1.371079 2.56187 1
+raxmlboot.5755.c1c2-filterlen33/RAxML_info.score:alpha: 1.158641 rates[0] ac ag at cg ct gt: 1.907679 2.940045 1.016063 1.496301 2.529658 1
+raxmlboot.5758.c1c2-filterlen33/RAxML_info.score:alpha: 0.587549 rates[0] ac ag at cg ct gt: 2.114678 2.710676 1.28535 1.510838 3.317899 1
+raxmlboot.5763.c1c2-filterlen33/RAxML_info.score:alpha: 0.945832 rates[0] ac ag at cg ct gt: 1.512134 2.516887 1.075033 1.039735 3.087319 1
+raxmlboot.5769.c1c2-filterlen33/RAxML_info.score:alpha: 0.569585 rates[0] ac ag at cg ct gt: 2.188973 2.124079 1.255469 1.070162 1.790852 1
+raxmlboot.5786.c1c2-filterlen33/RAxML_info.score:alpha: 0.796926 rates[0] ac ag at cg ct gt: 2.139236 2.728575 1.327037 1.547941 2.339549 1
+raxmlboot.5791.c1c2-filterlen33/RAxML_info.score:alpha: 0.569735 rates[0] ac ag at cg ct gt: 2.087526 3.272172 1.324535 1.452941 3.086468 1
+raxmlboot.5801.c1c2-filterlen33/RAxML_info.score:alpha: 0.886648 rates[0] ac ag at cg ct gt: 1.533021 2.637159 1.02279 1.192801 2.817085 1
+raxmlboot.5808.c1c2-filterlen33/RAxML_info.score:alpha: 0.768096 rates[0] ac ag at cg ct gt: 2.076133 2.109436 0.944446 1.336477 2.911349 1
+raxmlboot.5816.c1c2-filterlen33/RAxML_info.score:alpha: 0.578781 rates[0] ac ag at cg ct gt: 2.851834 3.589437 1.506827 2.361246 3.311078 1
+raxmlboot.5821.c1c2-filterlen33/RAxML_info.score:alpha: 2.083029 rates[0] ac ag at cg ct gt: 1.235715 2.104949 0.716973 1.272826 1.744532 1
+raxmlboot.5823.c1c2-filterlen33/RAxML_info.score:alpha: 0.632316 rates[0] ac ag at cg ct gt: 1.716437 1.747 0.694512 1.1616 2.041205 1
+raxmlboot.5824.c1c2-filterlen33/RAxML_info.score:alpha: 0.409068 rates[0] ac ag at cg ct gt: 1.986743 2.959138 1.124957 1.568903 3.573785 1
+raxmlboot.5830.c1c2-filterlen33/RAxML_info.score:alpha: 0.569165 rates[0] ac ag at cg ct gt: 1.595611 2.030882 1.131873 1.305129 2.148325 1
+raxmlboot.5834.c1c2-filterlen33/RAxML_info.score:alpha: 0.298478 rates[0] ac ag at cg ct gt: 1.743643 2.31908 0.889235 0.940344 2.067888 1
+raxmlboot.5836.c1c2-filterlen33/RAxML_info.score:alpha: 0.840161 rates[0] ac ag at cg ct gt: 1.68743 2.631812 1.024933 1.313564 2.460229 1
+raxmlboot.5839.c1c2-filterlen33/RAxML_info.score:alpha: 0.522874 rates[0] ac ag at cg ct gt: 2.864605 3.903107 1.899177 1.805938 3.870088 1
+raxmlboot.5843.c1c2-filterlen33/RAxML_info.score:alpha: 0.898377 rates[0] ac ag at cg ct gt: 1.895135 1.901461 0.581095 1.166574 1.296781 1
+raxmlboot.5847.c1c2-filterlen33/RAxML_info.score:alpha: 0.528289 rates[0] ac ag at cg ct gt: 2.238461 2.232709 0.844663 1.30289 3.132011 1
+raxmlboot.5853.c1c2-filterlen33/RAxML_info.score:alpha: 1.181370 rates[0] ac ag at cg ct gt: 2.614314 3.246933 1.079467 2.117701 3.551585 1
+raxmlboot.5858.c1c2-filterlen33/RAxML_info.score:alpha: 0.717779 rates[0] ac ag at cg ct gt: 2.2144 2.8501 1.230686 1.436705 2.521959 1
+raxmlboot.5870.c1c2-filterlen33/RAxML_info.score:alpha: 0.650025 rates[0] ac ag at cg ct gt: 2.048864 2.487721 0.671449 1.511092 2.304516 1
+raxmlboot.5875.c1c2-filterlen33/RAxML_info.score:alpha: 0.561414 rates[0] ac ag at cg ct gt: 1.421923 2.76988 1.144074 1.30743 3.167584 1
+raxmlboot.5881.c1c2-filterlen33/RAxML_info.score:alpha: 0.748213 rates[0] ac ag at cg ct gt: 1.944016 4.102982 0.954678 1.427272 2.541415 1
+raxmlboot.5891.c1c2-filterlen33/RAxML_info.score:alpha: 0.666083 rates[0] ac ag at cg ct gt: 2.645021 3.196762 1.667298 1.676158 3.207326 1
+raxmlboot.5894.c1c2-filterlen33/RAxML_info.score:alpha: 1.240050 rates[0] ac ag at cg ct gt: 2.318364 2.728325 1.379329 1.763037 2.830398 1
+raxmlboot.5903.c1c2-filterlen33/RAxML_info.score:alpha: 1.376108 rates[0] ac ag at cg ct gt: 1.226238 1.978139 1.112301 0.956792 2.108146 1
+raxmlboot.5905.c1c2-filterlen33/RAxML_info.score:alpha: 0.626812 rates[0] ac ag at cg ct gt: 2.205619 2.515965 1.410596 1.627314 2.645637 1
+raxmlboot.5911.c1c2-filterlen33/RAxML_info.score:alpha: 0.525885 rates[0] ac ag at cg ct gt: 2.900164 1.972245 1.640005 1.210175 3.981063 1
+raxmlboot.5915.c1c2-filterlen33/RAxML_info.score:alpha: 0.516531 rates[0] ac ag at cg ct gt: 2.951129 3.454174 1.557794 1.884591 3.1853 1
+raxmlboot.5918.c1c2-filterlen33/RAxML_info.score:alpha: 0.568887 rates[0] ac ag at cg ct gt: 1.503005 2.193053 1.214426 1.047066 2.686969 1
+raxmlboot.5919.c1c2-filterlen33/RAxML_info.score:alpha: 0.880141 rates[0] ac ag at cg ct gt: 1.3927 1.782569 0.882062 0.859454 2.738486 1
+raxmlboot.5925.c1c2-filterlen33/RAxML_info.score:alpha: 1.242591 rates[0] ac ag at cg ct gt: 2.346681 3.290878 1.306174 2.073689 3.704827 1
+raxmlboot.5928.c1c2-filterlen33/RAxML_info.score:alpha: 0.612669 rates[0] ac ag at cg ct gt: 1.922544 2.909283 0.980711 1.156107 2.37793 1
+raxmlboot.5934.c1c2-filterlen33/RAxML_info.score:alpha: 1.013531 rates[0] ac ag at cg ct gt: 1.697909 3.341605 0.968922 1.353084 2.609505 1
+raxmlboot.5939.c1c2-filterlen33/RAxML_info.score:alpha: 0.823220 rates[0] ac ag at cg ct gt: 2.341149 2.134362 1.540879 1.346434 4.191315 1
+raxmlboot.5944.c1c2-filterlen33/RAxML_info.score:alpha: 0.634199 rates[0] ac ag at cg ct gt: 2.261287 1.406522 0.61044 1.153161 3.827935 1
+raxmlboot.5951.c1c2-filterlen33/RAxML_info.score:alpha: 0.973403 rates[0] ac ag at cg ct gt: 0.636414 1.41648 0.584737 0.568674 2.017022 1
+raxmlboot.5954.c1c2-filterlen33/RAxML_info.score:alpha: 0.687929 rates[0] ac ag at cg ct gt: 1.817493 3.506854 1.215775 1.568743 3.049892 1
+raxmlboot.5955.c1c2-filterlen33/RAxML_info.score:alpha: 0.669601 rates[0] ac ag at cg ct gt: 1.994281 2.807118 1.706457 1.264575 3.274922 1
+raxmlboot.5957.c1c2-filterlen33/RAxML_info.score:alpha: 0.612445 rates[0] ac ag at cg ct gt: 3.299417 3.650395 1.686757 1.920021 4.318432 1
+raxmlboot.5964.c1c2-filterlen33/RAxML_info.score:alpha: 0.464009 rates[0] ac ag at cg ct gt: 3.616912 3.170865 1.718744 2.357132 5.128912 1
+raxmlboot.5967.c1c2-filterlen33/RAxML_info.score:alpha: 0.823946 rates[0] ac ag at cg ct gt: 1.552149 2.232844 0.979805 1.207013 2.056011 1
+raxmlboot.5979.c1c2-filterlen33/RAxML_info.score:alpha: 0.549359 rates[0] ac ag at cg ct gt: 2.299658 3.425596 1.460108 1.725784 3.212199 1
+raxmlboot.5986.c1c2-filterlen33/RAxML_info.score:alpha: 0.552338 rates[0] ac ag at cg ct gt: 2.501014 3.4621 1.541777 1.832658 3.418888 1
+raxmlboot.5991.c1c2-filterlen33/RAxML_info.score:alpha: 0.943117 rates[0] ac ag at cg ct gt: 2.285971 2.411307 1.287386 1.435975 3.392647 1
+raxmlboot.5993.c1c2-filterlen33/RAxML_info.score:alpha: 0.636005 rates[0] ac ag at cg ct gt: 1.401194 2.544903 1.085641 1.158151 2.692877 1
+raxmlboot.6000.c1c2-filterlen33/RAxML_info.score:alpha: 0.617895 rates[0] ac ag at cg ct gt: 2.838588 1.620836 1.119107 1.62293 3.743235 1
+raxmlboot.6001.c1c2-filterlen33/RAxML_info.score:alpha: 0.531462 rates[0] ac ag at cg ct gt: 2.194437 3.23545 1.407268 1.850362 3.203204 1
+raxmlboot.6010.c1c2-filterlen33/RAxML_info.score:alpha: 0.693447 rates[0] ac ag at cg ct gt: 1.34812 1.791584 1.022448 0.931901 2.854739 1
+raxmlboot.6016.c1c2-filterlen33/RAxML_info.score:alpha: 0.890631 rates[0] ac ag at cg ct gt: 2.236866 2.365335 1.229776 1.308276 2.585962 1
+raxmlboot.6022.c1c2-filterlen33/RAxML_info.score:alpha: 0.602543 rates[0] ac ag at cg ct gt: 2.627685 3.717389 1.468756 1.810538 3.266192 1
+raxmlboot.6025.c1c2-filterlen33/RAxML_info.score:alpha: 0.468422 rates[0] ac ag at cg ct gt: 2.076556 2.429536 1.227341 1.295199 3.141933 1
+raxmlboot.6026.c1c2-filterlen33/RAxML_info.score:alpha: 0.910983 rates[0] ac ag at cg ct gt: 1.024257 1.804171 1.136564 1.1895 1.945598 1
+raxmlboot.6032.c1c2-filterlen33/RAxML_info.score:alpha: 1.056066 rates[0] ac ag at cg ct gt: 1.054255 1.853981 0.955329 0.801664 2.620231 1
+raxmlboot.6036.c1c2-filterlen33/RAxML_info.score:alpha: 1.186401 rates[0] ac ag at cg ct gt: 1.57991 2.931227 1.013922 1.22915 2.779954 1
+raxmlboot.6039.c1c2-filterlen33/RAxML_info.score:alpha: 0.790937 rates[0] ac ag at cg ct gt: 2.451681 2.288806 0.901664 1.651244 2.276008 1
+raxmlboot.6040.c1c2-filterlen33/RAxML_info.score:alpha: 0.835333 rates[0] ac ag at cg ct gt: 1.421071 2.468206 1.032429 1.204391 3.234236 1
+raxmlboot.6045.c1c2-filterlen33/RAxML_info.score:alpha: 0.772703 rates[0] ac ag at cg ct gt: 1.882182 2.66083 1.091269 1.790478 3.159057 1
+raxmlboot.6053.c1c2-filterlen33/RAxML_info.score:alpha: 0.730028 rates[0] ac ag at cg ct gt: 2.331168 2.276418 0.777681 1.523842 3.702214 1
+raxmlboot.6066.c1c2-filterlen33/RAxML_info.score:alpha: 0.505744 rates[0] ac ag at cg ct gt: 1.681101 3.296495 1.141111 1.262305 2.595407 1
+raxmlboot.6069.c1c2-filterlen33/RAxML_info.score:alpha: 0.641894 rates[0] ac ag at cg ct gt: 3.435084 4.361782 1.330026 3.244917 4.192368 1
+raxmlboot.6075.c1c2-filterlen33/RAxML_info.score:alpha: 0.454152 rates[0] ac ag at cg ct gt: 1.770878 2.863094 1.172293 1.002615 2.880865 1
+raxmlboot.6076.c1c2-filterlen33/RAxML_info.score:alpha: 1.061437 rates[0] ac ag at cg ct gt: 1.582959 2.56985 1.008126 1.34042 2.750354 1
+raxmlboot.6086.c1c2-filterlen33/RAxML_info.score:alpha: 0.933164 rates[0] ac ag at cg ct gt: 0.97775 1.906925 0.963332 0.674424 1.989348 1
+raxmlboot.6092.c1c2-filterlen33/RAxML_info.score:alpha: 1.938130 rates[0] ac ag at cg ct gt: 2.034456 4.399845 1.068386 1.717254 3.10059 1
+raxmlboot.6094.c1c2-filterlen33/RAxML_info.score:alpha: 0.781501 rates[0] ac ag at cg ct gt: 1.997823 3.64351 1.151722 1.442096 2.70219 1
+raxmlboot.6107.c1c2-filterlen33/RAxML_info.score:alpha: 0.581789 rates[0] ac ag at cg ct gt: 2.651867 3.948286 1.487717 1.531912 3.449512 1
+raxmlboot.6120.c1c2-filterlen33/RAxML_info.score:alpha: 0.576661 rates[0] ac ag at cg ct gt: 2.061884 3.320254 0.947319 1.440113 3.210957 1
+raxmlboot.6121.c1c2-filterlen33/RAxML_info.score:alpha: 0.767268 rates[0] ac ag at cg ct gt: 2.378327 2.759435 0.902585 1.973952 2.327028 1
+raxmlboot.6123.c1c2-filterlen33/RAxML_info.score:alpha: 1.670222 rates[0] ac ag at cg ct gt: 1.700541 2.543447 0.834 1.201894 2.170247 1
+raxmlboot.6128.c1c2-filterlen33/RAxML_info.score:alpha: 0.926810 rates[0] ac ag at cg ct gt: 1.405469 2.094306 1.121156 1.281387 3.100224 1
+raxmlboot.6131.c1c2-filterlen33/RAxML_info.score:alpha: 0.949153 rates[0] ac ag at cg ct gt: 2.456991 3.074592 1.328102 2.091842 3.879653 1
+raxmlboot.6134.c1c2-filterlen33/RAxML_info.score:alpha: 0.547505 rates[0] ac ag at cg ct gt: 1.789252 2.368395 1.018189 1.390127 2.786102 1
+raxmlboot.6140.c1c2-filterlen33/RAxML_info.score:alpha: 0.536049 rates[0] ac ag at cg ct gt: 1.79443 2.384432 1.016357 1.407912 2.757085 1
+raxmlboot.6145.c1c2-filterlen33/RAxML_info.score:alpha: 0.640972 rates[0] ac ag at cg ct gt: 2.001579 2.506045 1.330935 1.470311 2.750284 1
+raxmlboot.6150.c1c2-filterlen33/RAxML_info.score:alpha: 0.837756 rates[0] ac ag at cg ct gt: 1.534183 2.670835 0.933037 1.509037 2.818533 1
+raxmlboot.6154.c1c2-filterlen33/RAxML_info.score:alpha: 0.751745 rates[0] ac ag at cg ct gt: 2.397802 2.681121 1.49381 1.529779 2.842447 1
+raxmlboot.6155.c1c2-filterlen33/RAxML_info.score:alpha: 0.554983 rates[0] ac ag at cg ct gt: 2.082116 2.758369 1.112455 1.566768 2.915207 1
+raxmlboot.6159.c1c2-filterlen33/RAxML_info.score:alpha: 0.986054 rates[0] ac ag at cg ct gt: 1.989808 3.297981 1.069618 1.726196 3.137981 1
+raxmlboot.6162.c1c2-filterlen33/RAxML_info.score:alpha: 0.489463 rates[0] ac ag at cg ct gt: 2.213556 2.467681 0.976183 1.407796 3.201761 1
+raxmlboot.6171.c1c2-filterlen33/RAxML_info.score:alpha: 0.670159 rates[0] ac ag at cg ct gt: 2.825337 3.835792 1.072901 2.67211 3.075769 1
+raxmlboot.6175.c1c2-filterlen33/RAxML_info.score:alpha: 0.613655 rates[0] ac ag at cg ct gt: 1.401431 2.629028 1.247355 1.123636 2.602051 1
+raxmlboot.6176.c1c2-filterlen33/RAxML_info.score:alpha: 1.157866 rates[0] ac ag at cg ct gt: 1.653063 3.39564 0.958076 1.878321 2.654479 1
+raxmlboot.6179.c1c2-filterlen33/RAxML_info.score:alpha: 0.469761 rates[0] ac ag at cg ct gt: 1.847653 1.760269 1.116014 1.270557 2.557163 1
+raxmlboot.6180.c1c2-filterlen33/RAxML_info.score:alpha: 0.731631 rates[0] ac ag at cg ct gt: 3.248284 3.267188 1.333513 2.252053 5.792578 1
+raxmlboot.6191.c1c2-filterlen33/RAxML_info.score:alpha: 0.625099 rates[0] ac ag at cg ct gt: 1.009111 1.136399 0.598921 1.034276 2.985611 1
+raxmlboot.6193.c1c2-filterlen33/RAxML_info.score:alpha: 0.603895 rates[0] ac ag at cg ct gt: 2.446893 3.05664 1.192242 1.495786 3.321325 1
+raxmlboot.6194.c1c2-filterlen33/RAxML_info.score:alpha: 0.888398 rates[0] ac ag at cg ct gt: 2.274808 3.500842 1.496268 1.59641 3.092854 1
+raxmlboot.6195.c1c2-filterlen33/RAxML_info.score:alpha: 0.724402 rates[0] ac ag at cg ct gt: 1.693304 2.700462 1.092778 1.556578 2.468992 1
+raxmlboot.6202.c1c2-filterlen33/RAxML_info.score:alpha: 0.459840 rates[0] ac ag at cg ct gt: 3.176081 3.82033 1.32976 1.859682 4.467328 1
+raxmlboot.6207.c1c2-filterlen33/RAxML_info.score:alpha: 0.685229 rates[0] ac ag at cg ct gt: 1.661932 2.330083 1.088304 1.708276 2.429005 1
+raxmlboot.6210.c1c2-filterlen33/RAxML_info.score:alpha: 0.797220 rates[0] ac ag at cg ct gt: 1.628215 2.577586 1.05177 1.274813 2.998078 1
+raxmlboot.6224.c1c2-filterlen33/RAxML_info.score:alpha: 0.965121 rates[0] ac ag at cg ct gt: 1.271375 2.793902 0.924383 1.093654 2.106908 1
+raxmlboot.6226.c1c2-filterlen33/RAxML_info.score:alpha: 0.474693 rates[0] ac ag at cg ct gt: 3.41638 2.848801 1.11156 1.512687 3.904271 1
+raxmlboot.6233.c1c2-filterlen33/RAxML_info.score:alpha: 0.590570 rates[0] ac ag at cg ct gt: 3.652872 3.365718 1.353522 1.63453 3.476971 1
+raxmlboot.6240.c1c2-filterlen33/RAxML_info.score:alpha: 0.730560 rates[0] ac ag at cg ct gt: 1.975446 2.656844 1.03871 1.669631 2.450859 1
+raxmlboot.6246.c1c2-filterlen33/RAxML_info.score:alpha: 0.415946 rates[0] ac ag at cg ct gt: 0.956073 1.37575 0.917608 0.993741 1.856544 1
+raxmlboot.6249.c1c2-filterlen33/RAxML_info.score:alpha: 0.695155 rates[0] ac ag at cg ct gt: 2.54991 2.920452 1.298697 1.792537 3.393965 1
+raxmlboot.6251.c1c2-filterlen33/RAxML_info.score:alpha: 1.088416 rates[0] ac ag at cg ct gt: 1.409245 2.317376 0.782174 1.466033 2.692505 1
+raxmlboot.6280.c1c2-filterlen33/RAxML_info.score:alpha: 0.739660 rates[0] ac ag at cg ct gt: 1.508683 3.206778 0.863474 1.319414 2.160234 1
+raxmlboot.6284.c1c2-filterlen33/RAxML_info.score:alpha: 0.982020 rates[0] ac ag at cg ct gt: 2.180973 3.403482 0.975839 1.48875 3.037261 1
+raxmlboot.6294.c1c2-filterlen33/RAxML_info.score:alpha: 0.829220 rates[0] ac ag at cg ct gt: 1.798607 2.060624 1.268315 1.319748 3.556202 1
+raxmlboot.6296.c1c2-filterlen33/RAxML_info.score:alpha: 0.846984 rates[0] ac ag at cg ct gt: 2.564726 3.584657 0.952769 1.973536 2.085977 1
+raxmlboot.6299.c1c2-filterlen33/RAxML_info.score:alpha: 0.690170 rates[0] ac ag at cg ct gt: 2.103932 2.514174 1.210719 1.248176 2.7289 1
+raxmlboot.6302.c1c2-filterlen33/RAxML_info.score:alpha: 0.746510 rates[0] ac ag at cg ct gt: 2.072638 3.493634 1.090467 1.613593 2.763499 1
+raxmlboot.6308.c1c2-filterlen33/RAxML_info.score:alpha: 0.909220 rates[0] ac ag at cg ct gt: 2.243744 2.946538 1.304503 1.981449 4.109439 1
+raxmlboot.6313.c1c2-filterlen33/RAxML_info.score:alpha: 0.955406 rates[0] ac ag at cg ct gt: 1.66087 2.217117 1.189059 1.422442 1.956748 1
+raxmlboot.6315.c1c2-filterlen33/RAxML_info.score:alpha: 0.743865 rates[0] ac ag at cg ct gt: 1.626861 2.946088 1.133105 1.313459 2.751475 1
+raxmlboot.6322.c1c2-filterlen33/RAxML_info.score:alpha: 0.777128 rates[0] ac ag at cg ct gt: 2.620133 4.400876 1.33328 2.210044 2.976538 1
+raxmlboot.6324.c1c2-filterlen33/RAxML_info.score:alpha: 1.112152 rates[0] ac ag at cg ct gt: 1.559239 2.095121 0.949627 0.967502 1.981021 1
+raxmlboot.6339.c1c2-filterlen33/RAxML_info.score:alpha: 0.540651 rates[0] ac ag at cg ct gt: 2.128218 3.174011 1.216006 1.12571 2.959108 1
+raxmlboot.6341.c1c2-filterlen33/RAxML_info.score:alpha: 0.593929 rates[0] ac ag at cg ct gt: 1.86513 2.862901 1.346216 1.441865 3.707593 1
+raxmlboot.6342.c1c2-filterlen33/RAxML_info.score:alpha: 0.649628 rates[0] ac ag at cg ct gt: 2.504095 3.189305 1.596986 1.339884 2.906699 1
+raxmlboot.6349.c1c2-filterlen33/RAxML_info.score:alpha: 0.668789 rates[0] ac ag at cg ct gt: 1.991441 2.702927 1.276974 1.769814 2.612496 1
+raxmlboot.6353.c1c2-filterlen33/RAxML_info.score:alpha: 1.286520 rates[0] ac ag at cg ct gt: 1.139388 2.788715 1.180296 1.84917 2.991741 1
+raxmlboot.6354.c1c2-filterlen33/RAxML_info.score:alpha: 0.539286 rates[0] ac ag at cg ct gt: 1.595779 2.585367 0.830686 1.232538 2.168539 1
+raxmlboot.6358.c1c2-filterlen33/RAxML_info.score:alpha: 0.617615 rates[0] ac ag at cg ct gt: 1.077594 1.606434 0.92108 0.863701 2.019733 1
+raxmlboot.6360.c1c2-filterlen33/RAxML_info.score:alpha: 0.700528 rates[0] ac ag at cg ct gt: 1.582005 3.107589 1.134177 1.36058 2.103094 1
+raxmlboot.6361.c1c2-filterlen33/RAxML_info.score:alpha: 0.592605 rates[0] ac ag at cg ct gt: 1.818835 3.403221 1.167719 1.438994 2.824691 1
+raxmlboot.6376.c1c2-filterlen33/RAxML_info.score:alpha: 0.584234 rates[0] ac ag at cg ct gt: 2.922051 4.021871 1.476517 1.872779 3.643551 1
+raxmlboot.6379.c1c2-filterlen33/RAxML_info.score:alpha: 0.869267 rates[0] ac ag at cg ct gt: 2.805974 4.392472 1.498337 1.932096 3.035546 1
+raxmlboot.6380.c1c2-filterlen33/RAxML_info.score:alpha: 0.760660 rates[0] ac ag at cg ct gt: 2.91157 3.092579 1.348945 2.003061 4.083262 1
+raxmlboot.6381.c1c2-filterlen33/RAxML_info.score:alpha: 0.652357 rates[0] ac ag at cg ct gt: 2.495268 3.914773 1.505603 1.967949 3.831067 1
+raxmlboot.6383.c1c2-filterlen33/RAxML_info.score:alpha: 0.543135 rates[0] ac ag at cg ct gt: 2.553375 2.850543 1.616544 1.182419 3.912298 1
+raxmlboot.6387.c1c2-filterlen33/RAxML_info.score:alpha: 0.795863 rates[0] ac ag at cg ct gt: 1.658101 2.611099 1.082866 1.442451 2.648124 1
+raxmlboot.6390.c1c2-filterlen33/RAxML_info.score:alpha: 0.870165 rates[0] ac ag at cg ct gt: 2.585031 2.815431 1.038076 1.859118 2.701661 1
+raxmlboot.6392.c1c2-filterlen33/RAxML_info.score:alpha: 0.561168 rates[0] ac ag at cg ct gt: 1.540613 2.636838 1.072632 1.269978 2.038738 1
+raxmlboot.6401.c1c2-filterlen33/RAxML_info.score:alpha: 0.648210 rates[0] ac ag at cg ct gt: 3.09048 3.509898 0.955031 1.940474 3.933714 1
+raxmlboot.6403.c1c2-filterlen33/RAxML_info.score:alpha: 0.589351 rates[0] ac ag at cg ct gt: 2.019499 2.897989 1.175306 1.340985 2.637364 1
+raxmlboot.6405.c1c2-filterlen33/RAxML_info.score:alpha: 0.661127 rates[0] ac ag at cg ct gt: 2.081445 2.745623 1.26243 1.490305 2.747041 1
+raxmlboot.6406.c1c2-filterlen33/RAxML_info.score:alpha: 0.609264 rates[0] ac ag at cg ct gt: 2.43337 3.531526 1.896076 1.729181 3.663088 1
+raxmlboot.6407.c1c2-filterlen33/RAxML_info.score:alpha: 0.610279 rates[0] ac ag at cg ct gt: 2.426841 3.195927 1.203782 1.424438 3.428089 1
+raxmlboot.6410.c1c2-filterlen33/RAxML_info.score:alpha: 0.472886 rates[0] ac ag at cg ct gt: 1.885238 2.278478 0.721036 1.171794 1.598201 1
+raxmlboot.6411.c1c2-filterlen33/RAxML_info.score:alpha: 0.466974 rates[0] ac ag at cg ct gt: 1.811733 3.155036 1.426018 1.230747 3.163447 1
+raxmlboot.6412.c1c2-filterlen33/RAxML_info.score:alpha: 0.623967 rates[0] ac ag at cg ct gt: 1.920495 2.462713 0.857445 1.341773 2.548264 1
+raxmlboot.6413.c1c2-filterlen33/RAxML_info.score:alpha: 1.246589 rates[0] ac ag at cg ct gt: 1.855174 2.871491 0.937902 1.361059 2.827188 1
+raxmlboot.6414.c1c2-filterlen33/RAxML_info.score:alpha: 0.839036 rates[0] ac ag at cg ct gt: 1.838358 2.854847 1.129263 1.438458 2.748362 1
+raxmlboot.6416.c1c2-filterlen33/RAxML_info.score:alpha: 1.107410 rates[0] ac ag at cg ct gt: 0.999872 1.880448 0.99921 0.880345 1.409283 1
+raxmlboot.6418.c1c2-filterlen33/RAxML_info.score:alpha: 0.798616 rates[0] ac ag at cg ct gt: 2.28522 2.882967 1.177205 1.351342 2.757057 1
+raxmlboot.6421.c1c2-filterlen33/RAxML_info.score:alpha: 0.719061 rates[0] ac ag at cg ct gt: 2.513059 2.060235 1.177485 1.429062 3.20908 1
+raxmlboot.6422.c1c2-filterlen33/RAxML_info.score:alpha: 0.765393 rates[0] ac ag at cg ct gt: 1.645093 2.170988 1.196888 0.958145 2.493285 1
+raxmlboot.6427.c1c2-filterlen33/RAxML_info.score:alpha: 0.733929 rates[0] ac ag at cg ct gt: 3.082122 3.540424 0.728207 2.747663 3.51025 1
+raxmlboot.6431.c1c2-filterlen33/RAxML_info.score:alpha: 0.696227 rates[0] ac ag at cg ct gt: 1.816999 2.590683 0.934769 1.602842 3.864413 1
+raxmlboot.6433.c1c2-filterlen33/RAxML_info.score:alpha: 0.553463 rates[0] ac ag at cg ct gt: 2.194052 2.598808 1.350916 1.613048 3.2644 1
+raxmlboot.6434.c1c2-filterlen33/RAxML_info.score:alpha: 1.292447 rates[0] ac ag at cg ct gt: 0.716401 1.825284 0.74028 0.741468 1.378016 1
+raxmlboot.6438.c1c2-filterlen33/RAxML_info.score:alpha: 0.654982 rates[0] ac ag at cg ct gt: 1.425384 2.961231 1.012721 1.232047 2.664714 1
+raxmlboot.6440.c1c2-filterlen33/RAxML_info.score:alpha: 0.690027 rates[0] ac ag at cg ct gt: 2.223098 2.073394 0.863056 1.671969 2.321438 1
+raxmlboot.6460.c1c2-filterlen33/RAxML_info.score:alpha: 0.849092 rates[0] ac ag at cg ct gt: 2.299443 3.0648 0.97716 2.198438 3.256833 1
+raxmlboot.6472.c1c2-filterlen33/RAxML_info.score:alpha: 0.827143 rates[0] ac ag at cg ct gt: 2.027829 3.439788 1.146268 1.405108 3.451045 1
+raxmlboot.6479.c1c2-filterlen33/RAxML_info.score:alpha: 0.869144 rates[0] ac ag at cg ct gt: 2.30323 3.656499 1.447264 1.663914 3.254883 1
+raxmlboot.6486.c1c2-filterlen33/RAxML_info.score:alpha: 0.756334 rates[0] ac ag at cg ct gt: 1.402139 1.727346 0.861244 0.900427 2.194651 1
+raxmlboot.6490.c1c2-filterlen33/RAxML_info.score:alpha: 0.540259 rates[0] ac ag at cg ct gt: 2.187184 2.709846 1.164963 1.238034 2.60244 1
+raxmlboot.6491.c1c2-filterlen33/RAxML_info.score:alpha: 0.544435 rates[0] ac ag at cg ct gt: 1.922396 1.988511 1.107554 1.348594 3.334531 1
+raxmlboot.6494.c1c2-filterlen33/RAxML_info.score:alpha: 0.593295 rates[0] ac ag at cg ct gt: 2.162797 3.182227 0.99051 1.646474 2.444487 1
+raxmlboot.6510.c1c2-filterlen33/RAxML_info.score:alpha: 0.766488 rates[0] ac ag at cg ct gt: 1.407694 2.706436 1.148023 1.104503 2.794193 1
+raxmlboot.6511.c1c2-filterlen33/RAxML_info.score:alpha: 0.590037 rates[0] ac ag at cg ct gt: 1.104127 1.718122 1.006041 0.91465 1.744137 1
+raxmlboot.6512.c1c2-filterlen33/RAxML_info.score:alpha: 0.864659 rates[0] ac ag at cg ct gt: 2.869277 3.403583 1.235364 1.998862 3.0725 1
+raxmlboot.6514.c1c2-filterlen33/RAxML_info.score:alpha: 0.564807 rates[0] ac ag at cg ct gt: 2.125535 3.617778 1.318892 1.750302 3.15532 1
+raxmlboot.6515.c1c2-filterlen33/RAxML_info.score:alpha: 0.668415 rates[0] ac ag at cg ct gt: 5.418873 4.184721 1.710305 2.935835 4.748177 1
+raxmlboot.6518.c1c2-filterlen33/RAxML_info.score:alpha: 0.915679 rates[0] ac ag at cg ct gt: 2.16596 2.636096 1.360181 1.699301 3.210337 1
+raxmlboot.6524.c1c2-filterlen33/RAxML_info.score:alpha: 0.511124 rates[0] ac ag at cg ct gt: 1.383 3.643235 0.789581 1.285703 2.095274 1
+raxmlboot.6525.c1c2-filterlen33/RAxML_info.score:alpha: 0.619670 rates[0] ac ag at cg ct gt: 3.432546 3.262116 1.458022 1.867251 3.47096 1
+raxmlboot.6526.c1c2-filterlen33/RAxML_info.score:alpha: 0.647407 rates[0] ac ag at cg ct gt: 1.437425 1.936105 0.81652 1.019657 2.436859 1
+raxmlboot.6531.c1c2-filterlen33/RAxML_info.score:alpha: 0.748100 rates[0] ac ag at cg ct gt: 2.080029 1.955943 0.916042 1.434738 2.35739 1
+raxmlboot.6532.c1c2-filterlen33/RAxML_info.score:alpha: 0.444072 rates[0] ac ag at cg ct gt: 2.85755 2.743176 1.405869 1.50932 3.216011 1
+raxmlboot.6533.c1c2-filterlen33/RAxML_info.score:alpha: 0.554138 rates[0] ac ag at cg ct gt: 2.864763 3.077029 1.270926 1.66798 2.74298 1
+raxmlboot.6534.c1c2-filterlen33/RAxML_info.score:alpha: 0.694108 rates[0] ac ag at cg ct gt: 1.989141 3.19066 1.07013 1.542295 2.264406 1
+raxmlboot.6537.c1c2-filterlen33/RAxML_info.score:alpha: 1.512951 rates[0] ac ag at cg ct gt: 1.294343 1.676077 1.144551 0.837773 3.750789 1
+raxmlboot.6539.c1c2-filterlen33/RAxML_info.score:alpha: 0.485261 rates[0] ac ag at cg ct gt: 3.22363 2.107374 0.934468 2.091119 4.70175 1
+raxmlboot.6551.c1c2-filterlen33/RAxML_info.score:alpha: 0.802395 rates[0] ac ag at cg ct gt: 2.159544 2.050365 2.098436 1.310559 2.924667 1
+raxmlboot.6554.c1c2-filterlen33/RAxML_info.score:alpha: 1.205253 rates[0] ac ag at cg ct gt: 1.672588 4.604184 0.959975 1.922271 1.937975 1
+raxmlboot.6558.c1c2-filterlen33/RAxML_info.score:alpha: 0.775604 rates[0] ac ag at cg ct gt: 2.010124 3.543872 0.960112 1.474596 2.327504 1
+raxmlboot.6560.c1c2-filterlen33/RAxML_info.score:alpha: 0.775130 rates[0] ac ag at cg ct gt: 1.78018 2.158122 0.948531 1.219599 2.718217 1
+raxmlboot.6564.c1c2-filterlen33/RAxML_info.score:alpha: 0.825615 rates[0] ac ag at cg ct gt: 1.528057 2.362892 1.041232 1.460181 2.279273 1
+raxmlboot.6572.c1c2-filterlen33/RAxML_info.score:alpha: 1.094916 rates[0] ac ag at cg ct gt: 1.621596 3.491416 0.954082 1.476055 2.276279 1
+raxmlboot.6575.c1c2-filterlen33/RAxML_info.score:alpha: 0.606124 rates[0] ac ag at cg ct gt: 2.318138 2.127779 1.279929 1.378719 2.475791 1
+raxmlboot.6576.c1c2-filterlen33/RAxML_info.score:alpha: 0.359277 rates[0] ac ag at cg ct gt: 2.746973 3.237892 1.347082 1.53667 3.988733 1
+raxmlboot.6578.c1c2-filterlen33/RAxML_info.score:alpha: 0.699770 rates[0] ac ag at cg ct gt: 1.755134 2.717183 1.210122 1.806694 3.324219 1
+raxmlboot.6580.c1c2-filterlen33/RAxML_info.score:alpha: 0.819395 rates[0] ac ag at cg ct gt: 1.548379 2.154308 0.528687 1.159843 2.358382 1
+raxmlboot.6581.c1c2-filterlen33/RAxML_info.score:alpha: 0.795221 rates[0] ac ag at cg ct gt: 1.154489 1.474391 0.669222 0.581421 2.099507 1
+raxmlboot.6586.c1c2-filterlen33/RAxML_info.score:alpha: 0.743986 rates[0] ac ag at cg ct gt: 1.847078 2.832252 1.236732 1.563505 2.983255 1
+raxmlboot.6587.c1c2-filterlen33/RAxML_info.score:alpha: 1.161997 rates[0] ac ag at cg ct gt: 1.291984 2.444731 1.208437 0.971913 2.754375 1
+raxmlboot.6591.c1c2-filterlen33/RAxML_info.score:alpha: 0.812455 rates[0] ac ag at cg ct gt: 2.401195 2.827105 1.096639 1.763014 3.023831 1
+raxmlboot.6592.c1c2-filterlen33/RAxML_info.score:alpha: 0.987707 rates[0] ac ag at cg ct gt: 1.784358 2.755749 1.271849 1.614322 3.710615 1
+raxmlboot.6603.c1c2-filterlen33/RAxML_info.score:alpha: 0.978772 rates[0] ac ag at cg ct gt: 2.268157 4.098519 1.561017 1.343972 2.754552 1
+raxmlboot.6604.c1c2-filterlen33/RAxML_info.score:alpha: 0.703095 rates[0] ac ag at cg ct gt: 1.430041 2.307863 0.854094 0.991183 2.495764 1
+raxmlboot.6609.c1c2-filterlen33/RAxML_info.score:alpha: 1.257610 rates[0] ac ag at cg ct gt: 1.891368 1.718201 0.829934 1.588109 3.526291 1
+raxmlboot.6614.c1c2-filterlen33/RAxML_info.score:alpha: 0.649240 rates[0] ac ag at cg ct gt: 2.211382 3.677668 1.372403 1.595191 3.086592 1
+raxmlboot.6616.c1c2-filterlen33/RAxML_info.score:alpha: 0.615432 rates[0] ac ag at cg ct gt: 2.467196 2.876447 1.09945 1.943862 2.777462 1
+raxmlboot.6618.c1c2-filterlen33/RAxML_info.score:alpha: 1.301189 rates[0] ac ag at cg ct gt: 1.508983 1.876472 1.009911 1.019008 2.07288 1
+raxmlboot.6619.c1c2-filterlen33/RAxML_info.score:alpha: 0.667361 rates[0] ac ag at cg ct gt: 2.170242 2.734375 1.385157 1.323172 2.61802 1
+raxmlboot.6635.c1c2-filterlen33/RAxML_info.score:alpha: 0.520279 rates[0] ac ag at cg ct gt: 2.109905 2.663283 0.911083 1.078463 1.722889 1
+raxmlboot.6646.c1c2-filterlen33/RAxML_info.score:alpha: 0.696094 rates[0] ac ag at cg ct gt: 2.244739 3.053507 1.314378 2.013336 2.156298 1
+raxmlboot.6647.c1c2-filterlen33/RAxML_info.score:alpha: 0.779363 rates[0] ac ag at cg ct gt: 1.915135 2.893993 0.997287 1.929213 2.410415 1
+raxmlboot.6655.c1c2-filterlen33/RAxML_info.score:alpha: 0.805577 rates[0] ac ag at cg ct gt: 1.600003 3.324847 1.028956 1.26967 2.662835 1
+raxmlboot.6660.c1c2-filterlen33/RAxML_info.score:alpha: 0.955193 rates[0] ac ag at cg ct gt: 1.648616 2.514625 1.052875 1.238721 2.833147 1
+raxmlboot.6663.c1c2-filterlen33/RAxML_info.score:alpha: 0.651253 rates[0] ac ag at cg ct gt: 1.882097 3.048046 1.03766 1.147386 2.531066 1
+raxmlboot.6664.c1c2-filterlen33/RAxML_info.score:alpha: 1.285028 rates[0] ac ag at cg ct gt: 2.500495 3.250428 1.08551 2.141361 3.053319 1
+raxmlboot.6668.c1c2-filterlen33/RAxML_info.score:alpha: 0.872912 rates[0] ac ag at cg ct gt: 1.695928 2.536522 1.28221 1.313265 3.783355 1
+raxmlboot.6675.c1c2-filterlen33/RAxML_info.score:alpha: 0.463479 rates[0] ac ag at cg ct gt: 2.192381 1.835081 0.988623 1.330184 1.738579 1
+raxmlboot.6677.c1c2-filterlen33/RAxML_info.score:alpha: 0.409286 rates[0] ac ag at cg ct gt: 3.529949 3.894412 1.802917 1.951712 4.281579 1
+raxmlboot.6681.c1c2-filterlen33/RAxML_info.score:alpha: 0.611933 rates[0] ac ag at cg ct gt: 1.311193 1.738927 1.130352 1.432138 2.748228 1
+raxmlboot.6687.c1c2-filterlen33/RAxML_info.score:alpha: 0.546752 rates[0] ac ag at cg ct gt: 1.788135 2.315123 1.231636 1.657443 3.387644 1
+raxmlboot.6689.c1c2-filterlen33/RAxML_info.score:alpha: 1.207498 rates[0] ac ag at cg ct gt: 1.168853 1.996751 1.031711 1.092955 2.603124 1
+raxmlboot.6691.c1c2-filterlen33/RAxML_info.score:alpha: 0.545164 rates[0] ac ag at cg ct gt: 2.423918 2.955627 1.143406 1.661414 3.875418 1
+raxmlboot.6694.c1c2-filterlen33/RAxML_info.score:alpha: 0.570022 rates[0] ac ag at cg ct gt: 2.206214 3.529204 1.114623 1.66604 2.515228 1
+raxmlboot.6695.c1c2-filterlen33/RAxML_info.score:alpha: 0.879090 rates[0] ac ag at cg ct gt: 1.818602 3.272358 1.140826 1.801688 2.817857 1
+raxmlboot.6697.c1c2-filterlen33/RAxML_info.score:alpha: 1.391912 rates[0] ac ag at cg ct gt: 2.728808 2.985479 1.020663 1.905735 3.559802 1
+raxmlboot.6701.c1c2-filterlen33/RAxML_info.score:alpha: 0.462028 rates[0] ac ag at cg ct gt: 2.199808 2.404105 1.179656 1.248282 3.126296 1
+raxmlboot.6703.c1c2-filterlen33/RAxML_info.score:alpha: 0.800243 rates[0] ac ag at cg ct gt: 1.758573 2.673711 0.911563 1.268113 2.077735 1
+raxmlboot.6708.c1c2-filterlen33/RAxML_info.score:alpha: 0.826770 rates[0] ac ag at cg ct gt: 2.246938 2.555911 1.070353 2.012961 2.749721 1
+raxmlboot.6713.c1c2-filterlen33/RAxML_info.score:alpha: 0.446833 rates[0] ac ag at cg ct gt: 2.620932 3.63944 1.49597 2.174873 3.622093 1
+raxmlboot.6715.c1c2-filterlen33/RAxML_info.score:alpha: 0.825572 rates[0] ac ag at cg ct gt: 1.333478 2.074223 1.003608 0.965675 2.966605 1
+raxmlboot.6725.c1c2-filterlen33/RAxML_info.score:alpha: 1.154396 rates[0] ac ag at cg ct gt: 1.522716 3.332948 0.902937 1.724998 3.048251 1
+raxmlboot.6728.c1c2-filterlen33/RAxML_info.score:alpha: 0.901229 rates[0] ac ag at cg ct gt: 1.743665 2.206253 0.904373 1.138705 2.031653 1
+raxmlboot.6729.c1c2-filterlen33/RAxML_info.score:alpha: 0.870524 rates[0] ac ag at cg ct gt: 2.012152 3.60848 1.034939 1.268396 2.80292 1
+raxmlboot.6731.c1c2-filterlen33/RAxML_info.score:alpha: 0.610187 rates[0] ac ag at cg ct gt: 1.044813 1.126289 0.58345 0.826545 1.803999 1
+raxmlboot.6732.c1c2-filterlen33/RAxML_info.score:alpha: 0.897244 rates[0] ac ag at cg ct gt: 2.676928 3.72816 1.182048 2.203186 3.641584 1
+raxmlboot.6737.c1c2-filterlen33/RAxML_info.score:alpha: 0.726376 rates[0] ac ag at cg ct gt: 1.567362 3.358995 1.176188 1.2846 2.229695 1
+raxmlboot.6740.c1c2-filterlen33/RAxML_info.score:alpha: 0.836055 rates[0] ac ag at cg ct gt: 1.537915 2.997467 1.061346 1.654758 2.648919 1
+raxmlboot.6743.c1c2-filterlen33/RAxML_info.score:alpha: 0.638867 rates[0] ac ag at cg ct gt: 2.74372 2.498109 1.543614 1.358476 3.376378 1
+raxmlboot.6749.c1c2-filterlen33/RAxML_info.score:alpha: 0.619779 rates[0] ac ag at cg ct gt: 1.636481 1.876403 0.997241 1.197015 2.233425 1
+raxmlboot.6750.c1c2-filterlen33/RAxML_info.score:alpha: 0.806051 rates[0] ac ag at cg ct gt: 2.898098 4.131722 1.030386 2.010132 3.275792 1
+raxmlboot.6753.c1c2-filterlen33/RAxML_info.score:alpha: 1.221927 rates[0] ac ag at cg ct gt: 1.787452 3.371057 0.974406 1.688708 3.216267 1
+raxmlboot.6770.c1c2-filterlen33/RAxML_info.score:alpha: 1.501347 rates[0] ac ag at cg ct gt: 2.533098 3.729018 1.272357 2.568866 2.674476 1
+raxmlboot.6775.c1c2-filterlen33/RAxML_info.score:alpha: 1.075340 rates[0] ac ag at cg ct gt: 1.390757 3.544377 1.080364 1.616863 2.224735 1
+raxmlboot.6785.c1c2-filterlen33/RAxML_info.score:alpha: 0.535589 rates[0] ac ag at cg ct gt: 2.050618 2.753735 1.348386 1.564873 3.410278 1
+raxmlboot.6786.c1c2-filterlen33/RAxML_info.score:alpha: 1.053711 rates[0] ac ag at cg ct gt: 2.107513 3.798654 1.128491 1.890836 3.531656 1
+raxmlboot.6787.c1c2-filterlen33/RAxML_info.score:alpha: 1.120029 rates[0] ac ag at cg ct gt: 1.145222 2.040618 0.706109 1.390783 1.932822 1
+raxmlboot.6788.c1c2-filterlen33/RAxML_info.score:alpha: 0.619258 rates[0] ac ag at cg ct gt: 2.492613 2.960206 1.301009 1.561055 2.809944 1
+raxmlboot.6789.c1c2-filterlen33/RAxML_info.score:alpha: 1.650985 rates[0] ac ag at cg ct gt: 2.194052 2.977566 1.083012 1.545716 2.695508 1
+raxmlboot.6790.c1c2-filterlen33/RAxML_info.score:alpha: 0.936728 rates[0] ac ag at cg ct gt: 1.920797 2.589749 1.225883 1.526086 2.129641 1
+raxmlboot.6800.c1c2-filterlen33/RAxML_info.score:alpha: 0.658154 rates[0] ac ag at cg ct gt: 1.951117 3.033742 1.056414 1.388918 2.090703 1
+raxmlboot.6805.c1c2-filterlen33/RAxML_info.score:alpha: 0.766380 rates[0] ac ag at cg ct gt: 2.268775 2.604798 1.02349 1.957277 3.208636 1
+raxmlboot.6806.c1c2-filterlen33/RAxML_info.score:alpha: 0.584434 rates[0] ac ag at cg ct gt: 2.446989 3.413294 1.299585 1.577013 3.337093 1
+raxmlboot.6807.c1c2-filterlen33/RAxML_info.score:alpha: 0.526092 rates[0] ac ag at cg ct gt: 2.057361 2.96785 0.992938 1.01329 2.287473 1
+raxmlboot.6820.c1c2-filterlen33/RAxML_info.score:alpha: 0.924986 rates[0] ac ag at cg ct gt: 1.972275 3.070691 1.43932 1.938779 2.453187 1
+raxmlboot.6822.c1c2-filterlen33/RAxML_info.score:alpha: 0.513546 rates[0] ac ag at cg ct gt: 2.00281 3.079298 1.00055 1.807046 2.920836 1
+raxmlboot.6827.c1c2-filterlen33/RAxML_info.score:alpha: 0.661112 rates[0] ac ag at cg ct gt: 1.625596 2.558214 0.885488 0.993938 1.890511 1
+raxmlboot.6831.c1c2-filterlen33/RAxML_info.score:alpha: 1.263597 rates[0] ac ag at cg ct gt: 1.642865 3.268995 1.284526 1.648555 2.732203 1
+raxmlboot.6836.c1c2-filterlen33/RAxML_info.score:alpha: 0.734136 rates[0] ac ag at cg ct gt: 1.858743 2.888165 1.28709 1.358716 2.960932 1
+raxmlboot.6838.c1c2-filterlen33/RAxML_info.score:alpha: 0.614808 rates[0] ac ag at cg ct gt: 2.220154 2.948301 1.381599 1.273901 2.861983 1
+raxmlboot.6842.c1c2-filterlen33/RAxML_info.score:alpha: 0.534163 rates[0] ac ag at cg ct gt: 2.667902 4.099658 1.18908 2.026878 3.568684 1
+raxmlboot.6849.c1c2-filterlen33/RAxML_info.score:alpha: 0.781098 rates[0] ac ag at cg ct gt: 1.793891 2.818897 1.104592 1.462312 2.448925 1
+raxmlboot.6852.c1c2-filterlen33/RAxML_info.score:alpha: 1.094567 rates[0] ac ag at cg ct gt: 1.367012 1.795322 0.833945 0.808935 1.536567 1
+raxmlboot.6863.c1c2-filterlen33/RAxML_info.score:alpha: 0.659258 rates[0] ac ag at cg ct gt: 2.435806 3.508375 1.298424 1.870899 3.878945 1
+raxmlboot.6866.c1c2-filterlen33/RAxML_info.score:alpha: 0.513492 rates[0] ac ag at cg ct gt: 2.59053 3.70084 1.446381 1.727225 4.337962 1
+raxmlboot.6870.c1c2-filterlen33/RAxML_info.score:alpha: 0.622100 rates[0] ac ag at cg ct gt: 2.235086 3.199834 1.401401 1.605516 2.956886 1
+raxmlboot.6872.c1c2-filterlen33/RAxML_info.score:alpha: 0.788946 rates[0] ac ag at cg ct gt: 1.539123 2.638928 1.058951 1.111732 2.400222 1
+raxmlboot.6878.c1c2-filterlen33/RAxML_info.score:alpha: 0.485171 rates[0] ac ag at cg ct gt: 2.605428 3.505382 1.817237 1.923412 4.105857 1
+raxmlboot.6891.c1c2-filterlen33/RAxML_info.score:alpha: 0.636728 rates[0] ac ag at cg ct gt: 2.266151 3.405086 0.897834 1.882746 3.528116 1
+raxmlboot.6892.c1c2-filterlen33/RAxML_info.score:alpha: 0.630644 rates[0] ac ag at cg ct gt: 1.629326 2.257927 1.036862 0.963927 2.052967 1
+raxmlboot.6893.c1c2-filterlen33/RAxML_info.score:alpha: 0.595437 rates[0] ac ag at cg ct gt: 1.968003 2.479798 1.161953 1.223246 2.54754 1
+raxmlboot.6894.c1c2-filterlen33/RAxML_info.score:alpha: 0.693761 rates[0] ac ag at cg ct gt: 1.497888 2.356871 0.920269 1.366285 2.589663 1
+raxmlboot.6898.c1c2-filterlen33/RAxML_info.score:alpha: 1.472431 rates[0] ac ag at cg ct gt: 1.559634 2.434919 1.107566 1.747768 2.925721 1
+raxmlboot.6907.c1c2-filterlen33/RAxML_info.score:alpha: 0.518074 rates[0] ac ag at cg ct gt: 3.399596 3.68691 1.353037 1.928963 2.898654 1
+raxmlboot.6909.c1c2-filterlen33/RAxML_info.score:alpha: 0.841778 rates[0] ac ag at cg ct gt: 2.351347 3.343174 1.250309 2.14697 2.773979 1
+raxmlboot.6916.c1c2-filterlen33/RAxML_info.score:alpha: 0.853117 rates[0] ac ag at cg ct gt: 2.300303 3.313719 1.34604 1.477665 3.229361 1
+raxmlboot.6919.c1c2-filterlen33/RAxML_info.score:alpha: 0.725574 rates[0] ac ag at cg ct gt: 2.263079 2.382835 1.35605 1.272693 2.588659 1
+raxmlboot.6929.c1c2-filterlen33/RAxML_info.score:alpha: 0.526605 rates[0] ac ag at cg ct gt: 1.622976 2.36661 0.990054 1.006072 2.45069 1
+raxmlboot.6943.c1c2-filterlen33/RAxML_info.score:alpha: 0.638199 rates[0] ac ag at cg ct gt: 2.279248 2.878195 1.203515 2.021109 2.997221 1
+raxmlboot.6948.c1c2-filterlen33/RAxML_info.score:alpha: 1.131745 rates[0] ac ag at cg ct gt: 3.479231 2.792314 1.193375 2.260388 3.683481 1
+raxmlboot.6953.c1c2-filterlen33/RAxML_info.score:alpha: 0.496818 rates[0] ac ag at cg ct gt: 2.413194 2.753558 1.43728 1.795026 3.493155 1
+raxmlboot.6957.c1c2-filterlen33/RAxML_info.score:alpha: 0.583354 rates[0] ac ag at cg ct gt: 3.046638 3.193777 1.644742 1.709195 3.417198 1
+raxmlboot.6959.c1c2-filterlen33/RAxML_info.score:alpha: 0.675515 rates[0] ac ag at cg ct gt: 2.320713 2.982301 1.19907 1.702522 3.78435 1
+raxmlboot.6960.c1c2-filterlen33/RAxML_info.score:alpha: 1.315753 rates[0] ac ag at cg ct gt: 1.699418 2.687921 0.915459 1.229259 2.513304 1
+raxmlboot.6962.c1c2-filterlen33/RAxML_info.score:alpha: 1.104276 rates[0] ac ag at cg ct gt: 1.38561 2.980011 1.150455 1.217505 2.94596 1
+raxmlboot.6972.c1c2-filterlen33/RAxML_info.score:alpha: 0.718844 rates[0] ac ag at cg ct gt: 2.110069 3.014387 1.258864 1.222514 3.656636 1
+raxmlboot.6973.c1c2-filterlen33/RAxML_info.score:alpha: 0.647669 rates[0] ac ag at cg ct gt: 1.567473 2.664554 0.995669 0.94438 2.850114 1
+raxmlboot.6978.c1c2-filterlen33/RAxML_info.score:alpha: 0.963922 rates[0] ac ag at cg ct gt: 1.66048 2.044337 1.023839 1.098012 1.863236 1
+raxmlboot.6982.c1c2-filterlen33/RAxML_info.score:alpha: 0.561913 rates[0] ac ag at cg ct gt: 2.497699 3.039244 1.011667 1.872381 3.815727 1
+raxmlboot.6984.c1c2-filterlen33/RAxML_info.score:alpha: 0.558208 rates[0] ac ag at cg ct gt: 2.59525 2.829933 1.551798 1.57369 4.244657 1
+raxmlboot.6994.c1c2-filterlen33/RAxML_info.score:alpha: 1.338717 rates[0] ac ag at cg ct gt: 2.104654 3.31191 1.051594 1.742834 2.953763 1
+raxmlboot.7002.c1c2-filterlen33/RAxML_info.score:alpha: 0.798022 rates[0] ac ag at cg ct gt: 1.42654 2.855951 0.938813 1.472557 2.445901 1
+raxmlboot.7004.c1c2-filterlen33/RAxML_info.score:alpha: 1.249798 rates[0] ac ag at cg ct gt: 1.312086 2.012563 0.752013 1.102155 1.509284 1
+raxmlboot.7005.c1c2-filterlen33/RAxML_info.score:alpha: 1.130022 rates[0] ac ag at cg ct gt: 3.029704 3.879111 1.177313 2.911657 4.17561 1
+raxmlboot.7006.c1c2-filterlen33/RAxML_info.score:alpha: 1.081549 rates[0] ac ag at cg ct gt: 1.636315 1.850124 1.016703 1.299565 2.192927 1
+raxmlboot.7007.c1c2-filterlen33/RAxML_info.score:alpha: 0.676761 rates[0] ac ag at cg ct gt: 2.358453 3.05587 0.968553 1.964177 2.595804 1
+raxmlboot.7008.c1c2-filterlen33/RAxML_info.score:alpha: 0.649744 rates[0] ac ag at cg ct gt: 1.286757 2.776643 0.531693 1.451594 2.00527 1
+raxmlboot.7009.c1c2-filterlen33/RAxML_info.score:alpha: 1.143361 rates[0] ac ag at cg ct gt: 1.419731 2.109414 0.827763 1.298757 2.438985 1
+raxmlboot.7011.c1c2-filterlen33/RAxML_info.score:alpha: 0.475028 rates[0] ac ag at cg ct gt: 1.531079 2.997557 0.659338 1.095298 2.628776 1
+raxmlboot.7015.c1c2-filterlen33/RAxML_info.score:alpha: 1.688358 rates[0] ac ag at cg ct gt: 1.477776 1.988185 1.197297 1.25996 2.535126 1
+raxmlboot.7017.c1c2-filterlen33/RAxML_info.score:alpha: 0.901168 rates[0] ac ag at cg ct gt: 2.854312 2.946847 1.187822 1.903233 2.16707 1
+raxmlboot.7020.c1c2-filterlen33/RAxML_info.score:alpha: 0.529431 rates[0] ac ag at cg ct gt: 2.018057 2.253776 1.092477 1.305044 3.04057 1
+raxmlboot.7022.c1c2-filterlen33/RAxML_info.score:alpha: 0.819879 rates[0] ac ag at cg ct gt: 2.180887 2.156363 1.279046 1.816669 3.035224 1
+raxmlboot.7024.c1c2-filterlen33/RAxML_info.score:alpha: 0.637993 rates[0] ac ag at cg ct gt: 2.9809 3.019532 1.335476 1.804798 3.569329 1
+raxmlboot.7025.c1c2-filterlen33/RAxML_info.score:alpha: 0.561474 rates[0] ac ag at cg ct gt: 2.982628 4.029955 1.60428 2.093855 3.628763 1
+raxmlboot.7026.c1c2-filterlen33/RAxML_info.score:alpha: 1.097962 rates[0] ac ag at cg ct gt: 2.792348 3.793615 1.510248 1.753123 3.369283 1
+raxmlboot.7032.c1c2-filterlen33/RAxML_info.score:alpha: 0.734770 rates[0] ac ag at cg ct gt: 2.707564 2.905059 1.373982 1.874178 4.005355 1
+raxmlboot.7037.c1c2-filterlen33/RAxML_info.score:alpha: 0.983846 rates[0] ac ag at cg ct gt: 2.107807 3.493162 1.154524 1.851149 2.790999 1
+raxmlboot.7039.c1c2-filterlen33/RAxML_info.score:alpha: 0.547787 rates[0] ac ag at cg ct gt: 1.164719 1.619614 0.822946 0.886578 2.028477 1
+raxmlboot.7041.c1c2-filterlen33/RAxML_info.score:alpha: 0.983358 rates[0] ac ag at cg ct gt: 1.813259 3.473818 1.040165 1.317092 2.623267 1
+raxmlboot.7045.c1c2-filterlen33/RAxML_info.score:alpha: 1.442021 rates[0] ac ag at cg ct gt: 1.35705 2.192657 0.949504 1.497411 3.489966 1
+raxmlboot.7068.c1c2-filterlen33/RAxML_info.score:alpha: 0.491518 rates[0] ac ag at cg ct gt: 2.042225 2.375708 1.03365 1.218495 3.415949 1
+raxmlboot.7081.c1c2-filterlen33/RAxML_info.score:alpha: 0.471995 rates[0] ac ag at cg ct gt: 2.263518 2.850531 1.105823 1.752434 3.525313 1
+raxmlboot.7089.c1c2-filterlen33/RAxML_info.score:alpha: 0.818018 rates[0] ac ag at cg ct gt: 1.622538 2.783211 0.975212 1.370374 3.046032 1
+raxmlboot.7090.c1c2-filterlen33/RAxML_info.score:alpha: 0.928373 rates[0] ac ag at cg ct gt: 2.045175 2.15537 1.274715 1.261078 2.719802 1
+raxmlboot.7091.c1c2-filterlen33/RAxML_info.score:alpha: 0.840719 rates[0] ac ag at cg ct gt: 2.489806 4.949574 0.791338 2.079352 2.698952 1
+raxmlboot.7092.c1c2-filterlen33/RAxML_info.score:alpha: 0.755224 rates[0] ac ag at cg ct gt: 1.39171 2.055617 0.977375 1.096701 2.641253 1
+raxmlboot.7093.c1c2-filterlen33/RAxML_info.score:alpha: 0.705478 rates[0] ac ag at cg ct gt: 3.376517 3.418543 1.475098 1.813284 4.154376 1
+raxmlboot.7095.c1c2-filterlen33/RAxML_info.score:alpha: 0.564621 rates[0] ac ag at cg ct gt: 2.915416 3.600205 1.470012 1.912918 4.035778 1
+raxmlboot.7097.c1c2-filterlen33/RAxML_info.score:alpha: 0.629233 rates[0] ac ag at cg ct gt: 3.7084 3.874884 1.234092 2.38562 4.165313 1
+raxmlboot.7098.c1c2-filterlen33/RAxML_info.score:alpha: 0.595411 rates[0] ac ag at cg ct gt: 1.602814 1.855086 1.059472 1.021787 1.820503 1
+raxmlboot.7100.c1c2-filterlen33/RAxML_info.score:alpha: 0.533616 rates[0] ac ag at cg ct gt: 2.506727 2.6621 1.16415 1.473142 3.487187 1
+raxmlboot.7105.c1c2-filterlen33/RAxML_info.score:alpha: 1.259405 rates[0] ac ag at cg ct gt: 2.24879 3.52102 1.13317 2.166301 3.04286 1
+raxmlboot.7108.c1c2-filterlen33/RAxML_info.score:alpha: 0.779482 rates[0] ac ag at cg ct gt: 2.451619 3.598703 0.993436 1.677957 2.882922 1
+raxmlboot.7109.c1c2-filterlen33/RAxML_info.score:alpha: 1.236183 rates[0] ac ag at cg ct gt: 2.099602 3.464076 1.328295 1.830306 2.815536 1
+raxmlboot.7111.c1c2-filterlen33/RAxML_info.score:alpha: 0.999346 rates[0] ac ag at cg ct gt: 1.680782 2.049656 0.725966 1.655156 1.824114 1
+raxmlboot.7112.c1c2-filterlen33/RAxML_info.score:alpha: 0.690368 rates[0] ac ag at cg ct gt: 2.094477 3.580917 0.952353 1.774607 2.95691 1
+raxmlboot.7115.c1c2-filterlen33/RAxML_info.score:alpha: 0.756438 rates[0] ac ag at cg ct gt: 2.220574 2.878496 1.241046 1.165916 2.014518 1
+raxmlboot.7116.c1c2-filterlen33/RAxML_info.score:alpha: 0.646503 rates[0] ac ag at cg ct gt: 2.039965 2.720142 0.841745 0.983183 3.441089 1
+raxmlboot.7122.c1c2-filterlen33/RAxML_info.score:alpha: 0.585217 rates[0] ac ag at cg ct gt: 3.288363 2.192247 1.608006 1.044777 3.061533 1
+raxmlboot.7124.c1c2-filterlen33/RAxML_info.score:alpha: 0.975753 rates[0] ac ag at cg ct gt: 2.311889 2.525782 1.184821 1.730067 3.205003 1
+raxmlboot.7126.c1c2-filterlen33/RAxML_info.score:alpha: 0.595781 rates[0] ac ag at cg ct gt: 2.727444 3.173596 1.724434 1.368284 3.652781 1
+raxmlboot.7130.c1c2-filterlen33/RAxML_info.score:alpha: 1.081605 rates[0] ac ag at cg ct gt: 2.540822 2.607891 0.824022 1.502496 3.459257 1
+raxmlboot.7136.c1c2-filterlen33/RAxML_info.score:alpha: 1.054585 rates[0] ac ag at cg ct gt: 0.16002 1.07149 0.696019 0.425358 0.546272 1
+raxmlboot.7140.c1c2-filterlen33/RAxML_info.score:alpha: 0.845252 rates[0] ac ag at cg ct gt: 1.910543 2.525259 1.029474 1.344315 3.072797 1
+raxmlboot.7143.c1c2-filterlen33/RAxML_info.score:alpha: 0.996870 rates[0] ac ag at cg ct gt: 1.728348 1.941232 1.0475 1.121819 2.360202 1
+raxmlboot.7144.c1c2-filterlen33/RAxML_info.score:alpha: 0.943311 rates[0] ac ag at cg ct gt: 1.217484 2.42929 0.727588 1.169655 1.864442 1
+raxmlboot.7146.c1c2-filterlen33/RAxML_info.score:alpha: 0.621733 rates[0] ac ag at cg ct gt: 2.711481 3.866703 1.102012 1.581566 2.888459 1
+raxmlboot.7147.c1c2-filterlen33/RAxML_info.score:alpha: 0.616841 rates[0] ac ag at cg ct gt: 1.448342 3.068106 0.833392 1.45454 1.837188 1
+raxmlboot.7154.c1c2-filterlen33/RAxML_info.score:alpha: 0.737622 rates[0] ac ag at cg ct gt: 1.466614 1.826782 0.901776 1.199597 3.60593 1
+raxmlboot.7155.c1c2-filterlen33/RAxML_info.score:alpha: 0.539136 rates[0] ac ag at cg ct gt: 2.421569 1.686167 0.993368 1.679485 4.914321 1
+raxmlboot.7157.c1c2-filterlen33/RAxML_info.score:alpha: 0.826819 rates[0] ac ag at cg ct gt: 1.681643 1.678091 1.073585 1.510764 3.283995 1
+raxmlboot.7160.c1c2-filterlen33/RAxML_info.score:alpha: 0.935132 rates[0] ac ag at cg ct gt: 1.181275 1.813018 0.722935 1.000635 2.101371 1
+raxmlboot.7162.c1c2-filterlen33/RAxML_info.score:alpha: 0.724978 rates[0] ac ag at cg ct gt: 2.491614 2.662459 1.786251 1.344939 3.222404 1
+raxmlboot.7165.c1c2-filterlen33/RAxML_info.score:alpha: 0.633449 rates[0] ac ag at cg ct gt: 1.850823 2.343666 1.094072 1.398381 3.28821 1
+raxmlboot.7168.c1c2-filterlen33/RAxML_info.score:alpha: 0.706113 rates[0] ac ag at cg ct gt: 2.215259 1.891762 1.314153 1.315342 2.811466 1
+raxmlboot.7169.c1c2-filterlen33/RAxML_info.score:alpha: 1.067867 rates[0] ac ag at cg ct gt: 1.588867 2.967227 0.942861 1.607816 2.493605 1
+raxmlboot.7173.c1c2-filterlen33/RAxML_info.score:alpha: 1.751187 rates[0] ac ag at cg ct gt: 1.71736 3.806329 1.140356 2.058696 2.982426 1
+raxmlboot.7180.c1c2-filterlen33/RAxML_info.score:alpha: 0.573501 rates[0] ac ag at cg ct gt: 2.308425 2.886746 0.871801 1.475713 2.999756 1
+raxmlboot.7183.c1c2-filterlen33/RAxML_info.score:alpha: 0.363877 rates[0] ac ag at cg ct gt: 2.047692 3.532845 0.803977 1.349418 2.322593 1
+raxmlboot.7184.c1c2-filterlen33/RAxML_info.score:alpha: 0.723531 rates[0] ac ag at cg ct gt: 2.389056 2.632275 1.072457 1.487697 2.888248 1
+raxmlboot.7186.c1c2-filterlen33/RAxML_info.score:alpha: 0.451248 rates[0] ac ag at cg ct gt: 2.780835 3.502407 1.434243 1.54797 3.287823 1
+raxmlboot.7188.c1c2-filterlen33/RAxML_info.score:alpha: 0.564458 rates[0] ac ag at cg ct gt: 2.654694 3.619645 1.516664 1.659524 3.337378 1
+raxmlboot.7194.c1c2-filterlen33/RAxML_info.score:alpha: 0.812708 rates[0] ac ag at cg ct gt: 2.305586 3.640054 1.077704 1.586565 3.391878 1
+raxmlboot.7212.c1c2-filterlen33/RAxML_info.score:alpha: 0.634469 rates[0] ac ag at cg ct gt: 2.37581 2.325768 1.288272 1.296123 2.49765 1
+raxmlboot.7216.c1c2-filterlen33/RAxML_info.score:alpha: 0.780471 rates[0] ac ag at cg ct gt: 2.527349 4.03141 1.276547 2.107078 3.807071 1
+raxmlboot.7217.c1c2-filterlen33/RAxML_info.score:alpha: 1.087885 rates[0] ac ag at cg ct gt: 2.62494 3.891721 1.493306 1.707236 3.661506 1
+raxmlboot.7220.c1c2-filterlen33/RAxML_info.score:alpha: 0.572993 rates[0] ac ag at cg ct gt: 2.754325 2.555176 1.347664 1.193381 2.361674 1
+raxmlboot.7223.c1c2-filterlen33/RAxML_info.score:alpha: 0.689208 rates[0] ac ag at cg ct gt: 1.939043 3.255731 0.87495 1.780242 2.692784 1
+raxmlboot.7230.c1c2-filterlen33/RAxML_info.score:alpha: 0.601349 rates[0] ac ag at cg ct gt: 2.361616 3.963308 0.879973 1.885131 2.690428 1
+raxmlboot.7231.c1c2-filterlen33/RAxML_info.score:alpha: 0.659252 rates[0] ac ag at cg ct gt: 1.828325 2.021131 1.07638 1.533781 3.026525 1
+raxmlboot.7242.c1c2-filterlen33/RAxML_info.score:alpha: 0.611235 rates[0] ac ag at cg ct gt: 1.297142 1.989812 0.643582 1.249559 2.729928 1
+raxmlboot.7245.c1c2-filterlen33/RAxML_info.score:alpha: 0.508883 rates[0] ac ag at cg ct gt: 2.05606 2.444839 1.138972 1.422401 2.806671 1
+raxmlboot.7250.c1c2-filterlen33/RAxML_info.score:alpha: 0.561196 rates[0] ac ag at cg ct gt: 2.284042 3.047849 1.195899 1.841544 3.235699 1
+raxmlboot.7255.c1c2-filterlen33/RAxML_info.score:alpha: 0.573697 rates[0] ac ag at cg ct gt: 1.855273 1.769131 0.983431 1.011487 3.6639 1
+raxmlboot.7260.c1c2-filterlen33/RAxML_info.score:alpha: 0.486465 rates[0] ac ag at cg ct gt: 2.895501 2.655339 1.321068 1.479136 2.697612 1
+raxmlboot.7268.c1c2-filterlen33/RAxML_info.score:alpha: 0.598872 rates[0] ac ag at cg ct gt: 1.76626 2.474357 1.327492 1.29058 3.373284 1
+raxmlboot.7269.c1c2-filterlen33/RAxML_info.score:alpha: 0.786044 rates[0] ac ag at cg ct gt: 2.340178 3.502351 1.696653 1.43509 3.152302 1
+raxmlboot.7285.c1c2-filterlen33/RAxML_info.score:alpha: 1.114083 rates[0] ac ag at cg ct gt: 1.800213 2.263169 1.069828 1.30503 2.763357 1
+raxmlboot.7289.c1c2-filterlen33/RAxML_info.score:alpha: 1.102990 rates[0] ac ag at cg ct gt: 1.170369 1.707315 0.681281 1.160082 2.194772 1
+raxmlboot.7296.c1c2-filterlen33/RAxML_info.score:alpha: 0.860442 rates[0] ac ag at cg ct gt: 1.750284 2.039697 1.127858 1.16177 2.912639 1
+raxmlboot.7300.c1c2-filterlen33/RAxML_info.score:alpha: 1.138705 rates[0] ac ag at cg ct gt: 1.850095 4.182746 0.89632 2.038862 2.690122 1
+raxmlboot.7302.c1c2-filterlen33/RAxML_info.score:alpha: 1.008855 rates[0] ac ag at cg ct gt: 1.958937 1.890509 1.356407 1.35296 3.414879 1
+raxmlboot.7303.c1c2-filterlen33/RAxML_info.score:alpha: 0.762028 rates[0] ac ag at cg ct gt: 2.287315 2.254391 1.475896 1.771308 3.994751 1
+raxmlboot.7310.c1c2-filterlen33/RAxML_info.score:alpha: 0.596854 rates[0] ac ag at cg ct gt: 2.833788 4.520276 1.646292 1.285636 4.363434 1
+raxmlboot.7312.c1c2-filterlen33/RAxML_info.score:alpha: 0.747314 rates[0] ac ag at cg ct gt: 2.869363 2.935512 1.15238 1.9856 3.476684 1
+raxmlboot.7314.c1c2-filterlen33/RAxML_info.score:alpha: 0.600946 rates[0] ac ag at cg ct gt: 3.136609 4.184993 1.846509 2.103763 3.117757 1
+raxmlboot.7318.c1c2-filterlen33/RAxML_info.score:alpha: 0.897285 rates[0] ac ag at cg ct gt: 2.959044 3.813559 1.212586 1.692484 2.973085 1
+raxmlboot.7320.c1c2-filterlen33/RAxML_info.score:alpha: 1.063558 rates[0] ac ag at cg ct gt: 1.500175 2.38697 1.144254 0.906083 2.214183 1
+raxmlboot.7321.c1c2-filterlen33/RAxML_info.score:alpha: 0.792418 rates[0] ac ag at cg ct gt: 2.315173 3.03704 1.092538 1.903683 2.854482 1
+raxmlboot.7329.c1c2-filterlen33/RAxML_info.score:alpha: 0.495703 rates[0] ac ag at cg ct gt: 2.567283 3.646423 0.853818 1.250404 2.597977 1
+raxmlboot.7358.c1c2-filterlen33/RAxML_info.score:alpha: 0.984242 rates[0] ac ag at cg ct gt: 1.377863 2.715684 0.891596 1.253648 1.714303 1
+raxmlboot.7368.c1c2-filterlen33/RAxML_info.score:alpha: 0.589125 rates[0] ac ag at cg ct gt: 2.676827 2.347912 1.579186 1.645423 2.953402 1
+raxmlboot.7369.c1c2-filterlen33/RAxML_info.score:alpha: 1.167991 rates[0] ac ag at cg ct gt: 0.988277 2.363693 0.965932 0.915354 1.839881 1
+raxmlboot.7371.c1c2-filterlen33/RAxML_info.score:alpha: 1.459501 rates[0] ac ag at cg ct gt: 2.112372 2.89223 1.178214 1.35396 2.644003 1
+raxmlboot.7376.c1c2-filterlen33/RAxML_info.score:alpha: 0.773077 rates[0] ac ag at cg ct gt: 2.078101 2.687172 0.729599 1.734046 3.412603 1
+raxmlboot.7378.c1c2-filterlen33/RAxML_info.score:alpha: 0.466264 rates[0] ac ag at cg ct gt: 3.020949 2.991144 1.854838 1.291059 3.287878 1
+raxmlboot.7379.c1c2-filterlen33/RAxML_info.score:alpha: 1.289296 rates[0] ac ag at cg ct gt: 2.821273 3.298939 0.949325 1.702694 3.119889 1
+raxmlboot.7381.c1c2-filterlen33/RAxML_info.score:alpha: 0.576435 rates[0] ac ag at cg ct gt: 2.765735 3.379128 1.402246 1.46709 3.209809 1
+raxmlboot.7386.c1c2-filterlen33/RAxML_info.score:alpha: 0.638736 rates[0] ac ag at cg ct gt: 3.250391 2.72165 2.059871 1.160041 2.301549 1
+raxmlboot.7392.c1c2-filterlen33/RAxML_info.score:alpha: 0.714685 rates[0] ac ag at cg ct gt: 2.226985 2.850238 1.291713 1.60256 3.37274 1
+raxmlboot.7398.c1c2-filterlen33/RAxML_info.score:alpha: 0.663715 rates[0] ac ag at cg ct gt: 1.921901 2.325555 1.236104 0.981018 3.363135 1
+raxmlboot.7402.c1c2-filterlen33/RAxML_info.score:alpha: 0.674795 rates[0] ac ag at cg ct gt: 2.298731 3.06204 1.334683 1.818922 3.252088 1
+raxmlboot.7407.c1c2-filterlen33/RAxML_info.score:alpha: 0.692116 rates[0] ac ag at cg ct gt: 1.793458 3.492529 1.103573 1.493516 2.852568 1
+raxmlboot.7408.c1c2-filterlen33/RAxML_info.score:alpha: 0.615944 rates[0] ac ag at cg ct gt: 3.452482 3.810474 1.070272 2.000959 4.655058 1
+raxmlboot.7412.c1c2-filterlen33/RAxML_info.score:alpha: 0.921252 rates[0] ac ag at cg ct gt: 0.626005 0.717379 0.516904 0.692508 0.943425 1
+raxmlboot.7418.c1c2-filterlen33/RAxML_info.score:alpha: 0.761272 rates[0] ac ag at cg ct gt: 1.185085 2.681472 1.087368 1.059186 2.243905 1
+raxmlboot.7420.c1c2-filterlen33/RAxML_info.score:alpha: 0.746135 rates[0] ac ag at cg ct gt: 1.253001 1.284626 0.796334 0.699449 1.277608 1
+raxmlboot.7425.c1c2-filterlen33/RAxML_info.score:alpha: 1.327316 rates[0] ac ag at cg ct gt: 2.295495 4.11517 1.447789 1.891087 2.698357 1
+raxmlboot.7457.c1c2-filterlen33/RAxML_info.score:alpha: 0.796190 rates[0] ac ag at cg ct gt: 1.096269 1.103297 0.923849 0.548619 1.512538 1
+raxmlboot.7486.c1c2-filterlen33/RAxML_info.score:alpha: 1.858811 rates[0] ac ag at cg ct gt: 1.446257 3.463349 0.91407 1.33074 2.508436 1
+raxmlboot.7487.c1c2-filterlen33/RAxML_info.score:alpha: 1.513475 rates[0] ac ag at cg ct gt: 1.453238 2.70539 0.972075 1.736266 3.485875 1
+raxmlboot.7489.c1c2-filterlen33/RAxML_info.score:alpha: 0.971687 rates[0] ac ag at cg ct gt: 2.619534 5.167573 1.30239 2.48649 3.397127 1
+raxmlboot.7490.c1c2-filterlen33/RAxML_info.score:alpha: 0.902952 rates[0] ac ag at cg ct gt: 1.5993 2.745402 0.820068 1.339899 3.778087 1
+raxmlboot.7510.c1c2-filterlen33/RAxML_info.score:alpha: 0.580625 rates[0] ac ag at cg ct gt: 2.254122 3.118458 1.149721 1.938543 3.155188 1
+raxmlboot.7511.c1c2-filterlen33/RAxML_info.score:alpha: 1.615424 rates[0] ac ag at cg ct gt: 1.947966 3.807126 1.099416 1.853051 3.028866 1
+raxmlboot.7514.c1c2-filterlen33/RAxML_info.score:alpha: 0.867013 rates[0] ac ag at cg ct gt: 2.106945 3.669053 1.287822 1.782136 2.625559 1
+raxmlboot.7518.c1c2-filterlen33/RAxML_info.score:alpha: 0.858437 rates[0] ac ag at cg ct gt: 1.888172 1.922203 1.616732 1.137704 3.288389 1
+raxmlboot.7522.c1c2-filterlen33/RAxML_info.score:alpha: 0.692799 rates[0] ac ag at cg ct gt: 1.691496 2.323795 1.142172 1.534209 2.137957 1
+raxmlboot.7523.c1c2-filterlen33/RAxML_info.score:alpha: 0.904860 rates[0] ac ag at cg ct gt: 2.152787 2.900983 1.06724 1.39813 3.212797 1
+raxmlboot.7536.c1c2-filterlen33/RAxML_info.score:alpha: 1.046058 rates[0] ac ag at cg ct gt: 2.134923 2.61077 1.1117 1.106871 2.908285 1
+raxmlboot.7544.c1c2-filterlen33/RAxML_info.score:alpha: 1.162528 rates[0] ac ag at cg ct gt: 2.208472 2.901803 1.240158 1.580627 3.321526 1
+raxmlboot.7549.c1c2-filterlen33/RAxML_info.score:alpha: 0.765886 rates[0] ac ag at cg ct gt: 1.945287 2.571257 1.110656 1.727218 1.936864 1
+raxmlboot.7552.c1c2-filterlen33/RAxML_info.score:alpha: 0.746708 rates[0] ac ag at cg ct gt: 2.410796 2.866204 0.913372 1.004085 1.825614 1
+raxmlboot.7553.c1c2-filterlen33/RAxML_info.score:alpha: 0.588902 rates[0] ac ag at cg ct gt: 1.880201 2.539964 0.863061 1.320875 2.145135 1
+raxmlboot.7559.c1c2-filterlen33/RAxML_info.score:alpha: 1.528809 rates[0] ac ag at cg ct gt: 1.530447 3.627522 0.929582 1.556963 2.493274 1
+raxmlboot.7563.c1c2-filterlen33/RAxML_info.score:alpha: 0.430001 rates[0] ac ag at cg ct gt: 4.622657 5.589892 1.590706 1.959276 4.990322 1
+raxmlboot.7566.c1c2-filterlen33/RAxML_info.score:alpha: 0.449881 rates[0] ac ag at cg ct gt: 2.110549 1.557949 0.780349 0.874343 2.055727 1
+raxmlboot.7569.c1c2-filterlen33/RAxML_info.score:alpha: 0.801558 rates[0] ac ag at cg ct gt: 0.906269 1.199148 0.537999 0.863788 1.624939 1
+raxmlboot.7596.c1c2-filterlen33/RAxML_info.score:alpha: 0.920085 rates[0] ac ag at cg ct gt: 2.332785 3.547324 1.196298 1.783409 2.838927 1
+raxmlboot.7601.c1c2-filterlen33/RAxML_info.score:alpha: 0.720510 rates[0] ac ag at cg ct gt: 2.051107 2.944818 0.879534 1.785106 2.43391 1
+raxmlboot.7603.c1c2-filterlen33/RAxML_info.score:alpha: 0.688775 rates[0] ac ag at cg ct gt: 2.338661 2.812624 1.224144 1.693672 2.371706 1
+raxmlboot.7617.c1c2-filterlen33/RAxML_info.score:alpha: 0.666727 rates[0] ac ag at cg ct gt: 1.608788 2.199106 0.670639 1.253475 2.117462 1
+raxmlboot.7624.c1c2-filterlen33/RAxML_info.score:alpha: 0.724848 rates[0] ac ag at cg ct gt: 2.115649 3.08257 1.274269 1.359674 2.31544 1
+raxmlboot.7627.c1c2-filterlen33/RAxML_info.score:alpha: 1.024475 rates[0] ac ag at cg ct gt: 1.631038 1.716919 0.590755 1.868545 2.795872 1
+raxmlboot.7630.c1c2-filterlen33/RAxML_info.score:alpha: 0.718739 rates[0] ac ag at cg ct gt: 1.949697 3.243805 1.157482 1.908719 3.217872 1
+raxmlboot.7640.c1c2-filterlen33/RAxML_info.score:alpha: 0.778918 rates[0] ac ag at cg ct gt: 2.289858 3.298926 0.983332 2.125344 3.007522 1
+raxmlboot.7657.c1c2-filterlen33/RAxML_info.score:alpha: 1.029500 rates[0] ac ag at cg ct gt: 1.324311 1.985678 0.846318 1.081989 2.224839 1
+raxmlboot.7667.c1c2-filterlen33/RAxML_info.score:alpha: 0.579288 rates[0] ac ag at cg ct gt: 4.150795 4.790613 1.745366 1.997452 2.763373 1
+raxmlboot.7670.c1c2-filterlen33/RAxML_info.score:alpha: 0.585937 rates[0] ac ag at cg ct gt: 1.55156 1.788227 0.970507 0.877509 1.697263 1
+raxmlboot.7684.c1c2-filterlen33/RAxML_info.score:alpha: 0.907098 rates[0] ac ag at cg ct gt: 1.831634 3.080134 1.095588 1.588871 3.155074 1
+raxmlboot.7711.c1c2-filterlen33/RAxML_info.score:alpha: 0.469270 rates[0] ac ag at cg ct gt: 3.050978 4.246267 0.865123 2.949825 4.432338 1
+raxmlboot.7714.c1c2-filterlen33/RAxML_info.score:alpha: 0.869144 rates[0] ac ag at cg ct gt: 2.525434 3.754948 1.175739 1.775744 3.264905 1
+raxmlboot.7719.c1c2-filterlen33/RAxML_info.score:alpha: 0.693640 rates[0] ac ag at cg ct gt: 2.095687 2.820824 1.705927 1.202209 3.662354 1
+raxmlboot.7720.c1c2-filterlen33/RAxML_info.score:alpha: 0.723779 rates[0] ac ag at cg ct gt: 4.167889 2.951439 1.482722 1.827248 4.428987 1
+raxmlboot.7726.c1c2-filterlen33/RAxML_info.score:alpha: 1.151801 rates[0] ac ag at cg ct gt: 1.818347 3.110301 1.168434 1.67264 2.020882 1
+raxmlboot.7747.c1c2-filterlen33/RAxML_info.score:alpha: 0.760028 rates[0] ac ag at cg ct gt: 1.956343 2.406263 1.008595 1.782647 2.333287 1
+raxmlboot.7756.c1c2-filterlen33/RAxML_info.score:alpha: 0.512415 rates[0] ac ag at cg ct gt: 2.258415 3.533003 1.98051 2.085481 4.782143 1
+raxmlboot.7760.c1c2-filterlen33/RAxML_info.score:alpha: 1.269259 rates[0] ac ag at cg ct gt: 2.397829 4.596759 1.697252 1.854429 3.491396 1
+raxmlboot.7808.c1c2-filterlen33/RAxML_info.score:alpha: 0.848000 rates[0] ac ag at cg ct gt: 1.038315 1.269581 0.68079 0.699462 1.348596 1
+raxmlboot.7822.c1c2-filterlen33/RAxML_info.score:alpha: 0.691563 rates[0] ac ag at cg ct gt: 2.745365 3.519825 1.744417 1.965182 2.858918 1
+raxmlboot.7830.c1c2-filterlen33/RAxML_info.score:alpha: 1.618672 rates[0] ac ag at cg ct gt: 1.178932 1.754746 0.797869 1.332111 2.364053 1
+raxmlboot.7831.c1c2-filterlen33/RAxML_info.score:alpha: 1.084923 rates[0] ac ag at cg ct gt: 1.98148 3.196742 1.210773 1.159187 1.946481 1
+raxmlboot.7832.c1c2-filterlen33/RAxML_info.score:alpha: 0.888357 rates[0] ac ag at cg ct gt: 2.178747 3.108434 1.415104 1.681481 3.156216 1
+raxmlboot.7865.c1c2-filterlen33/RAxML_info.score:alpha: 0.808128 rates[0] ac ag at cg ct gt: 1.446947 1.520726 0.952584 1.071637 2.792959 1
+raxmlboot.7868.c1c2-filterlen33/RAxML_info.score:alpha: 0.409956 rates[0] ac ag at cg ct gt: 1.885488 1.65408 0.846353 0.733453 1.346179 1
+raxmlboot.7924.c1c2-filterlen33/RAxML_info.score:alpha: 0.671347 rates[0] ac ag at cg ct gt: 3.607817 4.259189 1.42659 2.527605 3.959845 1
+raxmlboot.7947.c1c2-filterlen33/RAxML_info.score:alpha: 1.522889 rates[0] ac ag at cg ct gt: 1.78013 4.047389 0.96567 1.828196 2.607628 1
+raxmlboot.7968.c1c2-filterlen33/RAxML_info.score:alpha: 0.892233 rates[0] ac ag at cg ct gt: 1.981788 1.757062 0.946574 1.292598 2.430648 1
+raxmlboot.8121.c1c2-filterlen33/RAxML_info.score:alpha: 0.866789 rates[0] ac ag at cg ct gt: 1.657102 1.767763 0.823236 1.089503 3.259054 1
