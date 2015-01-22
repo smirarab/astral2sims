@@ -110,7 +110,7 @@ foreach my  $dir (@dirs)
 	@files=<g_trees*.trees>;
 	
 	$models="[TYPE] NUCLEOTIDE 1\n";
-	$settings="[SETTINGS]\n[randomseed] 2478\n[fileperrep] FALSE";
+	$settings="[SETTINGS]\n[randomseed] 2478\n[fileperrep] FALSE\n";
 	$trees='';
 	$partitions='';
 	$evolves='[EVOLVE] ';
