@@ -89,6 +89,7 @@ test $? == 0 || exit 1
 
 mv $fn.best.of.$REP.tre $out
 
+sed -i -e "s/jn2Ld9X_//g" $out
 tar cvfj logs.$fn.tar.bz --remove-files control-$fn-* $fn.tre.mpest.* $fn.*.mpest.out $fn.tre.best.mpest
 
 exit 0
