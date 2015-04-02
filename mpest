@@ -7,6 +7,10 @@ outdir=`dirname $2`
 out=`basename $2`
 fn=$out
 
+if [ -s $outdir/$out ]; then
+  echo "Final results file $out is already generated. Terminating without rerunning MP-EST."
+  exit 0;
+fi
 
 inn=`mktemp`
 sed -e "s/\([(,]\)\([0-9][^:]*\):/\1jn2Ld9X_\2:/g" $1 > $inn
@@ -23,10 +27,6 @@ REP=1
 test $# -gt 3 && REP=$3
 echo "$REP runs of MP-EST will be performed"
 
-if [ -s $out ]; then
-  echo "Final results file $out is already generated. Terminating without rerunning MP-EST."
-  exit 0;
-fi
 
 for x in `seq 1 $REP`; do
   grep "tree mpest" $fn.tre.mpest.$x
@@ -57,7 +57,7 @@ $species
 
    test $? == 1 || exit 1
 
-   mv $fn.tre $fn.tre.mpest.$x
+   mv $in.tre $fn.tre.mpest.$x
    grep "tree mpest" $fn.tre.mpest.$x
    test $? == 0 || exit 1
   done
