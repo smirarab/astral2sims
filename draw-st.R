@@ -14,7 +14,8 @@ rename<-list(
         "ASTRAL-II + true st"="astral-v474-p1-true","ASTRAL-II + true st"="astral-v476-p1-true",
         "ASTRAL-II (true gt)"="astral-v474-p1-truegenetrees",
         "ASTRAL-II + random resolution of polytomies"="astral-v474-p1-fullresolved",
-        "NJst"="njst","MRL"="mrl","Recursive-greedy" = "rgreedy", "Greedy"= "greedy","MP-EST"="mpest",
+        "NJst"="njst","NJst (true gt)"="njst.truegt","MRL"="mrl","Recursive-greedy" = "rgreedy", "Greedy"= "greedy",
+        "MP-EST"="mpest","MP-EST (true gt)"="mpest.truegt",
 	"CA-ML"="concatenatedtree")
 contl <- list("No-contraction"="-1","10%"="10","33%"="33","50%"="50")
 astralvars <- c("ASTRAL-II + true st","ASTRAL-II","ASTRAL-I")
@@ -45,60 +46,57 @@ draw <-function (sc,name,xfactor,xlab,ylab,ffactor=sc$genes,v="fn",tm=theme(lege
     dev.off()
 }
 
-draw2 <-function (sc,name,xlab,ylab,v="fn",thm=theme(legend.position="bottom")){
-}
-
 ############### load data ###################
-if (TRUE) {
-sc=read.csv("scores.stat",sep=" ",header=F)
-names(sc) <- c("taxa","height","rate","rep","method","genes","contract","all","fnc","fn","res","fpc","fp")
-levels(sc$method)<-rename
-sc$contract <- as.factor(sc$contract)
-levels(sc$contract) <- contl
-sc$inds = "1";sc[grep("-2",sc$taxa),"inds"] = "2";sc[grep("-5",sc$taxa),"inds"] = "5"
-levels(sc$taxa )<-list("50"="50","100"="100", "200"="200-2", "200"="200-5", "200"="200","500"="500", "1000"="1000")
-sc$rate<-factor(sc$rate,levels=c(1e-06,1e-07))
-sc$rf<-(sc$fn+sc$fp)/2
-#sc$genes<-as.factor(paste(sc$genes,"genes"))
-sc$genes<-as.factor(sc$genes)
-
-gt=read.csv("gt-err.stat",sep=" ",header=F);
-gt$V4<-as.factor(gt$V4);gt$V3<-factor(gt$V3,levels=c(1e-06, 1e-07));gt$V2<-as.factor(gt$V2);
-gt$rf=(gt$V8+gt$V11)/2
-gt.sum = summarySE(gt,measurevar="rf",groupvars=c("V1","V2","V3","V4"),na.rm=T,conf.interval=.95)
-names(gt.sum)<-c(names(sc)[1:4],"N","gtrf",names(gt.sum)[7:9])
-sc=merge(sc,gt.sum[,c(1:4,6)])
-sc$gterr="medium";sc[sc$gtrf>0.4,"gterr"]="high"; sc[sc$gtrf<=0.25,"gterr"]="low";
-sc$gterr <- factor(sc$gterr, levels=c("low","medium","high"))
-
-scd1 = sc[sc$taxa == 200 & sc$inds ==1 & sc$contract == "No-contraction",]
-scd2 = sc[sc$height == "2M" & sc$inds ==1 & sc$contract == "No-contraction" & sc$rate == 1e-06 ,]
-scm = scd1[scd1$method %in% methods,]
-scs = scd2[scd2$method %in% methods,]
-scv = scd1[scd1$method %in% astralvars ,]
-scvs = scd2[scd2$method %in% astralvars,]
-scvc = sc[sc$taxa == 200 & sc$inds ==1  & sc$method == "ASTRAL-II" ,]
-sciv = sc[sc$taxa == 200 & sc$contract == "No-contraction" & sc$height == "500K" & sc$rate == 1e-06 & sc$method %in% astralvars ,]
-
-rn=read.csv("runtime.stat",sep=" ",header=F);
-names(rn)<-c(names(sc)[1:7],"time","junk")
-rn$contract <- as.factor(rn$contract)
-levels(rn$contract) <- contl
-levels(rn$method)<-rename
-rn$inds = "1";rn[grep("-2",rn$taxa),"inds"] = "2";rn[grep("-5",rn$taxa),"inds"] = "5"
-levels(rn$taxa )<-list("50"="50","100"="100", "200"="200-2", "200"="200-5", "200"="200","500"="500", "1000"="1000")
-#rn$genes<-as.factor(paste(rn$genes,"genes"))
-rn$genes<-as.factor(rn$genes)
-rn$rate<-factor(rn$rate,levels=c(1e-06,1e-07))
-rn$time <- rn$time/3600
-rnv <- rn[rn$taxa == 200 & rn$inds ==1 & rn$method  %in% astralvars & rn$contract == "No-contraction",c(1:6,8)]
-rnvc <- rn[rn$taxa == 200 & rn$inds ==1 & rn$method  == "ASTRAL-II",c(1:7,8)]
-rnm <- rn[rn$taxa == 200 & rn$inds ==1 & rn$method %in% methods & rn$contract == "No-contraction",c(1:6,8)]
-rns <- rn[rn$height == "2M" & rn$inds ==1 & rn$rate == 1e-06 &  rn$method %in% methods & rn$contract == "No-contraction",c(1:6,8)];
-rnvs = rn[rn$height == "2M" & rn$inds ==1 & rn$rate == 1e-06 & rn$method %in% astralvars & rn$contract == "No-contraction",c(1:6,8)]
-
+if (TRUE){
+  print("reloading data ...")
+  sc=read.csv("scores.stat",sep=" ",header=F)
+  names(sc) <- c("taxa","height","rate","rep","method","genes","contract","all","fnc","fn","res","fpc","fp")
+  levels(sc$method)<-rename
+  sc$contract <- as.factor(sc$contract)
+  levels(sc$contract) <- contl
+  sc$inds = "1";sc[grep("-2",sc$taxa),"inds"] = "2";sc[grep("-5",sc$taxa),"inds"] = "5"
+  levels(sc$taxa )<-list("10"="10","50"="50","100"="100", "200"="200-2", "200"="200-5", "200"="200","500"="500", "1000"="1000")
+  sc$rate<-factor(sc$rate,levels=c(1e-06,1e-07))
+  sc$rf<-(sc$fn+sc$fp)/2
+  #sc$genes<-as.factor(paste(sc$genes,"genes"))
+  sc$genes<-as.factor(sc$genes)
+  
+  gt=read.csv("gt-err.stat",sep=" ",header=F);
+  gt$V4<-as.factor(gt$V4);gt$V3<-factor(gt$V3,levels=c(1e-06, 1e-07));gt$V2<-as.factor(gt$V2);
+  gt$rf=(gt$V8+gt$V11)/2
+  gt.sum = summarySE(gt,measurevar="rf",groupvars=c("V1","V2","V3","V4"),na.rm=T,conf.interval=.95)
+  names(gt.sum)<-c(names(sc)[1:4],"N","gtrf",names(gt.sum)[7:9])
+  sc=merge(sc,gt.sum[,c(1:4,6)])
+  sc$gterr="medium";sc[sc$gtrf>0.4,"gterr"]="high"; sc[sc$gtrf<=0.25,"gterr"]="low";
+  sc$gterr <- factor(sc$gterr, levels=c("low","medium","high"))
+  
+  scd1 = sc[sc$taxa == 200 & sc$inds ==1 & sc$contract == "No-contraction",]
+  scd2 = sc[sc$height == "2M" & sc$inds ==1 & sc$contract == "No-contraction" & sc$rate == 1e-06 ,]
+  scm = scd1[scd1$method %in% methods,]
+  scs = scd2[scd2$method %in% methods,]
+  scv = scd1[scd1$method %in% astralvars ,]
+  scvs = scd2[scd2$method %in% astralvars,]
+  scvc = sc[sc$taxa == 200 & sc$inds ==1  & sc$method == "ASTRAL-II" ,]
+  sciv = sc[sc$taxa == 200 & sc$contract == "No-contraction" & sc$height == "500K" & sc$rate == 1e-06 & sc$method %in% astralvars ,]
+  
+  rn=read.csv("runtime.stat",sep=" ",header=F);
+  names(rn)<-c(names(sc)[1:7],"time","junk")
+  rn$contract <- as.factor(rn$contract)
+  levels(rn$contract) <- contl
+  levels(rn$method)<-rename
+  rn$inds = "1";rn[grep("-2",rn$taxa),"inds"] = "2";rn[grep("-5",rn$taxa),"inds"] = "5"
+  levels(rn$taxa )<-list("10"="10","50"="50","100"="100", "200"="200-2", "200"="200-5", "200"="200","500"="500", "1000"="1000")
+  #rn$genes<-as.factor(paste(rn$genes,"genes"))
+  rn$genes<-as.factor(rn$genes)
+  rn$rate<-factor(rn$rate,levels=c(1e-06,1e-07))
+  rn$time <- rn$time/3600
+  rnv <- rn[rn$taxa == 200 & rn$inds ==1 & rn$method  %in% astralvars & rn$contract == "No-contraction",c(1:6,8)]
+  rnvc <- rn[rn$taxa == 200 & rn$inds ==1 & rn$method  == "ASTRAL-II",c(1:7,8)]
+  rnm <- rn[rn$taxa == 200 & rn$inds ==1 & rn$method %in% methods & rn$contract == "No-contraction",c(1:6,8)]
+  rns <- rn[rn$height == "2M" & rn$inds ==1 & rn$rate == 1e-06 &  rn$method %in% methods & rn$contract == "No-contraction",c(1:6,8)];
+  rnvs = rn[rn$height == "2M" & rn$inds ==1 & rn$rate == 1e-06 & rn$method %in% astralvars & rn$contract == "No-contraction",c(1:6,8)]
+  print("data reloaded ...")
 }
-
 ################## Draw "full" figures
 #draw(scv,"figs/st-astral_variant-ILS.pdf", with(scv,interaction(rate,height,sep="/")),"model condition (length/rate)","Species tree error (FN)",tm=th2)
 #draw(scvs,"figs/st-astral_variant-size.pdf", scvs$taxa,"number of taxa","Species tree error (FN)",tm=th2)
@@ -139,7 +137,7 @@ pdf("figs/methods-fn.pdf",width=8,height=4.8)
  dt=melt(data=dcast(scs,genes+rep+taxa~method,value.var="fn",drop=TRUE),id.vars=c("genes","rep","taxa"));
     ggplot(aes(x=genes,y=value,fill=variable),data=dt)+xlab(xlab)+ylab("Species tree topological error (FN)")+
     geom_boxplot(outlier.size=1.2,outlier.colour=rgb(0.01,.01,.01,.5),colour="black",position=position_dodge(.8))+
-    theme_bw()+scale_fill_brewer(name="",palette="BuPu")+facet_wrap(~taxa,nrow=2)+thm2
+    theme_bw()+scale_fill_brewer(name="",palette="BuPu")+facet_wrap(~taxa,nrow=2)+thm
 dev.off()
 
 pdf("figs/methods-rt.pdf",width=8,height=4.8)
@@ -150,12 +148,12 @@ pdf("figs/methods-rt.pdf",width=8,height=4.8)
  dt=melt(data=dcast(rns,genes+rep+taxa~method,value.var="time",drop=TRUE),id.vars=c("genes","rep","taxa"));
     ggplot(aes(x=genes,y=value,fill=variable),data=dt)+xlab(xlab)+ylab("Running time (hours)")+
     geom_boxplot(outlier.size=1.2,outlier.colour=rgb(0.01,.01,.01,.5),colour="black",position=position_dodge(.8))+
-    theme_bw()+scale_fill_brewer(name="",palette="BuPu")+facet_wrap(~taxa,scales="free",nrow=2)+thm2
+    theme_bw()+scale_fill_brewer(name="",palette="BuPu")+facet_wrap(~taxa,scales="free",nrow=2)+thm
 dev.off()
-pdf("figs/methods-size-rt.pdf",width=4,height=4)
+pdf("figs/methods-size-rt.pdf",width=5,height=4.5)
    qplot(taxa,value,stat="summary",fun.y=mean,data=dt,color=variable,linetype=variable,geom=c("point","line"),group=interaction(genes,variable),shape=genes)+
    xlab("number of taxa")+ylab("Running time (hours)")+theme_bw()+scale_color_brewer(name="method",palette="Dark2")+scale_linetype_discrete(name="method")+
-   theme(legend.position=c(.4,.8),legend.box.just=0,legend.direction=1)
+   theme(legend.position=c(.4,.82),legend.box.just=0,legend.direction=1)+scale_x_continuous(breaks=c(10,50,100,200,500,1000))
 dev.off()
 
 
@@ -201,11 +199,11 @@ pdf("figs/astral-variants.pdf",width=8,height=4)
  dt=melt(data=dcast(scvs,genes+rep+taxa~method,value.var="fn",drop=TRUE),id.vars=c("genes","rep","taxa"));
     ggplot(aes(x=genes,y=value,fill=variable),data=dt)+xlab(xlab)+ylab("Species tree topological error (FN)")+
     geom_boxplot(outlier.size=1.2,outlier.colour=rgb(0.01,.01,.01,.5),colour="black",position=position_dodge(.8))+
-    theme_bw()+scale_fill_brewer(name="",palette="BuGn")+facet_wrap(~taxa,scales="free",nrow=2)+thm2
+    theme_bw()+scale_fill_brewer(name="",palette="BuGn")+facet_wrap(~taxa,scales="free",nrow=2)+thm
  dt=melt(data=dcast(rnvs,genes+rep+taxa~method,value.var="time",drop=TRUE),id.vars=c("genes","rep","taxa"));
     ggplot(aes(x=genes,y=value,fill=variable),data=dt)+xlab(xlab)+ylab("Running time (hours)")+
     geom_boxplot(outlier.size=1.2,outlier.colour=rgb(0.01,.01,.01,.5),colour="black",position=position_dodge(.8))+
-    theme_bw()+scale_fill_brewer(name="",palette="BuGn")+facet_wrap(~taxa,scales="free",nrow=2)+thm2
+    theme_bw()+scale_fill_brewer(name="",palette="BuGn")+facet_wrap(~taxa,scales="free",nrow=2)+thm
 dev.off()
 pdf("figs/variants-size-rt.pdf",width=4,height=4)
    qplot(taxa,value,stat="summary",fun.y=mean,data=dt,color=variable,linetype=variable,geom=c("point","line"),group=interaction(genes,variable),shape=genes)+
@@ -251,7 +249,7 @@ pdf("figs/gt-vs-st.pdf",width=10,height=6)
     facet_grid(genes~height+rate)+geom_text(data=eq,aes(x = .4, y = .38,label=V1),size=2.5, parse = TRUE, inherit.aes=FALSE)+
     xlab("true versus estimated gene trees (normalized RF distance)")+ylab("Species tree error (normalized FN)")+ggtitle("CA-ML")
 dev.off()
-pdf("figs/gt-vs-st-mpest.pdf",width=8,height=5)
+pdf("figs/gt-vs-st-mpest.pdf",width=8,height=5.7)
  eq <- ddply(scs[scs$method=="MP-EST",],genes~taxa,lm_eqn)
     ggplot(aes(x=gtrf,y=rf),data=scs[scs$method=="MP-EST",])+theme_bw()+th1+geom_point(size=2,alpha=0.5)+geom_smooth(method=lm)+
     facet_grid(taxa~genes)+geom_text(data=eq,aes(x = .3, y = .42,label=V1),size=3.5, parse = TRUE, inherit.aes=FALSE)+
@@ -265,3 +263,6 @@ scs$fn=scs$fn*100; dc <- summarySE(scs,measurevar="fn",groupvars=c("taxa","genes
 tmp=recast(scv,genes+rate+height+rep~method, measure.var="fn"); tmp$delta=100*(tmp$`ASTRAL-I`-tmp$`ASTRAL-II`); dc <- summarySE(tmp,measurevar="delta",groupvars=c("genes","rate","height"),na.rm=F,conf.interval=.95); dc$sum=paste(format(dc$delta,digits=1),format(dc$se,digits=1),sep="$\\pm$");l<-latex(recast(genes~interaction(height,rate,sep="/"),measure.var="sum",data=dc),rowname=NULL,file="manuscript/astral-vars.tex",caption="Delta species tree error between ASTRAL-I and ASTRAL-II for dataset I. Average and standard errors are given for the difference between FN rates of ASTRAL-II and ASTRAL-I.",label="tab:varils")
 
 tmp=recast(scvs,genes+taxa+rep~method, measure.var="fn"); tmp$delta=100*(tmp$`ASTRAL-I`-tmp$`ASTRAL-II`); dc <- summarySE(tmp,measurevar="delta",groupvars=c("genes","taxa"),na.rm=F,conf.interval=.95); dc$sum=paste(format(dc$delta,digits=1),format(dc$se,digits=1),sep="$\\pm$");l<-latex(recast(genes~taxa,measure.var="sum",data=dc),rowname=NULL,file="manuscript/astral-vars-size.tex",caption="Delta species tree error between ASTRAL-I and ASTRAL-II for dataset II. Average and standard errors are given for the difference between FN rates of ASTRAL-II and ASTRAL-I.",label="tab:varsize")
+
+
+tmp=recast(height+rate+rep+genes+contract+gterr+gtrf~method,data=scd1[scd1$method %in% c("ASTRAL-II","NJst","ASTRAL-II (true gt)","NJst (true gt)"),],measure.var="rf");tmp[,8]=tmp[,8]-tmp[,9];tmp[,10]=tmp[,10]-tmp[,11]; delta=melt(id.vars=names(tmp)[1:7],tmp[,c(1:7,8,10)]);qplot(genes,value,fill=variable,position="dodge",data=delta,geom="bar",stat="summary",fun.y=mean,xlab="number of genes",ylab="delta tree error")+stat_sum_df(position=position_dodge(width=.9))+facet_grid(rate~height)+theme_bw()+scale_fill_manual(name="",values=c("lightseagreen","tomato"))+scale_y_continuous(labels=percent)+theme(legend.position=c(.11,.88))
